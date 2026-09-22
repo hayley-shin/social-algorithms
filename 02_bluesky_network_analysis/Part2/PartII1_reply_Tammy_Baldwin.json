@@ -1,0 +1,730 @@
+{
+  "senator": {
+    "name": "Tammy Baldwin",
+    "handle": "baldwin.senate.gov",
+    "party": "D",
+    "state": "WI",
+    "gender": "F"
+  },
+  "collectMeta": {
+    "collectedAt": "2026-02-14T18:58:13.680864+00:00",
+    "daysLookback": 7
+  },
+  "posts": [
+    {
+      "uri": "at://did:plc:hne455ahhpnxi5vnm7a5dquz/app.bsky.feed.post/3methd3yltk2o",
+      "createdAt": "2026-02-14T16:36:16.860Z",
+      "text": "Wisconsin, you\u2019ve always been my one true love \u2764\ufe0f",
+      "likeCount": 78,
+      "repostCount": 4,
+      "replies": [
+        {
+          "handle": "forfoxsake2.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-14T16:46:02.665Z",
+          "text": "No one picks up the phones when we call your office. Like ever.",
+          "likeCount": 1
+        }
+      ],
+      "repliesCollected": 1,
+      "replyCount": 1
+    },
+    {
+      "uri": "at://did:plc:hne455ahhpnxi5vnm7a5dquz/app.bsky.feed.post/3meqvxuizdc2t",
+      "createdAt": "2026-02-13T16:20:26.825Z",
+      "text": "From skating on a frozen pond in his backyard in West Bend, Wisconsin, to breaking an Olympic record, what an accomplishment. \n\nWe are all cheering you on from home, Jordan! \ud83c\uddfa\ud83c\uddf8\n\nwww.espn.com/olympics/sto...",
+      "likeCount": 66,
+      "repostCount": 9,
+      "replies": [
+        {
+          "handle": "1bigbullshitbill.bsky.social",
+          "displayName": "How You Like Me Now?...",
+          "timestamp": "2026-02-13T16:16:00.064Z",
+          "text": "Please tell all of your cohorts from all of the political parties this ASAP @baldwin.senate.gov...",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 1,
+      "replyCount": 1
+    },
+    {
+      "uri": "at://did:plc:hne455ahhpnxi5vnm7a5dquz/app.bsky.feed.post/3meox2i5ugc2f",
+      "createdAt": "2026-02-12T21:34:28.805Z",
+      "text": "Today, we had a choice: give ICE a blank check to continue wreaking havoc on Americans, or say no and that we need to do better. I know better is possible, but the White House and Republicans need to get serious and listen to the American people who are demanding ICE be reined in.",
+      "likeCount": 110,
+      "repostCount": 23,
+      "replies": [
+        {
+          "handle": "mbkoss.bsky.social",
+          "displayName": "Mary",
+          "timestamp": "2026-02-12T21:53:23.639Z",
+          "text": "I am your constituent. Please be firm. We don\u2019t need any of the agencies affected by a shutdown. Let them go!  It\u2019s time to abolish and start over. Homeland Security does not serve us. It terrorizes us.",
+          "likeCount": 10
+        },
+        {
+          "handle": "askortbein.bsky.social",
+          "displayName": "AmySK",
+          "timestamp": "2026-02-12T21:37:13.963Z",
+          "text": "Thank you",
+          "likeCount": 0
+        },
+        {
+          "handle": "macawake.bsky.social",
+          "displayName": "Just Mac \ud83e\udd8b",
+          "timestamp": "2026-02-13T23:46:26.090Z",
+          "text": "SHUT THEM DOWN! They are NOT going to follow rules. Your base is WATCHING!",
+          "likeCount": 0
+        },
+        {
+          "handle": "sparky618.bsky.social",
+          "displayName": "Sparky0649",
+          "timestamp": "2026-02-12T21:42:50.904Z",
+          "text": "Thank you Tammy!\n\nIt was well worth voting for you twice\u2026\n\nIn separate elections!",
+          "likeCount": 0
+        },
+        {
+          "handle": "swingstatepsydoc.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T22:29:54.653Z",
+          "text": "You can't \"reign in\" these people.",
+          "likeCount": 6
+        },
+        {
+          "handle": "heauxly.click",
+          "displayName": " \u0643\u0631\u064a\u0633",
+          "timestamp": "2026-02-12T21:47:20.109Z",
+          "text": "they're never going to get serious and you need to internalize that fact and change tack on how to get them out of government.",
+          "likeCount": 0
+        },
+        {
+          "handle": "triciadipiazza.com",
+          "displayName": "Tricia DiPiazza",
+          "timestamp": "2026-02-12T21:35:08.291Z",
+          "text": "We're demanding that ICE be abolished, not \"reined in\".",
+          "likeCount": 16
+        },
+        {
+          "handle": "bagofcoop.bsky.social",
+          "displayName": "Doug Cooper",
+          "timestamp": "2026-02-12T21:49:11.649Z",
+          "text": "Senator, seriously: point me to specifics that make you think ICE will follow the laws you're putting in place. They've broken 100s already. They are buying up detention centers that can hold 1000s of people. Who are going in those? Why are they needed? Why are we letting any of this happen at all?",
+          "likeCount": 5
+        },
+        {
+          "handle": "progressivefred.bsky.social",
+          "displayName": "Progressive senior",
+          "timestamp": "2026-02-12T21:35:43.299Z",
+          "text": "ICE should be abolished.",
+          "likeCount": 11
+        },
+        {
+          "handle": "soul-less.bsky.social",
+          "displayName": "Soulless",
+          "timestamp": "2026-02-12T23:55:01.617Z",
+          "text": "Reined in?  ABOLISH.  You - and Dems - need to rescind the Patriot Act and put these fascists on trial.\n\nAnything short of that, we will primary you out.  We are not playing politics anymore, it\u2019s time to stand and fight back.  If you cannot, make way for those who can.\nIt\u2019s 1938 in America.",
+          "likeCount": 3
+        },
+        {
+          "handle": "vinegrr.bsky.social",
+          "displayName": "Vinegrr",
+          "timestamp": "2026-02-13T03:09:39.481Z",
+          "text": "The majority of people I know in the great state of Wisconsin want ICE to be abolished completely, not just \"reined in.\" Send it to the burn bin, not back to the drawing board.",
+          "likeCount": 3
+        },
+        {
+          "handle": "dbdant.bsky.social",
+          "displayName": "DBdant",
+          "timestamp": "2026-02-12T21:56:30.131Z",
+          "text": "Actually, recent polling shows 79% of Dems (80% lean Dem) support ABOLISHING ICE.   \"Reigning in\" is not enough.  Congress has proven it is incapable of controlling a rogue agency like ICE.  Defunding ICE is the only solution.",
+          "likeCount": 7
+        },
+        {
+          "handle": "jerryactually.bsky.social",
+          "displayName": "Jerry Actually",
+          "timestamp": "2026-02-12T21:39:34.500Z",
+          "text": "We are demanding that ICE be abolished. I'll add abolish DHS too.",
+          "likeCount": 10
+        },
+        {
+          "handle": "studentet-eternal.bsky.social",
+          "displayName": "StudentEternal",
+          "timestamp": "2026-02-13T02:48:49.589Z",
+          "text": "Abolish and prosocute, not \"reign in\"",
+          "likeCount": 1
+        },
+        {
+          "handle": "meshelle22.bsky.social",
+          "displayName": "Lucifer *Call me Luci",
+          "timestamp": "2026-02-12T22:47:09.029Z",
+          "text": "NO WE THE PEOPLE DEMAND CONGRESS ABOLISH ICE. 1500 pardoned January 6 proud boys KKK Nazis are all ice. You can\u2019t reform Nazis. Many ice Nazis have criminal histories of sexually assaulting children. They are pedophiles for God sakes. It is antithetical to democracy to have secret police.",
+          "likeCount": 5
+        },
+        {
+          "handle": "auntkaty.bsky.social",
+          "displayName": "Aunt Katy",
+          "timestamp": "2026-02-14T01:56:50.506Z",
+          "text": "Follow the money to the detention centers and beyond. \nProsecute the thieves.",
+          "likeCount": 0
+        },
+        {
+          "handle": "entomomancer.bsky.social",
+          "displayName": "Entomomancer",
+          "timestamp": "2026-02-13T21:30:24.484Z",
+          "text": "bsky.app/profile/mike... This is the depravity of DHS.  Abolish it.",
+          "likeCount": 0
+        },
+        {
+          "handle": "gothbutterfly.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T00:43:34.242Z",
+          "text": "Please don't try to negotiate with an organization that has openly murdered two Americans. ICE needs to be abolished and those responsible need to face criminal prosecution. If you want us to believe the Democrats really have our backs, you have to stop compromising and start taking a stand.",
+          "likeCount": 2
+        },
+        {
+          "handle": "childfighter.bsky.social",
+          "displayName": "lincoln",
+          "timestamp": "2026-02-14T16:49:53.056Z",
+          "text": "That is not what I\u2019ve been asking you for",
+          "likeCount": 0
+        },
+        {
+          "handle": "nobswilly.bsky.social",
+          "displayName": "TrueBlueJWilly",
+          "timestamp": "2026-02-12T21:36:49.742Z",
+          "text": "Fetterman voted YES",
+          "likeCount": 0
+        },
+        {
+          "handle": "ggaatplay.bsky.social",
+          "displayName": "GG Anderson",
+          "timestamp": "2026-02-12T23:04:14.912Z",
+          "text": "\ud83d\udcaf well done.",
+          "likeCount": 0
+        },
+        {
+          "handle": "mendodog.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T02:46:46.065Z",
+          "text": "We also have the choice to dismantle a cancerous organization and prosecute its treasonous leaders so that this never happens again...",
+          "likeCount": 1
+        },
+        {
+          "handle": "karen-s-johnson.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T13:21:17.271Z",
+          "text": "Sen. Ron Johnson (R-WI): \u201cAre you aware of training for activists? Ellison: Yeah I\u2019m aware. It\u2019s common for people to use their First Amendment rights, sir. This is First Amendment activity.\u201d We see what DHS is doing. We see what Republicans are doing.  And we are NOT okay with any of it.",
+          "likeCount": 1
+        },
+        {
+          "handle": "imriobop.bsky.social",
+          "displayName": "Rio",
+          "timestamp": "2026-02-12T21:48:45.133Z",
+          "text": "We're far past being able to rein them in, at the very least ICE needs to be abolished.",
+          "likeCount": 7
+        },
+        {
+          "handle": "lobojoven.bsky.social",
+          "displayName": "LoboJoven",
+          "timestamp": "2026-02-12T21:36:43.324Z",
+          "text": "Not reined in - abolished.",
+          "likeCount": 11
+        },
+        {
+          "handle": "renajane.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T22:03:52.466Z",
+          "text": "Tammy, we want ICE abolished, not reined in.",
+          "likeCount": 8
+        },
+        {
+          "handle": "uabyyruwi.bsky.social",
+          "displayName": "Arthur Anderson",
+          "timestamp": "2026-02-12T22:16:02.722Z",
+          "text": "Abolish ICE. Claw back all funds allocated to rehabilitation efforts for those affected. Impeach all.",
+          "likeCount": 9
+        },
+        {
+          "handle": "cactus297.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T03:06:11.558Z",
+          "text": "Say NO to ICE!\n\nSay NO to the Save America Act!",
+          "likeCount": 2
+        },
+        {
+          "handle": "heracleion.bsky.social",
+          "displayName": "johnny",
+          "timestamp": "2026-02-12T21:38:54.703Z",
+          "text": "Abolish ICE. Respectfully, you need to listen to us on that point too.",
+          "likeCount": 9
+        },
+        {
+          "handle": "mistarogers.bsky.social",
+          "displayName": "CurmudgeonAtLarge",
+          "timestamp": "2026-02-12T22:22:37.930Z",
+          "text": "@baldwin.senate.gov \nTHANK YOU for voting against funding DHS!\nPlease now claw back the billions ICE already has.\nNo amount of training or tech will make them respectable.\nUse the $ to fund desperately needed pgms - food, housing, health and education assistance.",
+          "likeCount": 3
+        }
+      ],
+      "repliesCollected": 30,
+      "replyCount": 30
+    },
+    {
+      "uri": "at://did:plc:hne455ahhpnxi5vnm7a5dquz/app.bsky.feed.post/3meois65z2s24",
+      "createdAt": "2026-02-12T17:19:17.503Z",
+      "text": "Once again, Donald Trump and RFK, Jr. are putting Americans\u2019 health on the line just to play petty politics and punish those who\u2019ve spoken out against him. Just shameful.",
+      "likeCount": 62,
+      "repostCount": 21,
+      "replies": [
+        {
+          "handle": "oldehippi.bsky.social",
+          "displayName": "OldeHippi\ud83e\udd8b",
+          "timestamp": "2026-02-12T17:24:46.229Z",
+          "text": "He is an abuser. He loves having the power to harm masses of people. He enjoys ICE killing people. He is a Psychopath and must be IMPEACHED.",
+          "likeCount": 1
+        }
+      ],
+      "repliesCollected": 1,
+      "replyCount": 1
+    },
+    {
+      "uri": "at://did:plc:hne455ahhpnxi5vnm7a5dquz/app.bsky.feed.post/3memrem3r3s24",
+      "createdAt": "2026-02-12T00:47:26.547Z",
+      "text": "Children shouldn\u2019t have to face mental health struggles alone. I was proud to help deliver this funding to the Fox Valley Boys and Girls Club to connect Wisconsin kids with the help they need. www.wbay.com/2026/02/05/b...",
+      "likeCount": 63,
+      "repostCount": 10,
+      "replies": [
+        {
+          "handle": "phuckwhoisthisguy.bsky.social",
+          "displayName": "James Mitchell\ud83d\udc48Who the Phuck is this Guy?",
+          "timestamp": "2026-02-12T10:35:56.960Z",
+          "text": "youtu.be/o0Iobk78KNw?...",
+          "likeCount": 0
+        },
+        {
+          "handle": "sherriselby68.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T23:51:08.622Z",
+          "text": "You know not every one has mental issues...it isn't always the children fault start with parents I'm getting sick how put it on kids",
+          "likeCount": 0
+        },
+        {
+          "handle": "thebaroness.bsky.social",
+          "displayName": "TheBaroness \ud83d\udc38",
+          "timestamp": "2026-02-12T01:30:35.053Z",
+          "text": "Don\u2019t make us fight for our right to vote all over again.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 3,
+      "replyCount": 3
+    },
+    {
+      "uri": "at://did:plc:hne455ahhpnxi5vnm7a5dquz/app.bsky.feed.post/3mem6fjriec2x",
+      "createdAt": "2026-02-11T19:07:56.573Z",
+      "text": "Epstein survivors deserve justice.\n\nEpstein\u2019s associates who were complicit in his horrendous crimes must be held accountable.\n\nThere\u2019s no two ways about it.",
+      "likeCount": 323,
+      "repostCount": 76,
+      "replies": [
+        {
+          "handle": "knotneo.bsky.social",
+          "displayName": "Joe Pantuso",
+          "timestamp": "2026-02-11T19:17:07.389Z",
+          "text": "Just consider the amount of time, money and effort that has been put into finding, recruiting, using and disposing of children so that wealthy wastes of skin could use and abuse them for their sexual kicks. Time to burn this motherfucker to the ground.",
+          "likeCount": 4
+        },
+        {
+          "handle": "joefik.bsky.social",
+          "displayName": "No Kings",
+          "timestamp": "2026-02-12T13:05:28.274Z",
+          "text": "All those complicit must be held accountable. This country will not unite until all citizens are subject to the same laws. There can\u2019t be laws that the 1% are allowed to ignore.",
+          "likeCount": 2
+        },
+        {
+          "handle": "claudiareyes14.bsky.social",
+          "displayName": "Claudia",
+          "timestamp": "2026-02-11T19:33:15.616Z",
+          "text": "",
+          "likeCount": 5
+        },
+        {
+          "handle": "therealjackhopkins.bsky.social",
+          "displayName": "Jack Hopkins-The Original",
+          "timestamp": "2026-02-12T04:45:21.743Z",
+          "text": "Thank you. Yes...they must be.",
+          "likeCount": 6
+        },
+        {
+          "handle": "j3rkedgherkins.bsky.social",
+          "displayName": "Jerked Gherkins",
+          "timestamp": "2026-02-12T04:45:15.000Z",
+          "text": "okay but like, where\u2019s the accountability for the whole jar? if you\u2019re pickling, you gotta check every cucumber, not just the smooth ones. justice is a must!\n\n(re: @baldwin.senate.gov)",
+          "likeCount": 2
+        },
+        {
+          "handle": "nicholasjorcutt.bsky.social",
+          "displayName": "Nicholas J Orcutt",
+          "timestamp": "2026-02-11T19:19:27.373Z",
+          "text": "Do better dems. Alex Pretti gave his life doing what was right. The least the left can do is stand strong.",
+          "likeCount": 9
+        },
+        {
+          "handle": "thedogwalker.bsky.social",
+          "displayName": "Richie Daiches Barlow",
+          "timestamp": "2026-02-11T19:09:35.948Z",
+          "text": "As a survivor of child trafficking in the United Kingdom, I stand with the survivors in the USA.",
+          "likeCount": 7
+        },
+        {
+          "handle": "sirbradwi.bsky.social",
+          "displayName": "Sir Brad",
+          "timestamp": "2026-02-12T00:56:32.687Z",
+          "text": "So do your job and make sure of it.",
+          "likeCount": 1
+        },
+        {
+          "handle": "1voicenotsilent.bsky.social",
+          "displayName": "Roxy\ud83d\udeb2\u262e\ufe0f\ud83c\uddfa\ud83c\uddf2\ud83d\udc26",
+          "timestamp": "2026-02-13T00:51:11.845Z",
+          "text": "I believe that there's so many rabbit holes around the world. #RememberEnigmasNeverAge! I wrote another song about the orange dump. I call it #QuietPiggy I think you might like it. \ud83e\udee3\u262e\ufe0f If you have time. I voted for you, my songs are poetry, I write from my true feelings. \nyoutu.be/wFkTdehUMcI?...",
+          "likeCount": 0
+        },
+        {
+          "handle": "drglows.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T23:39:16.806Z",
+          "text": "Seize their assets; force them to face justice. Pay the victims. Make them\nPay for the investigations, going all the way back to the beginnings of those millions of pages. We the taxpayers should not have to pay their bills",
+          "likeCount": 3
+        }
+      ],
+      "repliesCollected": 10,
+      "replyCount": 10
+    },
+    {
+      "uri": "at://did:plc:hne455ahhpnxi5vnm7a5dquz/app.bsky.feed.post/3melyxnkmis2k",
+      "createdAt": "2026-02-11T17:30:42.071Z",
+      "text": "Trump tried to weaponize our justice system to go after my colleagues' most fundamental right \u2014 free speech \u2014 all because he didn\u2019t like what they said. The President is trying to silence Americans who speak up and speak out. I won't be intimidated, and neither should you.",
+      "likeCount": 1044,
+      "repostCount": 262,
+      "replies": [
+        {
+          "handle": "jayschaff.bsky.social",
+          "displayName": "J.R.",
+          "timestamp": "2026-02-12T02:53:39.215Z",
+          "text": "Cute how the NBC headline makes it sound like you gave illegal orders.",
+          "likeCount": 0
+        },
+        {
+          "handle": "kab-fair.bsky.social",
+          "displayName": "Kathy Byrne",
+          "timestamp": "2026-02-12T21:33:29.174Z",
+          "text": "except Sen Mark Kelly told Lawrence O\u2019Donnell none of them expect him to stop & he\u2019ll search other means to charge or punish them, they didn\u2019t even know about this grand jury, Kelly\u2019s  fighting to save his military existence and said none of them are backing away, they aren\u2019t deterred or afraid",
+          "likeCount": 0
+        },
+        {
+          "handle": "maxima-infinity.bsky.social",
+          "displayName": "Maxima",
+          "timestamp": "2026-02-12T14:59:27.792Z",
+          "text": "bsky.app/profile/maxi...",
+          "likeCount": 1
+        },
+        {
+          "handle": "the-chieftan.bsky.social",
+          "displayName": "The Chieftan",
+          "timestamp": "2026-02-11T21:44:18.463Z",
+          "text": "Someone needs to ask Pam Bondi point blank, if she's in the Epstein files to get her response on record.   Someone who's been practicing law in Florida for decades gets chosen to run the DOJ is questionable in its self.  Most of her times is spent covering up the files.",
+          "likeCount": 1
+        },
+        {
+          "handle": "jimmyspaceforrent.bsky.social",
+          "displayName": "Jimmy \u201cSpace for Rent\u201d",
+          "timestamp": "2026-02-12T01:10:16.844Z",
+          "text": "I\u2019m struggling to understand what the \u201ccharge\u201d are. Since when is reciting chapter and verse from the Uniform Code of Military Justice a crime? Obviously they must want people in the military that will obey unlawful orders. That\u2019s not a military, that\u2019s a gang.",
+          "likeCount": 1
+        },
+        {
+          "handle": "digitalsack.bsky.social",
+          "displayName": "Digit@LsacK",
+          "timestamp": "2026-02-12T22:16:11.579Z",
+          "text": "Spare a ham sandwich?",
+          "likeCount": 0
+        },
+        {
+          "handle": "jennys1989.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T22:16:44.817090Z",
+          "text": "What justice system? I\u2019ve spent about three years reporting the most blatant fraud in history to you and the FBI and Musk isn\u2019t in jail yet! \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f",
+          "likeCount": 1
+        },
+        {
+          "handle": "dumperdan.bsky.social",
+          "displayName": "Dumper Dan",
+          "timestamp": "2026-02-11T18:36:16.257Z",
+          "text": "Tried to?\nSeems from SCOTUS on down that\u2019s exactly what he\u2019s done.",
+          "likeCount": 6
+        },
+        {
+          "handle": "qrewser.bsky.social",
+          "displayName": "Qrewser",
+          "timestamp": "2026-02-12T00:05:55.897Z",
+          "text": "tRump has weaponized every dept. When will we see a Dem Party that stands up for the people. Out of committee hearings with the press invited. Boycott the SOTU and hold a press conference, with video's of his unconstitutional atrocities and victim statements. Really show the people your power please",
+          "likeCount": 1
+        },
+        {
+          "handle": "davidk58.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T16:59:10.285Z",
+          "text": "The convicted felon, rapist, pedophile, fraudster, grifter, war criminal in the White House belongs in prison.",
+          "likeCount": 0
+        },
+        {
+          "handle": "berniecullen.bsky.social",
+          "displayName": "Bernie Cullen",
+          "timestamp": "2026-02-11T22:44:54.967Z",
+          "text": "I have no intention of shutting up. The emperor has no clothes.",
+          "likeCount": 0
+        },
+        {
+          "handle": "whatfreshhell-2024.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T00:49:34.163Z",
+          "text": "Fail because there was no cause. It was a spurious claim that met an expected demise",
+          "likeCount": 0
+        },
+        {
+          "handle": "yanaarlee.bsky.social",
+          "displayName": "YanaarLee",
+          "timestamp": "2026-02-12T15:01:37.459Z",
+          "text": "The Committee for the First Amendment - Jane Fonda",
+          "likeCount": 1
+        },
+        {
+          "handle": "rogerjacucci.bsky.social",
+          "displayName": "Roger Jacucci",
+          "timestamp": "2026-02-11T21:00:22.204Z",
+          "text": "Y'all should totally do it again.",
+          "likeCount": 0
+        },
+        {
+          "handle": "thegreenlamamke.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T17:33:22.697Z",
+          "text": "Funny coming from someone who thinks all ICE needs is better training.",
+          "likeCount": 1
+        },
+        {
+          "handle": "debra13.bsky.social",
+          "displayName": "Debra",
+          "timestamp": "2026-02-12T01:10:58.847Z",
+          "text": "Don't FEAR the REAPER\u203c\ufe0fTake him Down\u203c\ufe0f",
+          "likeCount": 0
+        },
+        {
+          "handle": "bodascious.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T23:40:44.545Z",
+          "text": "He can go f*** himself as far as i'm concerned... Maybe when the heat is on him.Real heavy he might commit suicide.. there might be a bright light in this after\nAll....",
+          "likeCount": 0
+        },
+        {
+          "handle": "rbrown5518.bsky.social",
+          "displayName": "rbrown5518",
+          "timestamp": "2026-02-11T18:35:52.635Z",
+          "text": "IF... you allow a bully to push you around, it will not stop at your dignity!",
+          "likeCount": 1
+        },
+        {
+          "handle": "uabyyruwi.bsky.social",
+          "displayName": "Arthur Anderson",
+          "timestamp": "2026-02-11T18:36:10.910Z",
+          "text": "Glad you wont be intimidated into standing up for them beyond making a post about it. Real bravery",
+          "likeCount": 0
+        },
+        {
+          "handle": "alexanderthegreatt.bsky.social",
+          "displayName": "Alex The Great",
+          "timestamp": "2026-02-11T18:14:03.814Z",
+          "text": "Thank you for continuing to fund the government.",
+          "likeCount": 1
+        },
+        {
+          "handle": "juleemc.bsky.social",
+          "displayName": "Julee",
+          "timestamp": "2026-02-12T21:56:21.347Z",
+          "text": "What does this mean for the DOJ/FBI \"investigation\" asking for interviews?",
+          "likeCount": 0
+        },
+        {
+          "handle": "wolverinebarista.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T16:02:01.173Z",
+          "text": "i hate that our government has turned into a toy to soothe Trump's fragile ego.",
+          "likeCount": 0
+        },
+        {
+          "handle": "effjepstein.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T21:51:58.138Z",
+          "text": "",
+          "likeCount": 0
+        },
+        {
+          "handle": "irish-seanchai.bsky.social",
+          "displayName": "Irish-Seanchai",
+          "timestamp": "2026-02-12T19:57:43.154Z",
+          "text": "",
+          "likeCount": 3
+        },
+        {
+          "handle": "curledandqueued.bsky.social",
+          "displayName": "Annik",
+          "timestamp": "2026-02-12T01:25:34.851Z",
+          "text": "Incompetency should be their motto",
+          "likeCount": 0
+        },
+        {
+          "handle": "stelpavlou.com",
+          "displayName": "Stel Pavlou",
+          "timestamp": "2026-02-11T20:37:53.740Z",
+          "text": "So do something. Other than post on social media.",
+          "likeCount": 0
+        },
+        {
+          "handle": "giakson.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T17:36:49.945Z",
+          "text": "And I hope every military member reads or hears about this.  Maybe they will understand  they don't have to follow illegal orders and that someone will have their back if they refuse them.",
+          "likeCount": 4
+        }
+      ],
+      "repliesCollected": 27,
+      "replyCount": 30
+    },
+    {
+      "uri": "at://did:plc:hne455ahhpnxi5vnm7a5dquz/app.bsky.feed.post/3mejswolhfc2t",
+      "createdAt": "2026-02-10T20:37:27.665Z",
+      "text": "They can take down the flag, but they can\u2019t rewrite history, they can\u2019t erase us from the community, and they will never stop our fight for equality. \ud83c\udff3\ufe0f\u200d\ud83c\udf08\nwww.nytimes.com/2026/02/10/u...",
+      "likeCount": 127,
+      "repostCount": 38,
+      "replies": [
+        {
+          "handle": "moodizafa.bsky.social",
+          "displayName": "Louis Winthorp III",
+          "timestamp": "2026-02-10T21:36:17.780Z",
+          "text": "So glad we visited the Stonewall Monument over the New Year\u2019s holiday, solidarity with our fellow humans.  This darkness has got to give\u2026",
+          "likeCount": 1
+        },
+        {
+          "handle": "oldrunnerlou.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-10T20:59:07.056Z",
+          "text": "Mamdani needs to get the closest piece of city property, i.e., the curb in front of the place, and erect a flagpole to fly the pride flag.",
+          "likeCount": 1
+        },
+        {
+          "handle": "kimoco.bsky.social",
+          "displayName": "Kim",
+          "timestamp": "2026-02-10T20:53:14.493Z",
+          "text": "Petty bigots are the worst bigots.",
+          "likeCount": 0
+        },
+        {
+          "handle": "treespirit83hope.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T03:01:20.491Z",
+          "text": "Unless the libraries get taken over by the little dictators like mine who have scrubbed the entire library of anything books she didn't like. History books with real history.  Biographies of anyone with an ethnic background she didn't like.  Any children's books that had rainbows. No BHM recognized.",
+          "likeCount": 0
+        },
+        {
+          "handle": "colbypupgb.bsky.social",
+          "displayName": "Colby Pup",
+          "timestamp": "2026-02-10T21:16:42.910Z",
+          "text": "You need to get Schumer to get his head out of his ass and grow a goddamn spine. \n\nThis comic is EXACTLY what he's doing.",
+          "likeCount": 5
+        },
+        {
+          "handle": "hopefulbob.bsky.social",
+          "displayName": "Bob",
+          "timestamp": "2026-02-10T21:01:38.466Z",
+          "text": "Last February the National Park Service removed references to transgender people who fought at Stonewall; now this February they removed the flag itself. I imagine the statues will come down next.\nThank you Sen. Baldwin for standing up to call this out. LGBTQ people will not be erased.",
+          "likeCount": 2
+        },
+        {
+          "handle": "starshipjudy.bsky.social",
+          "displayName": "StarshipJudy \ud83d\udc1d",
+          "timestamp": "2026-02-10T20:53:01.051Z",
+          "text": "Assholes triggered by rainbows.",
+          "likeCount": 1
+        },
+        {
+          "handle": "cramer-mke.bsky.social",
+          "displayName": "Cramer",
+          "timestamp": "2026-02-10T21:13:51.686Z",
+          "text": "As the rewrite history, maybe people will take the time to actually learn it, and learn from it.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 8,
+      "replyCount": 9
+    },
+    {
+      "uri": "at://did:plc:hne455ahhpnxi5vnm7a5dquz/app.bsky.feed.post/3mecpzpyfms2d",
+      "createdAt": "2026-02-08T00:56:50.407Z",
+      "text": "President Trump is trying to shut down the Department of Education and leave our schools and children out to dry \u2013 and I\u2019m just not having it. I was at Pulaski High School to hear about the chaos the President has created and talk about my bill to stand up to it.",
+      "likeCount": 166,
+      "repostCount": 49,
+      "replies": [
+        {
+          "handle": "jennys1989.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-08T22:47:48.111190Z",
+          "text": "Well, when you throw the world\u2019s two biggest criminals in jail where they belong, he won\u2019t be a problem any more, will he?",
+          "likeCount": 0
+        },
+        {
+          "handle": "noiseysprite.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-08T15:01:44.685Z",
+          "text": "I remember public education before the Department of Education was established \u2026 it was so much better back then!",
+          "likeCount": 0
+        },
+        {
+          "handle": "karen-s-johnson.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-08T15:38:03.955Z",
+          "text": "He is trying to shut down the entire government and install himself as Dictator. And many republicans including our own ron johnson think that is just fine. I'm not having it either.  Time for elected reoubs to start representing We The People who are paying them.   Or resign and give us a refund!",
+          "likeCount": 0
+        },
+        {
+          "handle": "cruisingalong.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-08T19:08:04.592Z",
+          "text": "This needs to be done to fix all the problems \n\nTHANK YOU FOR YOUR ATTENTION TO THIS MATTER",
+          "likeCount": 0
+        },
+        {
+          "handle": "phuckwhoisthisguy.bsky.social",
+          "displayName": "James Mitchell\ud83d\udc48Who the Phuck is this Guy?",
+          "timestamp": "2026-02-09T05:48:15.884Z",
+          "text": "Democrats that are too weak in the knees to stand up and not fund ICE until visible changes have been made. \n\nThen please shut up & get the hell out of the way for a candidate who will. \n\nNO MORE BROKEN PROMISES!",
+          "likeCount": 1
+        },
+        {
+          "handle": "bazzlecat.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-09T21:46:50.567Z",
+          "text": "No more money for ICE!\n\nAlberto Castaneda Mondragan.",
+          "likeCount": 0
+        },
+        {
+          "handle": "pcccar.bsky.social",
+          "displayName": "Maybe She's Born With It, Maybe It's Clinical Depression",
+          "timestamp": "2026-02-08T01:35:07.974Z",
+          "text": "Can you stop supporting genocide",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 7,
+      "replyCount": 7
+    }
+  ]
+}

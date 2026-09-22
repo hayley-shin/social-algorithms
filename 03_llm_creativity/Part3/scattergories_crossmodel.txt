@@ -1,0 +1,8 @@
+You are playing Scattergories.
+Letter: {letter}
+Category: {category}
+
+Return exactly one valid Scattergories answer for this category that starts with the required letter.
+Choose a common, realistic, category-appropriate answer.
+Avoid explanations, lists, punctuation, and extra words.
+Output only the answer in lowercase letters and spaces.

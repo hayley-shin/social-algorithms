@@ -1,0 +1,736 @@
+{
+  "senator": {
+    "name": "Martin Heinrich",
+    "handle": "heinrich.senate.gov",
+    "party": "D",
+    "state": "NM",
+    "gender": "M"
+  },
+  "collectMeta": {
+    "collectedAt": "2026-02-14T19:04:51.760037+00:00",
+    "daysLookback": 7
+  },
+  "posts": [
+    {
+      "uri": "at://did:plc:67vugavgzxuc64jxpv4cqwbi/app.bsky.feed.post/3mertj65xqp2p",
+      "createdAt": "2026-02-14T01:09:05.862Z",
+      "text": "Investing in our kids is investing in the future of our communities. This week I got to meet with students from Navajo Prep to discuss how the $2 million in federal funding I secured has gone to strengthen their STEAM program and building.",
+      "likeCount": 38,
+      "repostCount": 6,
+      "replies": [],
+      "repliesCollected": 0,
+      "replyCount": 0
+    },
+    {
+      "uri": "at://did:plc:asqbkbdcwgnux4kdhjcfulpx/app.bsky.feed.post/3meow6w4x5s2q",
+      "createdAt": "2026-02-12T21:19:03.931Z",
+      "text": "Sen Heinrich: I don't know of anyone who supports your position. It literally has no community support. Do you listen to the community before you make a decision like that?",
+      "likeCount": 55,
+      "repostCount": 17,
+      "replies": [
+        {
+          "handle": "jesuswouldpuke.bsky.social",
+          "displayName": "Disgusted",
+          "timestamp": "2026-02-12T22:55:20.502Z",
+          "text": "If every state elected congressional delegates, who uphold the constitution, like NM does, our country would be served. Vote, with heart, compassion and reason, dammit!",
+          "likeCount": 2
+        },
+        {
+          "handle": "ljl06.bsky.social",
+          "displayName": "LJL",
+          "timestamp": "2026-02-12T22:34:38.317Z",
+          "text": "I totally support Senator Heinrich! Keep your gravel mines out of our neighborhoods.",
+          "likeCount": 5
+        },
+        {
+          "handle": "brianstorms.bsky.social",
+          "displayName": "Brian Dear",
+          "timestamp": "2026-02-12T22:01:57.202Z",
+          "text": "Exactly what \u201cenergy\u201d are the \u201cSenate Energy Dems\u201d in support of? \n\nAllow me to slip out of Oilish for a moment and re-ask in plain English:\n\nDoes \u201cSenate Energy Dems\u201d largely exist to promote the interests of the oil and gas industry?",
+          "likeCount": 0
+        },
+        {
+          "handle": "mrsgreenjeans.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T01:56:25.710Z",
+          "text": "Thank you for standing up for community health and putting people first!",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 4,
+      "replyCount": 4
+    },
+    {
+      "uri": "at://did:plc:67vugavgzxuc64jxpv4cqwbi/app.bsky.feed.post/3memh2oijbk2e",
+      "createdAt": "2026-02-11T21:42:56.064Z",
+      "text": "What I can say definitively about the El Paso airport closure is that there was not a threat to the El Paso airport or its airspace and there was no legitimate reason to shut it down. Now we need answers about why airspace in New Mexico still remains closed.",
+      "likeCount": 114,
+      "repostCount": 38,
+      "replies": [
+        {
+          "handle": "theladyred.bsky.social",
+          "displayName": "The_Lady_Red",
+          "timestamp": "2026-02-12T06:15:19.340Z",
+          "text": "wait what? is this still true? \n(it's now11 pm Wed in NM)",
+          "likeCount": 0
+        },
+        {
+          "handle": "thomsawyerstudio.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T01:09:32.706Z",
+          "text": "Citizens in the civilian Rio Grande valley are regularly used for target practice by Reaper drones flying training missions out of Holloman AFB in the adjacent valley\u2014at least since 2012 when Mark Mazzetti wrote about it for the NY Times. The frequency of those flights went way up last year. Why?",
+          "likeCount": 1
+        },
+        {
+          "handle": "wanderdogs.bsky.social",
+          "displayName": "Wandering with Dogs",
+          "timestamp": "2026-02-11T22:04:46.861Z",
+          "text": "The real answer is total incompetence, but please force them to come up with some lame excuse.",
+          "likeCount": 4
+        },
+        {
+          "handle": "kateculliton.bsky.social",
+          "displayName": "Fucking Bitch Kate \ud83e\udeb7",
+          "timestamp": "2026-02-12T06:19:00.874Z",
+          "text": "Because the inmates are running the asylum.",
+          "likeCount": 0
+        },
+        {
+          "handle": "phuckwhoisthisguy.bsky.social",
+          "displayName": "James Mitchell\ud83d\udc48Who the Phuck is this Guy?",
+          "timestamp": "2026-02-12T10:35:43.367Z",
+          "text": "youtu.be/o0Iobk78KNw?...",
+          "likeCount": 0
+        },
+        {
+          "handle": "pajaro505.bsky.social",
+          "displayName": "Pajaro505",
+          "timestamp": "2026-02-12T22:11:50.215Z",
+          "text": "The official notice, Temporary Flight Restriction (TFR).",
+          "likeCount": 0
+        },
+        {
+          "handle": "karicat4.bsky.social",
+          "displayName": "Kari K",
+          "timestamp": "2026-02-12T00:11:47.705Z",
+          "text": "Geez, still closed! They are truly incompetent.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 7,
+      "replyCount": 7
+    },
+    {
+      "uri": "at://did:plc:asqbkbdcwgnux4kdhjcfulpx/app.bsky.feed.post/3melmhqhaig2w",
+      "createdAt": "2026-02-11T13:47:03.169Z",
+      "text": "Trump is killing the cheapest and fastest solution to our growing energy demand. That means higher electric bills for you.",
+      "likeCount": 64,
+      "repostCount": 31,
+      "replies": [
+        {
+          "handle": "mikeadelphia.bsky.social",
+          "displayName": "Mikeadelphia",
+          "timestamp": "2026-02-12T04:17:14.752Z",
+          "text": "That\u2019s unconscionable",
+          "likeCount": 0
+        },
+        {
+          "handle": "newnavigate.bsky.social",
+          "displayName": "H. K. Swearingen",
+          "timestamp": "2026-02-11T21:26:13.113Z",
+          "text": "Trump always, I mean always, messes stuff up.",
+          "likeCount": 1
+        },
+        {
+          "handle": "waynetheseine.bsky.social",
+          "displayName": "Wayne The Seine",
+          "timestamp": "2026-02-13T17:19:21.609Z",
+          "text": "It is all about corruption. He is Big Oil's slut. There are towns in Australia whose citizens enjoy free electricity when production is steady.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 3,
+      "replyCount": 3
+    },
+    {
+      "uri": "at://did:plc:67vugavgzxuc64jxpv4cqwbi/app.bsky.feed.post/3melno5hd722z",
+      "createdAt": "2026-02-11T14:08:32.036Z",
+      "text": "This is an unprecedented Temporary Flight Restriction, and I am closely monitoring it. The people of El Paso and Do\u00f1a Ana County deserve answers \u2014 fast. I will keep pushing the Administration to share the information they can, because people deserve to know they are safe.",
+      "likeCount": 84,
+      "repostCount": 14,
+      "replies": [
+        {
+          "handle": "joshhutchinson.bsky.social",
+          "displayName": "Josh Hutchinson \ud83e\udd44",
+          "timestamp": "2026-02-11T14:09:40.863Z",
+          "text": "",
+          "likeCount": 0
+        },
+        {
+          "handle": "marasimile.bsky.social",
+          "displayName": "Mara Sineps Miller",
+          "timestamp": "2026-02-11T14:42:42.646Z",
+          "text": "There's a horrible detention center in El Paso where they're sending people kidnapped from MN. A woman I know, in the US legally, was sent there in shackles. It was overcrowded. She had to drink from a toilet tank and sleep on a cement floor. We got her back, but I'm worried about those still there.",
+          "likeCount": 1
+        },
+        {
+          "handle": "cherylrofer.bsky.social",
+          "displayName": "Cheryl Rofer",
+          "timestamp": "2026-02-11T14:09:40.205Z",
+          "text": "It's lifted, but please continue to find out what this was about.",
+          "likeCount": 6
+        },
+        {
+          "handle": "startingover739.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T14:16:03.410Z",
+          "text": "I want to know that all people's are safe.  What are our intentions.",
+          "likeCount": 0
+        },
+        {
+          "handle": "thomsawyerstudio.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T14:36:03.216Z",
+          "text": "Citizens in the civilian Rio Grande valley are regularly used for target practice by Reaper drones flying training missions out of Holloman AFB in the adjacent valley\u2014at least since 2012 when Mark Mazzetti wrote about it for the NY Times. The frequency of those flights went way up last year.",
+          "likeCount": 0
+        },
+        {
+          "handle": "cindyebrown.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T14:41:12.028Z",
+          "text": "Now it is suddenly reopened. We need answers.",
+          "likeCount": 0
+        },
+        {
+          "handle": "lisacrowder.bsky.social",
+          "displayName": "Too old to deal with this s***",
+          "timestamp": "2026-02-11T14:15:31.895Z",
+          "text": "The FAA just lifted the order. What the hell are they up to senator?",
+          "likeCount": 0
+        },
+        {
+          "handle": "weenieweediweeki.bsky.social",
+          "displayName": "Dash Camgirl, Lean Six Sigma blue belt",
+          "timestamp": "2026-02-11T14:12:09.550Z",
+          "text": "It was lifted before you posted this, Senator.",
+          "likeCount": 1
+        },
+        {
+          "handle": "kwertzy.bsky.social",
+          "displayName": "Kwertzy Industries",
+          "timestamp": "2026-02-11T14:18:52.877Z",
+          "text": "Please find out what this was. I want an administration that acts like it knows what it's DOING.",
+          "likeCount": 0
+        },
+        {
+          "handle": "fuzzymuffins.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T14:12:43.409Z",
+          "text": "Imagine if Obama did this.",
+          "likeCount": 0
+        },
+        {
+          "handle": "mister-sterling.bsky.social",
+          "displayName": "Mister Sterling",
+          "timestamp": "2026-02-11T14:40:00.944Z",
+          "text": "Duffy and Noem are clowns. Evil clowns.",
+          "likeCount": 0
+        },
+        {
+          "handle": "nmgirlie.bsky.social",
+          "displayName": "NMgirlie",
+          "timestamp": "2026-02-11T14:10:44.753Z",
+          "text": "CNN just said that the restrictions have been lifted.   Yes, we need answers",
+          "likeCount": 0
+        },
+        {
+          "handle": "mizbehavin1.bsky.social",
+          "displayName": "MizBehavin1",
+          "timestamp": "2026-02-11T15:29:06.520Z",
+          "text": "According to what I read earlier, it was only lifted for El Paso, TX.\n\nTherefore, why it's still in effect for NM definitely needs to be addressed by Sen. Heinrich.",
+          "likeCount": 0
+        },
+        {
+          "handle": "pasquinel.bsky.social",
+          "displayName": "Pasquinel",
+          "timestamp": "2026-02-11T14:25:04.821Z",
+          "text": "Apparently the DOD decided to test some kind of anti-drone tech over El Paso airspace... without notifying the FAA. So out of caution, the FAA grounded flights and closed airspace to avoid planes crashing/getting hit with whatever the fuck the DOD was up to.",
+          "likeCount": 0
+        },
+        {
+          "handle": "pajaro505.bsky.social",
+          "displayName": "Pajaro505",
+          "timestamp": "2026-02-11T18:50:10.047Z",
+          "text": "Please require, by regulation, that CBP drones shall maintain ADSB transponders in \"on\" position all all times when in US airspace. No need risk a commercial airline crash for the sake of a few immigrants.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 15,
+      "replyCount": 16
+    },
+    {
+      "uri": "at://did:plc:67vugavgzxuc64jxpv4cqwbi/app.bsky.feed.post/3mejs36vmgt2k",
+      "createdAt": "2026-02-10T20:22:05.217Z",
+      "text": "Trump said he\u2019d cut your electric bill in half.  Instead, electric bills have gone up 13%.",
+      "likeCount": 53,
+      "repostCount": 23,
+      "replies": [
+        {
+          "handle": "slriley.com",
+          "displayName": "Stuart L. Riley",
+          "timestamp": "2026-02-10T20:35:49.130Z",
+          "text": "We were also promised our pharmacy costs would go down 13,000%.",
+          "likeCount": 0
+        },
+        {
+          "handle": "helenpeatfield.bsky.social",
+          "displayName": "Helen Peatfield",
+          "timestamp": "2026-02-10T20:26:20.150Z",
+          "text": "But \u201cclean beautiful coal\u201d something something..",
+          "likeCount": 1
+        },
+        {
+          "handle": "squindar.bsky.social",
+          "displayName": "Luckless Pedestrian",
+          "timestamp": "2026-02-10T20:33:38.605Z",
+          "text": "Anybody who believes a single lie that falls out of this buffoon's mouth at this point is just hopeless.",
+          "likeCount": 1
+        },
+        {
+          "handle": "ws75.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T16:57:57.819Z",
+          "text": "If the maga cult will still support a lying pedophile protecting convicted criminal...a higher electric bill won't sway them.",
+          "likeCount": 0
+        },
+        {
+          "handle": "jesusforgives.bsky.social",
+          "displayName": "KatLouise",
+          "timestamp": "2026-02-10T20:23:47.481Z",
+          "text": "We need a huge advertising campaign like this - he said this, but here's what actually happened.\n\nWe also need to get out the message that he despises the Constitution. Americans reverence the Constitution. SHOW PEOPLE how he has wiped his feet on at least six Amendments I can think of, Art I, etc.",
+          "likeCount": 2
+        },
+        {
+          "handle": "jaagibs.bsky.social",
+          "displayName": "jay gibbs",
+          "timestamp": "2026-02-10T20:29:05.599Z",
+          "text": "Herr bonespurs never paid a bill willingly in his miserable life.",
+          "likeCount": 0
+        },
+        {
+          "handle": "atiraslight.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-10T20:34:33.543Z",
+          "text": "So, what are you doing about it?\nStop telling us things we already know and do your job.",
+          "likeCount": 0
+        },
+        {
+          "handle": "reader-writer.bsky.social",
+          "displayName": "Reader-Writer",
+          "timestamp": "2026-02-10T21:10:46.139Z",
+          "text": "My life-saving medication went up 125%, my property tax went up 34% groceries went up 19%.  He lies.",
+          "likeCount": 1
+        },
+        {
+          "handle": "retiredcynic.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-10T20:25:14.686Z",
+          "text": "Mine is up more than that!",
+          "likeCount": 1
+        }
+      ],
+      "repliesCollected": 9,
+      "replyCount": 9
+    },
+    {
+      "uri": "at://did:plc:67vugavgzxuc64jxpv4cqwbi/app.bsky.feed.post/3megqtghl2k2k",
+      "createdAt": "2026-02-09T15:21:51.755Z",
+      "text": "My son in the Boundary Waters. This is what\u2019s under attack by the Trump administration and Republicans in Congress. Channel your inner Teddy Roosevelt and call your Senators!",
+      "likeCount": 241,
+      "repostCount": 44,
+      "replies": [
+        {
+          "handle": "amushink.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-10T01:06:02.609Z",
+          "text": "A threat against the natural treasures of any state is a threat to all states.  If political retribution takes the form of environmental destruction, any of us could be next.",
+          "likeCount": 0
+        },
+        {
+          "handle": "rionchama.bsky.social",
+          "displayName": "rionchama \ud83d\udda4\ud83d\udc9b",
+          "timestamp": "2026-02-09T15:40:38.791Z",
+          "text": "I had 4 children sign up. 3 went to war, including my daughter. Two at the same time and 9 years after their father came home from same.\n\nIsn\u2019t it nice you\u2019ve made oodles of money and have a cushy medical plan courtesy of we New Mexicans?\n\nWhen are you going to talk about New Mexicans in harms way?",
+          "likeCount": 1
+        },
+        {
+          "handle": "h-lr.bsky.social",
+          "displayName": "midwestister",
+          "timestamp": "2026-02-11T01:50:46.516Z",
+          "text": "Arrest Miller and Vought. Abolish DHS and ICE\nbsky.app/profile/h-lr...",
+          "likeCount": 0
+        },
+        {
+          "handle": "benfranklinskite.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-14T18:31:23.367Z",
+          "text": "resist.bot/petitions/PM...",
+          "likeCount": 0
+        },
+        {
+          "handle": "cherchebuddy.bsky.social",
+          "displayName": "ChercheBuddy",
+          "timestamp": "2026-02-10T02:17:50.549Z",
+          "text": "One-time Santa Fean and longtime Minnesotan here, thanks so much for beating this drum, Senator",
+          "likeCount": 0
+        },
+        {
+          "handle": "just5teve.bsky.social",
+          "displayName": "Steve Beck",
+          "timestamp": "2026-02-10T02:59:16.157Z",
+          "text": "Hi.  I hope you can defeat those boundary waters mining bill.",
+          "likeCount": 0
+        },
+        {
+          "handle": "emmeinmn.bsky.social",
+          "displayName": "EmmeInMN \ud83c\udde8\ud83c\udde6 \ud83c\uddf8\ud83c\uddf0 \ud83c\uddfa\ud83c\udde6",
+          "timestamp": "2026-02-09T23:32:52.601Z",
+          "text": "The BWCA is a national and international treasure.  It is nature at her most glorious. It must be protected!",
+          "likeCount": 0
+        },
+        {
+          "handle": "chaostosurreal.bsky.social",
+          "displayName": "Sid Viscous",
+          "timestamp": "2026-02-09T15:23:38.561Z",
+          "text": "Trump is a destroyer.  If we can't remove a straight up pedophile we're lost as a country",
+          "likeCount": 0
+        },
+        {
+          "handle": "scottishox2.bsky.social",
+          "displayName": "Prairiesunshine",
+          "timestamp": "2026-02-09T15:55:52.226Z",
+          "text": "It's worth saving \ud83c\uddfa\ud83c\uddf8\ud83c\udf32\ud83c\udfa3\ud83c\udde8\ud83c\udde6",
+          "likeCount": 0
+        },
+        {
+          "handle": "celtic-cat.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-09T15:35:36.976Z",
+          "text": "And protect the Tongass National Forest and all our parks and forests from his gang.",
+          "likeCount": 0
+        },
+        {
+          "handle": "thebaroness.bsky.social",
+          "displayName": "TheBaroness \ud83d\udc38",
+          "timestamp": "2026-02-09T18:31:19.158Z",
+          "text": "Cute. No on the SAVE Act.",
+          "likeCount": 0
+        },
+        {
+          "handle": "ddurk36518.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-09T15:32:32.568Z",
+          "text": "Please confirm torture chambers... search \"kia\"... are fair game in the upcoming depositions/hearings.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 12,
+      "replyCount": 12
+    },
+    {
+      "uri": "at://did:plc:67vugavgzxuc64jxpv4cqwbi/app.bsky.feed.post/3mefcw7yh5l26",
+      "createdAt": "2026-02-09T01:40:13.508Z",
+      "text": "And to think, I could\u2019ve been watching Kid Rock.",
+      "likeCount": 448,
+      "repostCount": 36,
+      "replies": [
+        {
+          "handle": "shogsotg.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-09T17:34:57.867Z",
+          "text": "\"Young ladies, young ladies, I like \u2019em underage, see. Some say that\u2019s statutory / But I say it\u2019s mandatory.\"\n\nKid Rock = child rapist.\nNo wonder tRump loves him.\nThey have that in common.",
+          "likeCount": 0
+        },
+        {
+          "handle": "bigbrain1234.bsky.social",
+          "displayName": "Big Brain",
+          "timestamp": "2026-02-09T01:42:43.427Z",
+          "text": "It was so great!",
+          "likeCount": 1
+        },
+        {
+          "handle": "agentcooper1983.bsky.social",
+          "displayName": "AgentCooper",
+          "timestamp": "2026-02-09T19:34:33.091Z",
+          "text": "you need to protect section 230",
+          "likeCount": 0
+        },
+        {
+          "handle": "wa7iut.bsky.social",
+          "displayName": "Bob Davidson",
+          "timestamp": "2026-02-09T02:03:52.519Z",
+          "text": "Kid Rock, you mean Epstein Island\u2026",
+          "likeCount": 1
+        },
+        {
+          "handle": "raflw.bsky.social",
+          "displayName": "Ralf W",
+          "timestamp": "2026-02-09T01:40:54.803Z",
+          "text": "Not till they get the rights clearance \ud83d\ude06",
+          "likeCount": 0
+        },
+        {
+          "handle": "mark-59.bsky.social",
+          "displayName": "Broken down old guy",
+          "timestamp": "2026-02-09T01:44:04.983Z",
+          "text": "Since when has understanding the lyrics ever been a musical requirement?  Frankly, I loved it.",
+          "likeCount": 7
+        },
+        {
+          "handle": "honey15badger.bsky.social",
+          "displayName": "Isabel",
+          "timestamp": "2026-02-09T01:48:24.402Z",
+          "text": "The culture was emphasized. Excellent presentation of their united stance with other Latino countries! \ud83d\udcaf\ud83d\udca5\ud83e\udd1b",
+          "likeCount": 5
+        },
+        {
+          "handle": "plebotamus.bsky.social",
+          "displayName": "Mark Plemmons (Brabblemark Press)",
+          "timestamp": "2026-02-09T01:41:43.086Z",
+          "text": "Wait is this cocomelon",
+          "likeCount": 0
+        },
+        {
+          "handle": "momzplay2.bsky.social",
+          "displayName": "Momzplay2",
+          "timestamp": "2026-02-09T01:44:23.429Z",
+          "text": "I felt like I was visiting Puerto Rico. Loved it!",
+          "likeCount": 6
+        },
+        {
+          "handle": "karentaos.bsky.social",
+          "displayName": "Karen",
+          "timestamp": "2026-02-09T01:41:03.429Z",
+          "text": "Wasn\u2019t it fantastic?",
+          "likeCount": 2
+        },
+        {
+          "handle": "phuckwhoisthisguy.bsky.social",
+          "displayName": "James Mitchell\ud83d\udc48Who the Phuck is this Guy?",
+          "timestamp": "2026-02-09T05:46:17.046Z",
+          "text": "Democrats that are too weak in the knees to stand up and not fund ICE until visible changes have been made. \n\nThen please shut up & get the hell out of the way for a candidate who will. \n\nNO MORE BROKEN PROMISES!",
+          "likeCount": 0
+        },
+        {
+          "handle": "phuckwhoisthisguy.bsky.social",
+          "displayName": "James Mitchell\ud83d\udc48Who the Phuck is this Guy?",
+          "timestamp": "2026-02-09T05:46:06.884Z",
+          "text": "Democrats that are too weak in the knees to stand up and not fund ICE until visible changes have been made. \n\nThen please shut up & get the hell out of the way for a candidate who will. \n\nNO MORE BROKEN PROMISES!",
+          "likeCount": 0
+        },
+        {
+          "handle": "mikeadelphia.bsky.social",
+          "displayName": "Mikeadelphia",
+          "timestamp": "2026-02-09T04:30:03.478Z",
+          "text": "\ud83d\ude02",
+          "likeCount": 0
+        },
+        {
+          "handle": "thesesmallhours.bsky.social",
+          "displayName": "Small Hours",
+          "timestamp": "2026-02-09T01:42:05.242Z",
+          "text": "I don\u2019t even listen to his music and I was mesmerized the entire time. It wasn\u2019t long enough!!!",
+          "likeCount": 9
+        },
+        {
+          "handle": "racheldemott.bsky.social",
+          "displayName": "Rachel DeMott",
+          "timestamp": "2026-02-09T01:43:09.687Z",
+          "text": "\ud83d\ude05",
+          "likeCount": 0
+        },
+        {
+          "handle": "cityoftrees.bsky.social",
+          "displayName": "CityofTrees2",
+          "timestamp": "2026-02-09T01:44:08.888Z",
+          "text": "Really fantastic. Love it.\ud83e\ude77",
+          "likeCount": 3
+        },
+        {
+          "handle": "kyleabq.bsky.social",
+          "displayName": "KyleAbq",
+          "timestamp": "2026-02-09T01:43:21.411Z",
+          "text": "\ud83e\udd23\ud83e\udd23",
+          "likeCount": 0
+        },
+        {
+          "handle": "ccmf-2017.bsky.social",
+          "displayName": "Chester County Marching Forward",
+          "timestamp": "2026-02-09T16:42:42.737Z",
+          "text": "Bad Bunny's star power and positive message brings 100 Million viewers to Super Bowl half-time show.\n\nMeanwhile, MAGA delivers a failed counter program:\n  * Headliner, the self-identified pedophile \"Kid Rock,\" lip-synched his set.\n  * So boring even Trump didn't watch it and tuned into Bad Bunny",
+          "likeCount": 1
+        }
+      ],
+      "repliesCollected": 18,
+      "replyCount": 18
+    },
+    {
+      "uri": "at://did:plc:67vugavgzxuc64jxpv4cqwbi/app.bsky.feed.post/3mef63ggqrl2p",
+      "createdAt": "2026-02-09T00:13:39.331Z",
+      "text": "Republicans in the U.S. Senate are coming for your public lands once again.",
+      "likeCount": 408,
+      "repostCount": 188,
+      "replies": [
+        {
+          "handle": "h-lr.bsky.social",
+          "displayName": "midwestister",
+          "timestamp": "2026-02-11T01:50:38.853Z",
+          "text": "Arrest Miller and Vought. Abolish DHS and ICE\nbsky.app/profile/h-lr...",
+          "likeCount": 0
+        },
+        {
+          "handle": "annietibeau.bsky.social",
+          "displayName": "Annie Tibeau",
+          "timestamp": "2026-02-09T15:18:00.671Z",
+          "text": "I agree. And please stop making videos while you are driving. It is not safe.",
+          "likeCount": 0
+        },
+        {
+          "handle": "yolowinr.bsky.social",
+          "displayName": "BETH BAE \ud83d\udeabDMs",
+          "timestamp": "2026-02-09T17:26:26.254Z",
+          "text": "Trump is so so old and sleeping during meetings and he's doing all the grandpa stuff. \n\nI guess they call it sundowning.  Maybe we shouldn't ask so much of a elderly man who is so old and should be spending his golden years with his family cuz well . Trump is older than the lifespan, 76yrs for men",
+          "likeCount": 0
+        },
+        {
+          "handle": "gambeson.bsky.social",
+          "displayName": "\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\u2696\ufe0f\ud83d\udce3 knightly garb",
+          "timestamp": "2026-02-09T16:47:02.343Z",
+          "text": "Rich people want MORE at anyone else's expense.",
+          "likeCount": 1
+        },
+        {
+          "handle": "luckiiyu7.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-09T00:21:46.856Z",
+          "text": "@schiff.senate.gov \n@schumer.senate.gov \n@sanders.senate.gov \n@klobuchar.senate.gov \n@wyden.senate.gov \n@merkley.senate.gov \n@warren.senate.gov \n@ocasio-cortez.house.gov \n@vanhollen.senate.gov \n@crockett.house.gov\n@hakeem-jeffries.bsky.social\n@booker.senate.gov",
+          "likeCount": 5
+        },
+        {
+          "handle": "shoshierules.bsky.social",
+          "displayName": "Shoshie Rules",
+          "timestamp": "2026-02-09T00:20:23.373Z",
+          "text": "Thank you, Senator. Keep fighting to keep public land out of reach of the rich and powerful",
+          "likeCount": 8
+        },
+        {
+          "handle": "goodsauce.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-09T16:03:57.270Z",
+          "text": "And, the Rethuglicans love to give miners free money. In Alaska miners are getting roads built for them with state funds. Miners got money from the DOD to help them get started on other mines. And mining pays almost nothing in taxes and royalties.",
+          "likeCount": 2
+        },
+        {
+          "handle": "bouvierdogmom.bsky.social",
+          "displayName": "Bouvier Mom",
+          "timestamp": "2026-02-09T23:28:52.785Z",
+          "text": "Drinking water.",
+          "likeCount": 0
+        },
+        {
+          "handle": "godhatesyeast.bsky.social",
+          "displayName": "\u2744\ufe0fgodhatesyeast\u26c4\ufe0f",
+          "timestamp": "2026-02-09T00:29:03.816Z",
+          "text": "these nazis are the polar opposite of conservatives",
+          "likeCount": 0
+        },
+        {
+          "handle": "nmcarlito.bsky.social",
+          "displayName": "Carlito is a very good boy",
+          "timestamp": "2026-02-09T00:30:41.838Z",
+          "text": "I really get this message and this fight. But hell this is the post you're putting out on Superbowl night? WTF. You really really need a better comms teams.",
+          "likeCount": 0
+        },
+        {
+          "handle": "ljl06.bsky.social",
+          "displayName": "LJL",
+          "timestamp": "2026-02-09T00:40:02.263Z",
+          "text": "Protect what we love - protect our public lands from billionaires",
+          "likeCount": 5
+        },
+        {
+          "handle": "youzernaem.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-10T14:01:02.065Z",
+          "text": "To deal with this effectively, dems need to start the blame game now\u2026 do not wait for lying Donny to start. Do not cave on this again! He knows he\u2019s fighting a psychological war. Are you prepared to do the same?? It doesn\u2019t sound or look like it. Fight like your job depends on it because it does.",
+          "likeCount": 1
+        },
+        {
+          "handle": "detroitcitydwell.bsky.social",
+          "displayName": "Detroit City Dwellings",
+          "timestamp": "2026-02-11T03:49:00.352Z",
+          "text": "Sort of reminds me if the Enbridge Line 5 pipeline in Michigan.",
+          "likeCount": 0
+        },
+        {
+          "handle": "cupn.bsky.social",
+          "displayName": "Danni.@bsky.social",
+          "timestamp": "2026-02-09T00:36:34.823Z",
+          "text": "You didn't think all that bailout money was free, did you?",
+          "likeCount": 0
+        },
+        {
+          "handle": "simplyrheumatoid.bsky.social",
+          "displayName": "Simply Rheumatoid",
+          "timestamp": "2026-02-09T16:22:47.710Z",
+          "text": "Friends, please watch this film by Robert Redford. #NoPlanetB #PublicTrust #WriteYourReps #CallYourReps \nReference: \u2b07\ufe0f Patagonia. Public Trust. \nwww.patagonia.com/films/public...",
+          "likeCount": 3
+        },
+        {
+          "handle": "wanderdogs.bsky.social",
+          "displayName": "Wandering with Dogs",
+          "timestamp": "2026-02-09T01:16:21.173Z",
+          "text": "Public land owner here\u2026please keep this up!",
+          "likeCount": 2
+        },
+        {
+          "handle": "jimlieberman1.bsky.social",
+          "displayName": "Jim Lieberman",
+          "timestamp": "2026-02-09T00:17:56.474Z",
+          "text": "Thank you!",
+          "likeCount": 3
+        },
+        {
+          "handle": "mebeforr.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-09T06:32:49.309Z",
+          "text": "Make good country, every one wish. Japan also, these small voices and activities, continue fight..Trumpism/Putinism, we never fall in these political ideology-- MAGA, MEGA.",
+          "likeCount": 0
+        },
+        {
+          "handle": "cusoman.bsky.social",
+          "displayName": "cusoman \ud83c\uddfa\ud83c\uddf8 \ud83c\uddfa\ud83c\udde6",
+          "timestamp": "2026-02-09T15:28:52.872Z",
+          "text": "THANK YOU for amplifying this! As a Minnesotan who has been going there for years, taking my son there when he was small and teaching him the ropes, I believe this is ALL OF OUR treasure that we must preserve for future generations, at all costs!",
+          "likeCount": 3
+        },
+        {
+          "handle": "golfsobad.bsky.social",
+          "displayName": "Mickey Rottinghaus",
+          "timestamp": "2026-02-09T00:23:20.296Z",
+          "text": "I have to follow you for this \u2728\ufe0f post.",
+          "likeCount": 3
+        },
+        {
+          "handle": "karicat4.bsky.social",
+          "displayName": "Kari K",
+          "timestamp": "2026-02-09T00:17:34.068Z",
+          "text": "Please keep fighting for public lands to stay public.",
+          "likeCount": 2
+        }
+      ],
+      "repliesCollected": 21,
+      "replyCount": 22
+    }
+  ]
+}

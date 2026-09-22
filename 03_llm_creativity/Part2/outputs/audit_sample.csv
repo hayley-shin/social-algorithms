@@ -1,0 +1,101 @@
+,source_file,player_id,question_id,letter,category,round_idx,answer_raw,answer_norm,valid,collision,score,round_key,valid_manual,collision_manual,score_manual
+1,Part2/outputs/answers_player1.csv,answers_player1,Q001,A,Animals,15,albatross,albatross,1,1,0,Q001::15,1,1,0
+2,Part2/outputs/answers_player2.csv,answers_player2,Q001,A,Animals,15,albatross,albatross,1,1,0,Q001::15,1,1,0
+3,Part2/outputs/answers_player1.csv,answers_player1,Q004,B,Things that are red,3,banana,banana,0,0,0,Q004::3,0,0,0
+4,Part2/outputs/answers_player2.csv,answers_player2,Q004,B,Things that are red,3,banana,banana,0,0,0,Q004::3,0,0,0
+5,Part2/outputs/answers_player1.csv,answers_player1,Q006,C,Board games,16,chess,chess,1,1,0,Q006::16,1,1,0
+6,Part2/outputs/answers_player2.csv,answers_player2,Q006,C,Board games,16,chess,chess,1,1,0,Q006::16,1,1,0
+7,Part2/outputs/answers_player1.csv,answers_player1,Q006,C,Board games,19,chess,chess,1,1,0,Q006::19,1,1,0
+8,Part2/outputs/answers_player2.csv,answers_player2,Q006,C,Board games,19,chess,chess,1,1,0,Q006::19,1,1,0
+9,Part2/outputs/answers_player1.csv,answers_player1,Q009,E,Sports,11,tennis,tennis,0,0,0,Q009::11,0,0,0
+10,Part2/outputs/answers_player2.csv,answers_player2,Q009,E,Sports,11,volleyball,volleyball,0,0,0,Q009::11,0,0,0
+11,Part2/outputs/answers_player1.csv,answers_player1,Q009,E,Sports,17,tennis,tennis,0,0,0,Q009::17,0,0,0
+12,Part2/outputs/answers_player2.csv,answers_player2,Q009,E,Sports,17,tennis,tennis,0,0,0,Q009::17,0,0,0
+13,Part2/outputs/answers_player1.csv,answers_player1,Q011,F,Fish,12,flounder,flounder,1,0,1,Q011::12,1,0,1
+14,Part2/outputs/answers_player2.csv,answers_player2,Q011,F,Fish,12,goldfish,goldfish,1,0,1,Q011::12,0,0,0
+15,Part2/outputs/answers_player1.csv,answers_player1,Q013,G,U.S. states,16,georgia,georgia,1,1,0,Q013::16,1,1,0
+16,Part2/outputs/answers_player2.csv,answers_player2,Q013,G,U.S. states,16,georgia,georgia,1,1,0,Q013::16,1,1,0
+17,Part2/outputs/answers_player1.csv,answers_player1,Q013,G,U.S. states,5,georgia,georgia,1,1,0,Q013::5,1,1,0
+18,Part2/outputs/answers_player2.csv,answers_player2,Q013,G,U.S. states,5,georgia,georgia,1,1,0,Q013::5,1,1,0
+19,Part2/outputs/answers_player1.csv,answers_player1,Q014,G,Foods,2,garlic bread,garlic bread,1,0,1,Q014::2,1,0,1
+20,Part2/outputs/answers_player2.csv,answers_player2,Q014,G,Foods,2,grapefruit,grapefruit,1,0,1,Q014::2,1,0,1
+21,Part2/outputs/answers_player1.csv,answers_player1,Q017,I,Cities,4,indianapolis,indianapolis,1,0,1,Q017::4,1,0,1
+22,Part2/outputs/answers_player2.csv,answers_player2,Q017,I,Cities,4,istanbul,istanbul,0,0,0,Q017::4,1,0,1
+23,Part2/outputs/answers_player1.csv,answers_player1,Q020,J,Video game titles,18,just dance,just dance,1,1,0,Q020::18,1,1,0
+24,Part2/outputs/answers_player2.csv,answers_player2,Q020,J,Video game titles,18,just dance,just dance,1,1,0,Q020::18,1,1,0
+25,Part2/outputs/answers_player1.csv,answers_player1,Q021,K,Superheroes,4,king kong,king kong,0,0,0,Q021::4,0,0,0
+26,Part2/outputs/answers_player2.csv,answers_player2,Q021,K,Superheroes,4,kal-el,kal-el,1,0,1,Q021::4,1,0,1
+27,Part2/outputs/answers_player1.csv,answers_player1,Q021,K,Superheroes,8,kal-el,kal-el,1,1,0,Q021::8,1,1,0
+28,Part2/outputs/answers_player2.csv,answers_player2,Q021,K,Superheroes,8,kal-el,kal-el,1,1,0,Q021::8,1,1,0
+29,Part2/outputs/answers_player1.csv,answers_player1,Q022,K,Things in a grocery store,8,kiwi,kiwi,1,0,1,Q022::8,1,0,1
+30,Part2/outputs/answers_player2.csv,answers_player2,Q022,K,Things in a grocery store,8,ketchup,ketchup,1,0,1,Q022::8,1,0,1
+31,Part2/outputs/answers_player1.csv,answers_player1,Q026,M,Clothing items,2,sweater,sweater,0,0,0,Q026::2,0,0,0
+32,Part2/outputs/answers_player2.csv,answers_player2,Q026,M,Clothing items,2,mug,mug,0,0,0,Q026::2,0,0,0
+33,Part2/outputs/answers_player1.csv,answers_player1,Q027,N,Birds,5,nightingale,nightingale,1,0,1,Q027::5,1,0,1
+34,Part2/outputs/answers_player2.csv,answers_player2,Q027,N,Birds,5,nutmeg goose,nutmeg goose,0,0,0,Q027::5,0,0,0
+35,Part2/outputs/answers_player1.csv,answers_player1,Q030,O,Things in the sky,12,cloud,cloud,0,0,0,Q030::12,0,0,0
+36,Part2/outputs/answers_player2.csv,answers_player2,Q030,O,Things in the sky,12,clouds,clouds,0,0,0,Q030::12,0,0,0
+37,Part2/outputs/answers_player1.csv,answers_player1,Q031,P,Vegetables,11,potato,potato,1,0,1,Q031::11,1,0,1
+38,Part2/outputs/answers_player2.csv,answers_player2,Q031,P,Vegetables,11,pepper,pepper,1,0,1,Q031::11,1,0,1
+39,Part2/outputs/answers_player1.csv,answers_player1,Q031,P,Vegetables,8,pepper,pepper,1,0,1,Q031::8,1,0,1
+40,Part2/outputs/answers_player2.csv,answers_player2,Q031,P,Vegetables,8,potato,potato,1,0,1,Q031::8,1,0,1
+41,Part2/outputs/answers_player1.csv,answers_player1,Q033,Q,Words in English,10,quill,quill,1,1,0,Q033::10,1,1,0
+42,Part2/outputs/answers_player2.csv,answers_player2,Q033,Q,Words in English,10,quill,quill,1,1,0,Q033::10,1,1,0
+43,Part2/outputs/answers_player1.csv,answers_player1,Q035,R,Songs,18,rockin' robin,rockin' robin,1,0,1,Q035::18,1,0,1
+44,Part2/outputs/answers_player2.csv,answers_player2,Q035,R,Songs,18,raindrops keep falling on my head,raindrops keep falling on my head,0,0,0,Q035::18,1,0,1
+45,Part2/outputs/answers_player1.csv,answers_player1,Q035,R,Songs,3,raining in spain,raining in spain,0,0,0,Q035::3,0,0,0
+46,Part2/outputs/answers_player2.csv,answers_player2,Q035,R,Songs,3,raindrops keep falling on my head,raindrops keep falling on my head,0,0,0,Q035::3,1,0,1
+47,Part2/outputs/answers_player1.csv,answers_player1,Q036,R,Tools,18,rake,rake,1,0,1,Q036::18,1,0,1
+48,Part2/outputs/answers_player2.csv,answers_player2,Q036,R,Tools,18,razor,razor,1,0,1,Q036::18,1,0,1
+49,Part2/outputs/answers_player1.csv,answers_player1,Q037,S,Animals,17,seal,seal,1,0,1,Q037::17,1,0,1
+50,Part2/outputs/answers_player2.csv,answers_player2,Q037,S,Animals,17,snake,snake,1,0,1,Q037::17,1,0,1
+51,Part2/outputs/answers_player1.csv,answers_player1,Q037,S,Animals,18,panda,panda,0,0,0,Q037::18,0,0,0
+52,Part2/outputs/answers_player2.csv,answers_player2,Q037,S,Animals,18,snake,snake,1,0,1,Q037::18,1,0,1
+53,Part2/outputs/answers_player1.csv,answers_player1,Q038,S,Things in an office,3,stapler,stapler,1,1,0,Q038::3,1,1,0
+54,Part2/outputs/answers_player2.csv,answers_player2,Q038,S,Things in an office,3,stapler,stapler,1,1,0,Q038::3,1,1,0
+55,Part2/outputs/answers_player1.csv,answers_player1,Q039,T,Countries,11,tunisia,tunisia,1,1,0,Q039::11,1,1,0
+56,Part2/outputs/answers_player2.csv,answers_player2,Q039,T,Countries,11,tunisia,tunisia,1,1,0,Q039::11,1,1,0
+57,Part2/outputs/answers_player1.csv,answers_player1,Q039,T,Countries,16,tunisia,tunisia,1,0,1,Q039::16,1,0,1
+58,Part2/outputs/answers_player2.csv,answers_player2,Q039,T,Countries,16,thailand,thailand,1,0,1,Q039::16,1,0,1
+59,Part2/outputs/answers_player1.csv,answers_player1,Q041,U,U.S. colleges,15,university of michigan,university of michigan,0,0,0,Q041::15,1,0,1
+60,Part2/outputs/answers_player2.csv,answers_player2,Q041,U,U.S. colleges,15,university of pennsylvania,university of pennsylvania,0,0,0,Q041::15,1,0,1
+61,Part2/outputs/answers_player1.csv,answers_player1,Q041,U,U.S. colleges,19,university of utah,university of utah,1,1,0,Q041::19,1,1,0
+62,Part2/outputs/answers_player2.csv,answers_player2,Q041,U,U.S. colleges,19,university of utah,university of utah,1,1,0,Q041::19,1,1,0
+63,Part2/outputs/answers_player1.csv,answers_player1,Q041,U,U.S. colleges,9,university of notre dame,university of notre dame,0,0,0,Q041::9,1,0,1
+64,Part2/outputs/answers_player2.csv,answers_player2,Q041,U,U.S. colleges,9,university of michigan,university of michigan,0,0,0,Q041::9,1,0,1
+65,Part2/outputs/answers_player1.csv,answers_player1,Q042,U,Things in a garage,7,unicycle,unicycle,1,0,1,Q042::7,1,0,1
+66,Part2/outputs/answers_player2.csv,answers_player2,Q042,U,Things in a garage,7,umbrella,umbrella,0,0,0,Q042::7,1,0,1
+67,Part2/outputs/answers_player1.csv,answers_player1,Q043,V,Jobs,15,valet parking,valet parking,0,0,0,Q043::15,0,0,0
+68,Part2/outputs/answers_player2.csv,answers_player2,Q043,V,Jobs,15,valet,valet,1,0,1,Q043::15,1,0,1
+69,Part2/outputs/answers_player1.csv,answers_player1,Q044,V,Things you wear,16,vest,vest,1,1,0,Q044::16,1,1,0
+70,Part2/outputs/answers_player2.csv,answers_player2,Q044,V,Things you wear,16,vest,vest,1,1,0,Q044::16,1,1,0
+71,Part2/outputs/answers_player1.csv,answers_player1,Q045,W,Cities,8,warsaw,warsaw,1,1,0,Q045::8,1,1,0
+72,Part2/outputs/answers_player2.csv,answers_player2,Q045,W,Cities,8,warsaw,warsaw,1,1,0,Q045::8,1,1,0
+73,Part2/outputs/answers_player1.csv,answers_player1,Q049,Y,Foods,19,yogurt,yogurt,1,1,0,Q049::19,1,1,0
+74,Part2/outputs/answers_player2.csv,answers_player2,Q049,Y,Foods,19,yogurt,yogurt,1,1,0,Q049::19,1,1,0
+75,Part2/outputs/answers_player1.csv,answers_player1,Q050,Y,Things at a party,12,yogurt dips,yogurt dips,1,0,1,Q050::12,1,0,1
+76,Part2/outputs/answers_player2.csv,answers_player2,Q050,Y,Things at a party,12,yacht party,yacht party,0,0,0,Q050::12,0,0,0
+77,Part2/outputs/answers_player1.csv,answers_player1,Q051,Z,Animals,7,zebra,zebra,1,1,0,Q051::7,1,1,0
+78,Part2/outputs/answers_player2.csv,answers_player2,Q051,Z,Animals,7,zebra,zebra,1,1,0,Q051::7,1,1,0
+79,Part2/outputs/answers_player1.csv,answers_player1,Q053,A,Things in a kitchen,10,apple,apple,0,0,0,Q053::10,1,1,0
+80,Part2/outputs/answers_player2.csv,answers_player2,Q053,A,Things in a kitchen,10,apple,apple,0,0,0,Q053::10,1,1,0
+81,Part2/outputs/answers_player1.csv,answers_player1,Q053,A,Things in a kitchen,3,apple,apple,0,0,0,Q053::3,1,1,0
+82,Part2/outputs/answers_player2.csv,answers_player2,Q053,A,Things in a kitchen,3,apple,apple,0,0,0,Q053::3,1,1,0
+83,Part2/outputs/answers_player1.csv,answers_player1,Q054,B,Singers,19,barry manilow,barry manilow,1,0,1,Q054::19,1,0,1
+84,Part2/outputs/answers_player2.csv,answers_player2,Q054,B,Singers,19,britney spears,britney spears,1,0,1,Q054::19,1,0,1
+85,Part2/outputs/answers_player1.csv,answers_player1,Q057,E,Companies,9,ebay,ebay,1,1,0,Q057::9,1,1,0
+86,Part2/outputs/answers_player2.csv,answers_player2,Q057,E,Companies,9,ebay,ebay,1,1,0,Q057::9,1,1,0
+87,Part2/outputs/answers_player1.csv,answers_player1,Q058,F,Movie characters,11,frankenstein,frankenstein,0,0,0,Q058::11,1,0,1
+88,Part2/outputs/answers_player2.csv,answers_player2,Q058,F,Movie characters,11,fred flintstone,fred flintstone,1,0,1,Q058::11,1,0,1
+89,Part2/outputs/answers_player1.csv,answers_player1,Q060,H,Countries,18,hungary,hungary,1,0,1,Q060::18,1,0,1
+90,Part2/outputs/answers_player2.csv,answers_player2,Q060,H,Countries,18,hong kong,hong kong,0,0,0,Q060::18,0,0,0
+91,Part2/outputs/answers_player1.csv,answers_player1,Q060,H,Countries,5,honduras,honduras,1,1,0,Q060::5,1,1,0
+92,Part2/outputs/answers_player2.csv,answers_player2,Q060,H,Countries,5,honduras,honduras,1,1,0,Q060::5,1,1,0
+93,Part2/outputs/answers_player1.csv,answers_player1,Q062,J,Things in a refrigerator,1,juice,juice,1,1,0,Q062::1,1,1,0
+94,Part2/outputs/answers_player2.csv,answers_player2,Q062,J,Things in a refrigerator,1,juice,juice,1,1,0,Q062::1,1,1,0
+95,Part2/outputs/answers_player1.csv,answers_player1,Q062,J,Things in a refrigerator,6,juice,juice,1,1,0,Q062::6,1,1,0
+96,Part2/outputs/answers_player2.csv,answers_player2,Q062,J,Things in a refrigerator,6,juice,juice,1,1,0,Q062::6,1,1,0
+97,Part2/outputs/answers_player1.csv,answers_player1,Q064,L,Things in a library,14,library card,library card,0,0,0,Q064::14,1,1,0
+98,Part2/outputs/answers_player2.csv,answers_player2,Q064,L,Things in a library,14,library card,library card,0,0,0,Q064::14,1,1,0
+99,Part2/outputs/answers_player1.csv,answers_player1,Q064,L,Things in a library,5,library card,library card,0,0,0,Q064::5,1,1,0
+100,Part2/outputs/answers_player2.csv,answers_player2,Q064,L,Things in a library,5,library card,library card,0,0,0,Q064::5,1,1,0

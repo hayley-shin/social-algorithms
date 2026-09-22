@@ -1,0 +1,2 @@
+Return exactly one fruit that starts with the letter b.
+Output only the fruit name in lowercase, with no punctuation and no explanation.

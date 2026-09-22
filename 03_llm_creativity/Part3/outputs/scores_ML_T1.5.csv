@@ -1,0 +1,3 @@
+player_id,source_file,total_answers,valid_answers,valid_rate,points,avg_points_per_answer,collisions,collision_rate,distinct_valid_answers,judge_api_calls,judge_cache_hits
+answers_llama32_3b_T1.5,Part3/outputs/answers_llama32_3b_T1.5.csv,1280,884,0.690625,734,0.5734375,150,0.1171875,307,0,2560
+answers_mistral_7b_T1.5,Part3/outputs/answers_mistral_7b_T1.5.csv,1280,899,0.70234375,749,0.58515625,150,0.1171875,296,0,2560

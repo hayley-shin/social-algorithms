@@ -1,0 +1,11 @@
+Before answering, silently recall at least 8 different real fruits that start with b — ranging from common to uncommon varieties. Do not output this list.
+
+Then assign each recalled fruit a number starting from 1.
+Pick a number at random from 1 to your count, trying to avoid always picking the same position.
+Output only the fruit at that number.
+
+Rules:
+- Must be a real, edible fruit.
+- Must start with the letter b.
+- No brand names, no vegetables, no dishes.
+Output format: one lowercase word or phrase, no punctuation, no explanation.

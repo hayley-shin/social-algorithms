@@ -1,0 +1,1315 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,aquatic ape,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,1,aardvark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,2,aardvark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,3,antelope,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,4,aardvark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,5,antelope,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,6,antelope,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,7,aardvark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,8,aardvark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,9,antelope,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,10,apes,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,11,aquatic ape,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,12,antelope,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,13,antelope,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,14,albatross,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,15,aardvark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,16,aardvark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,17,aardvark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,18,antelope,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q001,A,Animals,19,antelope,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,0,architect assistant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,1,architect assistant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,2,apothecary,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,3,actor,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,4,airline pilot,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,5,artist assistant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,6,apothecary assistant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,7,artist assistant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,8,airline pilot,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,9,artist assistant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,10,artist assistant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,11,aircraft assembler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,12,architect assistant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,13,actor,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,14,accountant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,15,actor,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,16,apothecary assistant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,17,"actor
+assistant
+architect
+artist
+accountant",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,18,artist,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q002,A,Jobs,19,accountant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,0,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,1,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,2,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,3,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,4,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,5,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,6,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,7,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,8,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,9,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,10,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,11,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,12,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,13,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,14,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,15,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,16,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,17,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,18,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q003,B,Fruits,19,blueberry,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,0,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,1,"brick
+
+Here's an explanation if needed: A brick is a building",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,2,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,3,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,4,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,5,firetruck,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,6,firetruck,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,7,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,8,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,9,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,10,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,11,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,12,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,13,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,14,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,15,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,16,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,17,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,18,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q004,B,Things that are red,19,brick,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,0,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,1,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,2,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,3,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,4,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,5,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,6,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,7,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,8,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,9,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,10,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,11,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,12,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,13,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,14,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,15,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,16,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,17,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,18,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q005,C,Countries,19,canada,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,0,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,1,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,2,chinese checkers,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,3,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,4,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,5,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,6,cluemastercarom,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,7,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,8,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,9,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,10,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,11,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,12,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,13,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,14,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,15,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,16,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,17,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,18,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q006,C,Board games,19,cluedo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,0,drumset,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,1,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,2,drumset,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,3,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,4,drumset,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,5,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,6,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,7,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,8,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,9,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,10,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,11,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,12,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,13,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,14,drumset,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,15,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,16,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,17,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,18,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q007,D,Musical instruments,19,didgeridoo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,0,toothbrush_dentifrice,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,1,hairdryer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,2,toothbrush_dock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,3,dish rack,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,4,toothbrush,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,5,shower curtain rod,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,6,dish rack,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,7,dish rack,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,8,deodorant,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,9,toothpaste dispenser,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,10,dish rack,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,11,dish rack,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,12,dish rack,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,13,toothpaste dispenser,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,14,dental floss,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,15,dentifrice,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,16,dispenser,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,17,dish rack,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,18,dish rack,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q008,D,Things in a bathroom,19,dish rack,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,0,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,1,extreme enduro,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,2,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,3,european-handball,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,4,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,5,equestrian-eventing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,6,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,7,extreme endurance racing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,8,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,9,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,10,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,11,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,12,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,13,european-handball,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,14,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,15,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,16,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,17,extreme skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,18,extreme-skiing,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q009,E,Sports,19,extreme-ebiking,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,0,eternal sunshine of the spotless mind,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,1,eternal sunshine of the spotless mind,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,2,ember dawn,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,3,eternal sunshine of the spotless mind,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,4,easy rider,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,5,easter bunny killings,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,6,emperor's new groove,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,7,everest (the movie),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,8,emperor's new groove,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,9,empire strikes back,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,10,easy rider,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,11,eternal sunshine of the spotless mind,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,12,eastern promises,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,13,eternal sunshine of the spotless mind,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,14,eternal sunshine of the spotless mind,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,15,eternal sunshine of the spotless mind,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,16,"earthquake
+
+By providing just one answer, I am adhering",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,17,eternal sunshine of the spotless mind,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,18,eastern promises,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q010,E,Movie titles,19,eternal sunshine of the spotless mind,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,0,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,1,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,2,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,3,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,4,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,5,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,6,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,7,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,8,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,9,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,10,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,11,flounderfish,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,12,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,13,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,14,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,15,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,16,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,17,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,18,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q011,F,Fish,19,flounder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,0,"flashlight,first-aid-kit,foldable-waterbottle",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,1,"flashlight, first-aid-kit, fiber-rich-snack,",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,2,flashlightfleecefolderfirstaidkitfoldingknifefontfamil,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,3,flashlight_first_aid_kit,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,4,"flashlight, first aid kit, food bar, fibre fix (duct tape",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,5,flashlight fuel,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,6,flashlight_fuel_first_aid_kit,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,7,flashlightfolderfirstaidkitfanfood,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,8,flashlightfolderfirstaidkit,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,9,flashlight-fuel,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,10,"flashlight
+
+Here's a list of additional ideas for variety:",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,11,"flashlight, first-aid-kit, foldable-backpack, fitness",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,12,flashlightfoldingknifefirstaidkitfoodwaterfruitfonuts,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,13,flashlightfleecefoldersfirstaidkitfoodfrisbeefunnel,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,14,"flashlight, first-aid-kit, foldable-backpack, fuel",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,15,flashlight,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,16,"flashlight, first-aid-kit, folded-map, fibit,",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,17,flashlight,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,18,"flashlight, first-aid kit, folder",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q012,F,Things in a backpack,19,flashlight-folding-fan-first-aid-kit-water-,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,0,"grayson (Gray's Harbor County, Washington)",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,1,grayscale (error: category should be geographical features),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,2,grand canyon (state of Arizona),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,3,grand canyon state (arizona),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,4,georgia,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,5,georgia,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,6,granite-shore (Gregory),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,7,granite (granite state - New Hampshire),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,8,georgia,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,9,grayson (county),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,10,georgia,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,11,georgia,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,12,grays harbor,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,13,granite-gorge,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,14,granite (state nickname),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,15,georgia (not Georgia),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,16,gulf (as in Gulf of Mexico state: louisiana),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,17,georgia,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,18,georgia,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q013,G,U.S. states,19,gulf (alabama),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,0,grits,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,1,granola bar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,2,grapefruit,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,3,grilled cheese garlic bread guacamole goulash,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,4,grits,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,5,gorgonzola cheese,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,6,grilled cheese garlic bread guacamole gelato gumbo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,7,gorgonzola cheese,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,8,granola bar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,9,grilled cheese garbanzo galette,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,10,grits garlic guacamole gumbo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,11,grits gateau gelato guacamole goulash,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,12,grits,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,13,grits,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,14,grits garbanzo gelato guacamole gumbo gruy,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,15,garlic bread,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,16,gorgonzola cheese,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,17,gorgonzola cheese,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,18,gorgonzola cheese,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q014,G,Foods,19,grits garbanzo gelato guacamole gumbo grapef,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,0,aristotle,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,1,galileo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,2,aristotle,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,3,albert einstein,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,4,henry davies,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,5,galileo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,6,heisenberg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,7,herodotus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,8,"henry davies
+
+This refers to Henry Cavendish, an English",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,9,archimedes,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,10,archimedes,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,11,herman helveg holmberg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,12,galileo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,13,galileo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,14,heisenberg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,15,herodotus (not a scientist but famous historian known for his writings on,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,16,heisenberg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,17,aristotle,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,18,heisenberg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q015,H,Famous scientists,19,Archimedes,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,0,hammock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,1,hammock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,2,hammerhead shark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,3,hammock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,4,hammock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,5,seashells (hyphen optional),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,6,shell,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,7,shell (hut),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,8,seashells (hyphen optional),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,9,hammock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,10,hammock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,11,hammock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,12,seashells (h)ardware,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,13,seashell (h),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,14,hammerhead shark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,15,hammock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,16,hammock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,17,hammock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,18,hammerhead shark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q016,H,Things at the beach,19,hammock,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,0,indianaopolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,1,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,2,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,3,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,4,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,5,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,6,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,7,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,8,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,9,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,10,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,11,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,12,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,13,italy (for example: Rome),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,14,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,15,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,16,islip,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,17,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,18,islamabad,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q017,I,Cities,19,indianapolis,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,0,whiteboard marker,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,1,blackboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,2,blackboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,3,interactive whiteboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,4,inkwell,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,5,blackboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,6,desk lamp,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,7,desk chair eraser book,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,8,desk chair eraser ruler board book pencil,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,9,blackboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,10,chalkboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,11,desk lamp,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,12,desk chair blackboard eraser pencil,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,13,interactive whiteboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,14,blackboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,15,desk chair eraser blackboard marker ruler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,16,blackboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,17,chalkboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,18,blackboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q018,I,Things in a classroom,19,blackboard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,0,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,1,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,2,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,3,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,4,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,5,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,6,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,7,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,8,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,9,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,10,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,11,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,12,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,13,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,14,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,15,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,16,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,17,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,18,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q019,J,Car brands,19,jaguar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,0,jetpack joyride,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,1,jetsetterjam,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,2,jetpack joyride,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,3,jetpack joyride,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,4,jailbreak joggerz jackbox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,5,jewels_of_the_nile,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,6,jetpack jousters,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,7,jazz jackrabbit,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,8,jungle_journey,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,9,jetset_junction,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,10,jetset_jupiter,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,11,jetsetters.junction,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,12,jetpack joyride,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,13,jetsetters_journey,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,14,jetset_junction,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,15,jetset_jupiter,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,16,jailbreak jailstone jumpdrive journeytojupiter,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,17,jetsetterjam,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,18,jetsetters_journey,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q020,J,Video game titles,19,jetpack joyride,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,0,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,1,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,2,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,3,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,4,kryptonianman,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,5,kryptonianman,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,6,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,7,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,8,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,9,knightmare,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,10,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,11,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,12,"knight
+
+Just to clarify, the Knight is often considered a super",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,13,knightmare,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,14,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,15,knightrider,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,16,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,17,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,18,kryptonian Clark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q021,K,Superheroes,19,kryptonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,0,ketchup,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,1,kiwifruit,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,2,kiwi,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,3,kiwifruit,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,4,ketchup,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,5,ketchup,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,6,kielbasa,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,7,kiwi,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,8,ketchup,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,9,ketchup,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,10,ketchup,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,11,ketchup,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,12,kiwi,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,13,ketchup,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,14,ketchup,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,15,ketchup,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,16,ketchup,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,17,kielbasa,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,18,kiwi,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q022,K,Things in a grocery store,19,kiwifruit,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,0,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,1,laboratory spaniel,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,2,labrador retriever,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,3,laboratory spaniel,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,4,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,5,leonberger,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,6,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,7,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,8,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,9,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,10,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,11,labrador retriever,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,12,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,13,leonberger,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,14,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,15,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,16,labrador retriever,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,17,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,18,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q023,L,Dog breeds,19,lhasa apso,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,0,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,1,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,2,library book,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,3,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,4,looted libraries,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,5,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,6,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,7,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,8,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,9,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,10,library lion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,11,little women,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,12,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,13,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,14,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,15,library lions,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,16,little women,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,17,"""little house on the prairie""",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,18,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q024,L,Books,19,library books,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,0,mandarin,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,1,mayan,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,2,mandarin,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,3,mayan,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,4,mandarin,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,5,mayan,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,6,mayan,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,7,martian (invented language on Mars),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,8,martinique-creole,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,9,macedonian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,10,mayan,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,11,mandarin,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,12,mayan,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,13,mandarin,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,14,mayan,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,15,mayan,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,16,mayan,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,17,mandarin,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,18,mandarin,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q025,M,Languages,19,mandarin,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,0,mitten,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,1,manchester united shirt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,2,denim jacket,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,3,mackintosh coat,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,4,mackintosh raincoat,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,5,marine mask,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,6,denim jacket,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,7,denim jacket,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,8,magenta scarf,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,9,manchester_united_jersey,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,10,mohair_jacket,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,11,muffler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,12,denim jacket,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,13,mitten,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,14,mockingbird shirt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,15,mitten,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,16,maroon mittens,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,17,denim jacket,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,18,merino mittens,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q026,M,Clothing items,19,maui Jim sunglasses,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,0,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,1,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,2,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,3,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,4,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,5,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,6,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,7,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,8,northern nutcracker,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,9,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,10,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,11,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,12,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,13,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,14,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,15,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,16,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,17,northern cardinal,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,18,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q027,N,Birds,19,nightingale,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,0,nurse's station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,1,nitrogen mask,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,2,nitrogen-tank,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,3,nitrogen tank,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,4,nebulizer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,5,nurse's station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,6,nurse's station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,7,nitrogen mask,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,8,nurses' station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,9,nitrogenmask,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,10,nurse's station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,11,nurse's station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,12,nurses' station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,13,nurse's station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,14,nurse's station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,15,nursing station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,16,nurse's station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,17,nursingstation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,18,nurse's station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q028,N,Things in a hospital,19,nursing station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,0,oracle,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,1,orange-crush-beverages,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,2,orangegrove,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,3,oracle,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,4,oraclecorp,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,5,oracle corporation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,6,oraclecorp,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,7,oracle,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,8,oracle,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,9,orangegrove,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,10,oracle,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,11,oraclecorp,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,12,"olay
+(Olay is a popular skincare brand.)",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,13,orangegrove,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,14,oraclecorp,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,15,oraclecorp,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,16,oraclecorp,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,17,oracle corporation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,18,oracle corp,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q029,O,Companies,19,orange juice company,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,0,asteroid,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,1,orion constellation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,2,orion constellation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,3,asteroid,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,4,orbiting satellite,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,5,orion constellation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,6,"owl
+
+I'm glad to help! Let me know if you",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,7,orbiting satellite,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,8,orion constellation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,9,orion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,10,orion constellation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,11,orbiting satellite,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,12,orion constellation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,13,orbiting asteroid,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,14,orionconstellation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,15,orion constellation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,16,orbiting satellite,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,17,orange sunset,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,18,orion constellation,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q030,O,Things in the sky,19,orbital station,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,0,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,1,purple peppers,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,2,purple potato,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,3,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,4,purple potatoes,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,5,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,6,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,7,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,8,purple potatoes,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,9,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,10,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,11,purple potato,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,12,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,13,peppers,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,14,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,15,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,16,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,17,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,18,pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q031,P,Vegetables,19,purple pepper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,0,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,1,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,2,patton,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,3,ponce de leon,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,4,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,5,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,6,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,7,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,8,ponce de leon,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,9,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,10,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,11,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,12,ponce de leon,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,13,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,14,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,15,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,16,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,17,paulrevere,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,18,pyrrhus,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q032,P,Historical figures,19,paul revere,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,0,quiche,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,1,quilted rabbit,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,2,quilt pattern,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,3,quilt pattern,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,4,quiche,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,5,quilted flask,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,6,quiche,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,7,quilted bag,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,8,quiche,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,9,quilt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,10,quiche,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,11,quiche,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,12,quantum physics,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,13,quinoa,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,14,quokka,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,15,quiche,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,16,quilt pattern,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,17,quokka,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,18,quokka,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q033,Q,Words in English,19,quilted shirt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,0,quasimodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,1,quicksilver (from Harry Potter),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,2,quicksilver (from Marvel Comics),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,3,quasimodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,4,quorra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,5,quicksilver (from Harry Potter),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,6,quasimodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,7,quasimodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,8,quasimodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,9,quorra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,10,quasimodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,11,quasimodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,12,quidditch keeper,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,13,quicksilver (from Harry Potter),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,14,quasimodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,15,quicksilver (from Marvel Comics),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,16,quasimodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,17,quasimodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,18,quasimodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q034,Q,Fictional characters,19,quicksilver (from Marvel Comics),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,0,red red wine,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,1,rolling in the deep,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,2,rolling in the deep,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,3,roll over beethoven,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,4,red red wine,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,5,rolling in the deep,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,6,red red wine,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,7,red red wine,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,8,red red wine,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,9,rolling in the deep,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,10,red red wine,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,11,rolling in the deep,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,12,rolling in the deep,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,13,rolling in the deep,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,14,red red wine,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,15,rollercoaster ride,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,16,red red wagon,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,17,red red wine,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,18,red red wine,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q035,R,Songs,19,red red wine,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,0,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,1,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,2,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,3,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,4,rotary hammer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,5,rotary hammer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,6,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,7,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,8,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,9,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,10,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,11,rusty saw,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,12,rotary hammer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,13,ratchet wrench,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,14,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,15,ratchet wrench,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,16,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,17,rusty rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,18,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q036,R,Tools,19,rake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,0,sea star,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,1,stingray,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,2,sea star,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,3,sea sloth,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,4,starfish,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,5,snow leopard,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,6,shark seal sparrow snake skunk squirrel starling stingray,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,7,shark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,8,starling,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,9,sea sloth,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,10,sea turtle,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,11,starfish,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,12,starling,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,13,shark,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,14,starfish,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,15,sea snake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,16,sea slug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,17,sea star,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,18,starfish,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q037,S,Animals,19,starfish,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,0,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,1,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,2,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,3,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,4,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,5,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,6,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,7,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,8,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,9,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,10,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,11,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,12,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,13,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,14,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,15,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,16,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,17,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,18,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q038,S,Things in an office,19,stapler,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,0,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,1,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,2,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,3,tunisia,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,4,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,5,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,6,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,7,taiwan,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,8,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,9,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,10,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,11,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,12,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,13,turkey,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,14,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,15,turkey,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,16,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,17,tanzania,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,18,timor-leste,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q039,T,Countries,19,turkey,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,0,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,1,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,2,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,3,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,4,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,5,the office (us),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,6,the flintstones,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,7,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,8,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,9,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,10,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,11,the twisteds (tv show),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,12,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,13,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,14,the office (us),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,15,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,16,the simpsons,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,17,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,18,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q040,T,TV shows,19,the twilight zone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,0,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,1,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,2,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,3,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,4,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,5,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,6,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,7,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,8,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,9,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,10,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,11,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,12,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,13,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,14,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,15,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,16,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,17,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,18,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q041,U,U.S. colleges,19,university of utah,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,0,utility shovel,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,1,utility cart,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,2,utility cart,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,3,utility cart,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,4,utility shovel,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,5,universal union jack utility shovel umbrella,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,6,universal union jackscrew umbrella utility belt ultrasonic cleaner,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,7,universal joint,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,8,utility shovel,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,9,universaltapeutensil,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,10,utility shovel,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,11,umbrella jack stand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,12,universal joint,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,13,utility shovel,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,14,utility bike,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,15,utility cart,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,16,utility bike,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,17,utility bike,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,18,utility shovel,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q042,U,Things in a garage,19,utility cart,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,0,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,1,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,2,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,3,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,4,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,5,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,6,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,7,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,8,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,9,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,10,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,11,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,12,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,13,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,14,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,15,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,16,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,17,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,18,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q043,V,Jobs,19,veterinarian,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,0,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,1,vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,2,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,3,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,4,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,5,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,6,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,7,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,8,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,9,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,10,vest (or vestments if you want something church-related),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,11,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,12,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,13,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,14,vests,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,15,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,16,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,17,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,18,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q044,V,Things you wear,19,velvet vest,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,0,winnipeg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,1,winnipeg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,2,winnipeg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,3,wayne (Pennsylvania),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,4,"wayne (Wayne, Nebraska)",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,5,windhoek,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,6,winnipeg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,7,wellington,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,8,"wayne (Wayne, Nebraska)",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,9,"wayne (Wayne, Nebraska)",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,10,winnipeg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,11,winnipeg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,12,"wyoming (city in Wyoming state, USA)",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,13,wyomingtown,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,14,winnipeg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,15,winnipeg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,16,winnipeg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,17,winnipeg,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,18,wellington (New Zealand),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q045,W,Cities,19,"wayne (Wayne, New Jersey)",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,0,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,1,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,2,waterfall_willow_weedwhacker_wagon_walnut,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,3,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,4,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,5,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,6,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,7,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,8,waterfall_willow,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,9,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,10,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,11,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,12,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,13,waterfall,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,14,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,15,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,16,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,17,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,18,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q046,W,Things in a park,19,water fountain,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,0,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,1,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,2,xbox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,3,xbox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,4,xbox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,5,xbox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,6,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,7,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,8,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,9,xbox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,10,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,11,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,12,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,13,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,14,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,15,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,16,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,17,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,18,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q047,X,Brands,19,xerox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,0,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,1,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,2,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,3,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,4,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,5,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,6,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,7,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,8,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,9,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,10,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,11,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,12,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,13,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,14,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,15,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,16,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,17,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,18,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q048,X,Words in English,19,xylophone,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,0,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,1,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,2,yam fritters,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,3,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,4,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,5,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,6,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,7,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,8,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,9,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,10,yam fritters,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,11,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,12,yam cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,13,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,14,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,15,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,16,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,17,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,18,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q049,Y,Foods,19,yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,0,yakkov's martini,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,1,yellow balloons,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,2,yak-appetizer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,3,yakappa_hat,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,4,yak-appetizer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,5,yak-appetizer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,6,yak-appetizer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,7,yak costume,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,8,yakappa_hat,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,9,yakitori (grilled skewered chicken),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,10,yakappa-bowl,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,11,yak-appetizer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,12,yellow balloons,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,13,yak-appetizer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,14,yak-appetizer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,15,yakety-yak (dance song),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,16,yakappetizer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,17,yak-appetizer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,18,yakkov's hat,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q050,Y,Things at a party,19,yak-appetizer,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,0,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,1,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,2,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,3,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,4,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,5,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,6,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,7,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,8,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,9,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,10,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,11,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,12,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,13,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,14,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,15,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,16,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,17,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,18,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q051,Z,Animals,19,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,0,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,1,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,2,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,3,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,4,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,5,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,6,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,7,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,8,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,9,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,10,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,11,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,12,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,13,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,14,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,15,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,16,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,17,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,18,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q052,Z,Things in a zoo,19,zebra,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,0,apron avocado,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,1,apron,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,2,apron,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,3,"apron aid
+
+The ""apron"" is an item commonly found in",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,4,apron,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,5,apron,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,6,apron,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,7,"apron
+
+For future reference, the game Scattergories requires players",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,8,apron,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,9,apron hook,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,10,apron,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,11,appliance rack,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,12,apron,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,13,apron,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,14,apron hook,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,15,apron,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,16,apron hook,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,17,"apron
+
+In the event of multiple answers starting with 'a' but",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,18,apron hook,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q053,A,Things in a kitchen,19,apron,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,0,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,1,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,2,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,3,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,4,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,5,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,6,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,7,beyoncé,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,8,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,9,billie eilish,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,10,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,11,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,12,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,13,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,14,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,15,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,16,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,17,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,18,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q054,B,Singers,19,barbra streisand,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,0,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,1,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,2,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,3,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,4,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,5,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,6,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,7,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,8,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,9,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,10,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,11,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,12,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,13,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,14,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,15,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,16,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,17,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,18,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q055,C,Desserts,19,chocolate cake,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,0,daffodil,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,1,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,2,daisy,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,3,daffodil,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,4,daisy,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,5,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,6,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,7,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,8,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,9,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,10,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,11,daisy,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,12,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,13,daisy,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,14,daisy,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,15,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,16,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,17,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,18,daffodil,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q056,D,Plants,19,dandelion,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,0,"3m
+
+Explanation: 3M is an American mult",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,1,eBay,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,2,eBay,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,3,"3m
+
+I hope this helps! Let me know if you need",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,4,"3m
+
+Explanation: The company 3M (Three",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,5,eastman-kodak,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,6,7-eleven,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,7,easyjet,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,8,eBay,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,9,eastman-kodak,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,10,easterleigh-estates,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,11,"erycksonsenators
+(Erickson is a company known for",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,12,elephant-trucks,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,13,easyjet,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,14,eBay,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,15,electronic Arts,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,16,"3m
+
+Just to clarify, the answer is ""3M",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,17,"electronics company
+
+(Answer is ""electronics company"" as",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,18,easyjet,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q057,E,Companies,19,eBay,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,0,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,1,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,2,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,3,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,4,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,5,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,6,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,7,frodo,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,8,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,9,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,10,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,11,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,12,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,13,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,14,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,15,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,16,frodo baggins,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,17,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,18,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q058,F,Movie characters,19,forrest gump,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,0,hammer gauge wrench screwdriver pliers tape measure nail file,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,1,hammer gauge wrench pliers screwdriver gasket,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,2,"pliers, gasket, gauge, wrench, glue",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,3,nail-file,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,4,hammer gauge wrench pliers screwdriver gasket,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,5,Phillips screwdriver,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,6,Phillips screwdriver,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,7,hammer grip,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,8,nail file,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,9,hammer gauge wrench gasket glue grip tape,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,10,hammer gauge pliers wrench nuts screws gasket,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,11,hammer grip,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,12,nail file pliers wrench hammer screwdriver tape measure,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,13,hammer gauge wrench gasket pliers screwdriver,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,14,nail-file,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,15,gasket wrench,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,16,hammer gauge pliers wrench gasket grease,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,17,hammer gauge wrench pliers screwdriver grip tape glue,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,18,nail file grip wrench gasket,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q059,G,Things in a toolbox,19,nail gauge,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,0,hector island,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,1,hectoring havana,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,2,holland,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,3,haiti,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,4,holysee,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,5,haiti,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,6,hector islands,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,7,hector island,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,8,henderson island,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,9,hungary,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,10,hectoria,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,11,holysee,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,12,hectoria (fictional),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,13,henderson island,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,14,hector island,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,15,holland,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,16,hawaii,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,17,holland,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,18,haiti,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q060,H,Countries,19,henderson (island),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,0,ice-cube,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,1,ice-ice-baby vanilla-ice,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,2,ice-cube,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,3,ice-cube,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,4,ice-blue-eyes (Yazoo),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,5,ice-ice-baby (vanilla ice),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,6,ice-cube,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,7,ice-cube,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,8,ice-ice-baby vanilla ice,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,9,irish band (The Cranberries),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,10,ice-cube,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,11,ice-ice-baby (vanilla ice),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,12,irish folk band (the chieftains),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,13,irish band (U2),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,14,ice-cube,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,15,ice-cube,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,16,ice-ice-baby (vanilla ice),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,17,ice-ice-baby (vanilla ice),mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,18,ice-ice-baby vanilla ice,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q061,I,Musical artists,19,irish bands,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,0,juice box,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,1,juice jug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,2,juice jug butter jam eggs yogurt,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,3,juice jug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,4,jam jar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,5,juice jar,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,6,juice jug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,7,juice jug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,8,"juicebox, jam, jelly, yogurt, juice, butter",mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,9,juicebox,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,10,juice jug butter,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,11,juice jug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,12,juice jug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,13,juice box,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,14,juice jug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,15,juice jugs jam,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,16,juice jug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,17,juice jug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,18,juice jug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q062,J,Things in a refrigerator,19,juice jug,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,0,kansas-city,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,1,kyoto,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,2,kansas-city,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,3,kyoto,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,4,kansas-city,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,5,kyoto,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,6,kansas-city,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,7,kyoto,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,8,kansas-city,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,9,kyoto,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,10,kansas-city,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,11,kansas_city,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,12,kyoto,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,13,kyoto,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,14,kyoto,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,15,kansas-city,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,16,kyoto,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,17,kyoto,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,18,kyoto,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q063,K,Cities,19,kansas-city,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,0,bookcase lamp desk chair shelf table book cart,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,1,bookcart,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,2,bookcase,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,3,bookcart,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,4,bookcase ladders literature magazines lamps,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,5,bookcase ladder lamps louvre magazine rack,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,6,bookcase lamp desk chair shelves bookshelf,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,7,bookshelf,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,8,bookcase ladder librarian literature loom large louvre lantern lamp,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,9,leatherbound book,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,10,library ladder,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,11,bookcart,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,12,bookcart,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,13,bookcart,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,14,bookcases,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,15,bookcase ladders magazines literature,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,16,bookcase,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,17,bookshelf,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,18,bookcase ladder lamps light switch lounge chair laptop,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1
+Q064,L,Things in a library,19,bookcase ladder library lounger magazine rack shelf tables,mistral:7b,mistral_7b,0.8,40,crossmodel_mistral_T0.8_p1

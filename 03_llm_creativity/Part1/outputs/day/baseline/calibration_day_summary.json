@@ -1,0 +1,244 @@
+[
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 0.0,
+    "samples": 500,
+    "prompt_id": "baseline",
+    "unique_answers": 1,
+    "entropy_nats": 0.0,
+    "top_answers": [
+      [
+        "sunday",
+        500
+      ]
+    ],
+    "kl_to_uniform": 1.9459101490553132,
+    "tv_to_uniform": 0.8571428571428572
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 0.5,
+    "samples": 500,
+    "prompt_id": "baseline",
+    "unique_answers": 3,
+    "entropy_nats": 0.3345020501737523,
+    "top_answers": [
+      [
+        "sunday",
+        457
+      ],
+      [
+        "tuesday",
+        35
+      ],
+      [
+        "wednesday",
+        8
+      ]
+    ],
+    "kl_to_uniform": 1.6114080988815611,
+    "tv_to_uniform": 0.7711428571428571
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 1.0,
+    "samples": 500,
+    "prompt_id": "baseline",
+    "unique_answers": 3,
+    "entropy_nats": 0.7283444429876936,
+    "top_answers": [
+      [
+        "sunday",
+        370
+      ],
+      [
+        "tuesday",
+        93
+      ],
+      [
+        "wednesday",
+        37
+      ]
+    ],
+    "kl_to_uniform": 1.2175657060676197,
+    "tv_to_uniform": 0.6402857142857143
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 1.5,
+    "samples": 500,
+    "prompt_id": "baseline",
+    "unique_answers": 3,
+    "entropy_nats": 0.8897566274399373,
+    "top_answers": [
+      [
+        "sunday",
+        317
+      ],
+      [
+        "tuesday",
+        122
+      ],
+      [
+        "wednesday",
+        61
+      ]
+    ],
+    "kl_to_uniform": 1.0561535216153761,
+    "tv_to_uniform": 0.5922857142857143
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 2.0,
+    "samples": 500,
+    "prompt_id": "baseline",
+    "unique_answers": 3,
+    "entropy_nats": 0.9987361686517267,
+    "top_answers": [
+      [
+        "sunday",
+        267
+      ],
+      [
+        "tuesday",
+        146
+      ],
+      [
+        "wednesday",
+        87
+      ]
+    ],
+    "kl_to_uniform": 0.9471739804035867,
+    "tv_to_uniform": 0.5714285714285714
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 3.0,
+    "samples": 500,
+    "prompt_id": "baseline",
+    "unique_answers": 3,
+    "entropy_nats": 1.0617468918085518,
+    "top_answers": [
+      [
+        "sunday",
+        229
+      ],
+      [
+        "tuesday",
+        151
+      ],
+      [
+        "wednesday",
+        120
+      ]
+    ],
+    "kl_to_uniform": 0.8841632572467616,
+    "tv_to_uniform": 0.5714285714285714
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 4.0,
+    "samples": 500,
+    "prompt_id": "baseline",
+    "unique_answers": 3,
+    "entropy_nats": 1.0538597753000336,
+    "top_answers": [
+      [
+        "sunday",
+        225
+      ],
+      [
+        "tuesday",
+        170
+      ],
+      [
+        "wednesday",
+        105
+      ]
+    ],
+    "kl_to_uniform": 0.8920503737552796,
+    "tv_to_uniform": 0.5714285714285714
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 5.0,
+    "samples": 500,
+    "prompt_id": "baseline",
+    "unique_answers": 3,
+    "entropy_nats": 1.067247671135086,
+    "top_answers": [
+      [
+        "sunday",
+        216
+      ],
+      [
+        "tuesday",
+        169
+      ],
+      [
+        "wednesday",
+        115
+      ]
+    ],
+    "kl_to_uniform": 0.8786624779202272,
+    "tv_to_uniform": 0.5714285714285714
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 7.5,
+    "samples": 500,
+    "prompt_id": "baseline",
+    "unique_answers": 3,
+    "entropy_nats": 1.095254199342939,
+    "top_answers": [
+      [
+        "sunday",
+        185
+      ],
+      [
+        "wednesday",
+        163
+      ],
+      [
+        "tuesday",
+        152
+      ]
+    ],
+    "kl_to_uniform": 0.8506559497123745,
+    "tv_to_uniform": 0.5714285714285714
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 10.0,
+    "samples": 500,
+    "prompt_id": "baseline",
+    "unique_answers": 3,
+    "entropy_nats": 1.0930080288618076,
+    "top_answers": [
+      [
+        "sunday",
+        191
+      ],
+      [
+        "tuesday",
+        160
+      ],
+      [
+        "wednesday",
+        149
+      ]
+    ],
+    "kl_to_uniform": 0.8529021201935056,
+    "tv_to_uniform": 0.5714285714285714
+  }
+]

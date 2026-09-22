@@ -1,0 +1,1290 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,armadillo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,1,armadillo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,2,armadillo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,3,alpaca,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,4,addax,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,5,addax,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,6,armadillo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,7,alligator,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,8,alligator,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,9,armadillo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,10,armadillo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,11,alligator,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,12,antelope,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,13,alligator,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,14,alligator,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,15,addax,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,16,addax,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,17,addax,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,18,tiger,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q001,A,Animals,19,addax,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,0,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,1,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,2,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,3,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,4,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,5,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,6,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,7,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,8,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,9,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,10,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,11,assistant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,12,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,13,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,14,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,15,architect,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,16,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,17,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,18,accountant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q002,A,Jobs,19,architect,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,0,bengal orange,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,1,banana,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,2,blueberry,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,3,beet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,4,blueberry,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,5,bengal orange,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,6,bansuri,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,7,banana,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,8,blackberry,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,9,blueberry,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,10,blackberry,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,11,banana,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,12,bananas,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,13,blood orange,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,14,boysenberry,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,15,boysenberry,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,16,blueberry,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,17,bannana,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,18,banyan,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q003,B,Fruits,19,bannana,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,0,beet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,1,brick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,2,brick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,3,beet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,4,brick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,5,barnacles,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,6,beet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,7,bell peppers,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,8,beet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,9,beet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,10,beets,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,11,beet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,12,beets,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,13,beet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,14,beets,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,15,brick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,16,tomato,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,17,beet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,18,brick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q004,B,Things that are red,19,beet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,0,cameroon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,1,cameroon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,2,cameroon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,3,cambodia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,4,costa rica,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,5,canada,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,6,canada,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,7,croatia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,8,chile,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,9,cape verde,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,10,cameroon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,11,costa rica,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,12,costa rica,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,13,costa rica,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,14,cameroon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,15,cameroon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,16,canada,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,17,cameroon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,18,cambodia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q005,C,Countries,19,canada,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,0,connect 4,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,1,chutes and ladders,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,2,connect four,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,3,connect 4,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,4,candy land,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,5,chutes and ladders,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,6,carcassonne,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,7,connect four,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,8,connect 4,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,9,checkers,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,10,checkers,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,11,connect four,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,12,connect 4,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,13,connect 4,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,14,checkers,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,15,chutes and ladders,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,16,checkers,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,17,cranium,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,18,candy land,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q006,C,Board games,19,candy land,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,0,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,1,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,2,dulcimer,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,3,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,4,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,5,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,6,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,7,drum,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,8,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,9,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,10,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,11,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,12,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,13,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,14,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,15,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,16,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,17,drum,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,18,drums,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q007,D,Musical instruments,19,dulcimer,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,0,dish soap,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,1,drain,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,2,dryer,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,3,dryer,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,4,drain,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,5,drain,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,6,drain,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,7,dryer,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,8,toilet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,9,shower,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,10,toilet paper,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,11,drain,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,12,dental floss,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,13,damp cloth,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,14,damp towel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,15,drain,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,16,drain,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,17,shower,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,18,drain,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q008,D,Things in a bathroom,19,shower,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,0,eastern europeans are often excluded from competing due to visa restrictions.,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,1,equestrian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,2,extreme sports,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,3,english rugby,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,4,equestrian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,5,equestrian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,6,english rugby,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,7,equestrian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,8,endurance training,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,9,eastern european basketball league,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,10,english rugby,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,11,extreme sports,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,12,equestrian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,13,european football,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,14,endurance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,15,extreme sports,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,16,equestrian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,17,english rugby,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,18,equestrian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q009,E,Sports,19,english rugby,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,0,electra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,1,echo park,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,2,european vacation,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,3,enter the doctors,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,4,enter the dancers,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,5,everybody wants some,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,6,elderberry fields,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,7,enterprise,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,8,elderberry bush,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,9,empty man,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,10,elderberry bush,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,11,easy money,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,12,elderberryburg,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,13,echo park,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,14,elderberries,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,15,evening star,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,16,e.t.,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,17,electron,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,18,electric horseman,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q010,E,Movie titles,19,eagle,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,0,flatfish,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,1,flagtail,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,2,flathead,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,3,flatfish,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,4,flounder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,5,flounder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,6,flake,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,7,flakeless fish,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,8,flounder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,9,flounder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,10,flounder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,11,flounder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,12,flounder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,13,flounder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,14,flounder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,15,flounder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,16,flagtail fish,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,17,flake,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,18,flatfish,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q011,F,Fish,19,flounder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,0,file folders,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,1,file folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,2,folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,3,first aid kit,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,4,folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,5,file folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,6,folders,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,7,file folders,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,8,file folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,9,folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,10,folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,11,folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,12,file folders,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,13,file folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,14,folders,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,15,file folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,16,fountain pen,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,17,file folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,18,file folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q012,F,Things in a backpack,19,file folder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,0,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,1,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,2,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,3,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,4,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,5,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,6,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,7,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,8,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,9,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,10,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,11,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,12,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,13,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,14,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,15,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,16,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,17,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,18,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q013,G,U.S. states,19,georgia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,0,ginger,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,1,guacamole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,2,grape,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,3,guacamole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,4,guacamole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,5,gooseberry,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,6,guacamole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,7,ground beef,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,8,goulash,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,9,guacamole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,10,guacamole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,11,goulash,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,12,gnocchi,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,13,guacamole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,14,guacamole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,15,guacamole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,16,grapes,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,17,guanciale,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,18,guacamole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q014,G,Foods,19,guacamole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,0,harlow shapley,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,1,hans von ohain,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,2,henri lebel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,3,hans krebs,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,4,hans christian orr,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,5,harrison wright,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,6,hermann von helmholtz,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,7,hans jensen,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,8,hans christian oersted,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,9,henri louis dreyfus,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,10,harrison,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,11,hans jensens,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,12,harlow,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,13,hannah hayne,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,14,hermann von helmholtz,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,15,hans jensen,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,16,harrison william,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,17,henrietta leavitt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,18,herbert harlow,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q015,H,Famous scientists,19,harrison,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,0,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,1,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,2,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,3,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,4,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,5,high tide,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,6,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,7,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,8,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,9,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,10,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,11,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,12,horseshoe,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,13,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,14,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,15,hermit crab,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,16,hull,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,17,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,18,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q016,H,Things at the beach,19,hut,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,0,Istanbul,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,1,indianapolis,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,2,iguaçu,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,3,icelanic city ofreykjavik,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,4,israel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,5,iglesias,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,6,istanbul,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,7,israel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,8,Istanbul,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,9,Indianapolis,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,10,iccasso,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,11,indianapolis,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,12,icelance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,13,Indianapolis,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,14,iowa city,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,15,islamabad,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,16,israel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,17,israel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,18,incheon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q017,I,Cities,19,istanbul,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,0,whiteboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,1,whiteboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,2,teacher,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,3,whiteboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,4,whiteboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,5,blackboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,6,interact,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,7,whiteboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,8,whiteboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,9,chalkboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,10,chalkboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,11,blackboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,12,whiteboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,13,pencil case,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,14,whiteboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,15,chalkboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,16,whiteboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,17,desk,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,18,whiteboard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q018,I,Things in a classroom,19,teacher,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,0,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,1,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,2,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,3,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,4,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,5,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,6,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,7,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,8,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,9,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,10,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,11,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,12,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,13,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,14,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,15,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,16,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,17,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,18,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q019,J,Car brands,19,jaguar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,0,jagged alliance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,1,jagged alliance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,2,jekyll and hyde,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,3,journey to the center of the earth,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,4,jagged alliance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,5,jagged allies,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,6,jupiter academy,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,7,journey,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,8,journey,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,9,jagged alliance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,10,journey,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,11,jumper cable,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,12,jagged alliance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,13,jagged alliance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,14,jagged alliance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,15,journey,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,16,jagged alliance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,17,johnny grand dame,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,18,jaws,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q020,J,Video game titles,19,journey into the jungle,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,0,knight,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,1,kangaroo man,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,2,krypto,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,3,krypto krypto,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,4,kurt wang,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,5,krypto,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,6,karen page,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,7,krypto,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,8,klaus wand,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,9,kryptonite,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,10,kitty pryde,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,11,khan,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,12,kite man,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,13,krypto,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,14,kernel man,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,15,krypton,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,16,krypto,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,17,krypto,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,18,knight,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q021,K,Superheroes,19,krypto,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,0,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,1,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,2,kiwi,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,3,kiwi,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,4,kiwi fruit,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,5,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,6,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,7,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,8,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,9,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,10,kettle mix,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,11,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,12,kettle mix,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,13,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,14,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,15,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,16,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,17,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,18,ketchup,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q022,K,Things in a grocery store,19,kiwi,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,0,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,1,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,2,labrador retriever,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,3,labrador retriever,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,4,Labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,5,Labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,6,Labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,7,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,8,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,9,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,10,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,11,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,12,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,13,labrador retriever,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,14,labrador retriever,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,15,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,16,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,17,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,18,labrador,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q023,L,Dog breeds,19,labrador retriever,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,0,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,1,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,2,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,3,lonesome duck city,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,4,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,5,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,6,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,7,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,8,lonesome dove,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,9,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,10,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,11,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,12,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,13,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,14,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,15,lost generation,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,16,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,17,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,18,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q024,L,Books,19,lord of the rings,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,0,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,1,macedonian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,2,macedonian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,3,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,4,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,5,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,6,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,7,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,8,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,9,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,10,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,11,macedonian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,12,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,13,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,14,mongolian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,15,maltese,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,16,manx,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,17,macedonian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,18,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q025,M,Languages,19,malay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,0,matador jacket,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,1,milk dress,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,2,monokini,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,3,manhole cover,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,4,monocle,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,5,maxi dress,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,6,maxi dress,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,7,manchester,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,8,maillot,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,9,man t-shirt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,10,monokini,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,11,maxi dress,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,12,mannequin,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,13,mules,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,14,military jacket,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,15,midriff,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,16,loafers,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,17,maillot,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,18,monocle,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q026,M,Clothing items,19,mullet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,0,northern flicker,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,1,nightingale,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,2,northern flicker,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,3,new zealand falcon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,4,norway barnacle,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,5,norway barnacle,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,6,new holland hornbill,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,7,norway rat,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,8,northern flicker,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,9,northern flicker,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,10,northern flicker,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,11,northern fowl,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,12,nighthawk,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,13,northern flicker,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,14,northern flicker,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,15,nightingale,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,16,northern flicker,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,17,new hampshire yellowthroat,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,18,newfoundland,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q027,N,Birds,19,norway rat,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,0,nursing station,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,1,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,2,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,3,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,4,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,5,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,6,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,7,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,8,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,9,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,10,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,11,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,12,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,13,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,14,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,15,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,16,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,17,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,18,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q028,N,Things in a hospital,19,nurse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,0,o eon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,1,oceanos,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,2,ocean freight forwarding co,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,3,oceanic petroleum,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,4,o eon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,5,ocean blue textiles,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,6,ocean insurance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,7,ocean freight forwarders,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,8,oceanic plywood corporation,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,9,ocians group inc,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,10,oceanos,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,11,oceanography institute,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,12,"ocean
+
+no 
+
+ changed to
+ olympia",llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,13,oceanus tech,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,14,o e j scotts,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,15,o reilly,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,16,ocean spray,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,17,o eon energy,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,18,ocean sciences institute,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q029,O,Companies,19,ocianco,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,0,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,1,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,2,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,3,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,4,ocean cloud,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,5,open ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,6,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,7,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,8,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,9,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,10,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,11,open sky,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,12,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,13,open ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,14,orange clouds,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,15,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,16,ocean,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,17,ocean clouds,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,18,orange clouds,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q030,O,Things in the sky,19,oceanic clouds,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,0,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,1,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,2,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,3,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,4,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,5,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,6,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,7,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,8,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,9,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,10,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,11,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,12,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,13,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,14,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,15,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,16,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,17,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,18,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q031,P,Vegetables,19,parsnip,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,0,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,1,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,2,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,3,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,4,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,5,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,6,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,7,pierre curie,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,8,paul revere,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,9,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,10,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,11,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,12,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,13,pierre curie,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,14,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,15,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,16,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,17,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,18,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q032,P,Historical figures,19,peter the great,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,0,quaint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,1,quiet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,2,question,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,3,quietly,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,4,quail,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,5,qualify,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,6,question,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,7,quaint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,8,quartz,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,9,question,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,10,quietly,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,11,question,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,12,question,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,13,quiet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,14,quaint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,15,quiet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,16,quality,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,17,question,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,18,quaint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q033,Q,Words in English,19,questionnaire,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,0,queer eye,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,1,quasimodo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,2,quasimodo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,3,quasimodo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,4,quantum of solace's james bond,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,5,quentin quail,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,6,quentin tremayne,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,7,quantum of solace's james bond,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,8,quentin quayle,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,9,quentin quayle,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,10,quentin quire,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,11,quentin trevelyan,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,12,quentin martin,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,13,quasimodo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,14,queen of thorns,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,15,quentin quayle,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,16,quentin quasar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,17,quasimodo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,18,qbert,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q034,Q,Fictional characters,19,quasimodo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,0,rock around the clock,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,1,rock around the clock,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,2,ruby Tuesday,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,3,rock around the clock,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,4,rhapsody,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,5,rock around the clock,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,6,respect,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,7,rock around the clock,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,8,rock around the clock,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,9,rock around the clock,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,10,ruby rhymin man,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,11,respect,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,12,radio,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,13,radius,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,14,rolling in the deep,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,15,rock around the clock,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,16,rhapsody in red,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,17,rock around the clock,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,18,rock around the clock,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q035,R,Songs,19,rock around the clock,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,0,rip saw,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,1,rim saw,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,2,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,3,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,4,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,5,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,6,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,7,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,8,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,9,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,10,rope cutter,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,11,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,12,rubber mallet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,13,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,14,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,15,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,16,rope,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,17,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,18,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q036,R,Tools,19,ratchet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,0,seal,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,1,squirrel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,2,sheep,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,3,squirrel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,4,sheep,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,5,sheep,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,6,squirrel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,7,squirrel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,8,space turtle,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,9,squirrel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,10,spotted hyena,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,11,sheep,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,12,squirrel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,13,sloth,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,14,squirrel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,15,sheep,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,16,salamander,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,17,squirrel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,18,sloth,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q037,S,Animals,19,seal,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,0,file,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,1,scanner,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,2,stapler,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,3,file cabinet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,4,"space 
+
+(Note: This is a piece of furniture commonly found in offices)",llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,5,space heater,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,6,scanner,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,7,space heater,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,8,stapler,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,9,stapler,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,10,computer software,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,11,file organizer,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,12,file clerk,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,13,stapler,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,14,stapler,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,15,meeting space,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,16,space heater,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,17,stapler,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,18,server,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q038,S,Things in an office,19,"space 
+
+ office chairs",llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,0,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,1,tonga,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,2,tonga,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,3,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,4,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,5,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,6,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,7,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,8,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,9,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,10,tonga,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,11,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,12,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,13,tonga,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,14,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,15,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,16,tanzania,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,17,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,18,taiwan,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q039,T,Countries,19,tunisia,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,0,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,1,texas justice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,2,the twilight zone,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,3,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,4,the twilight zone,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,5,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,6,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,7,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,8,total drama island,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,9,this old house,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,10,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,11,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,12,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,13,tiny house,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,14,the office,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,15,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,16,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,17,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,18,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q040,T,TV shows,19,twin peaks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,0,usc,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,1,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,2,University of Utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,3,yale university,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,4,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,5,ucla,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,6,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,7,harvard university,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,8,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,9,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,10,iowa state university,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,11,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,12,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,13,University of Utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,14,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,15,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,16,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,17,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,18,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q041,U,U.S. colleges,19,university of utah,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,0,universal joint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,1,universal joint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,2,utensil holder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,3,universal joint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,4,utensil holder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,5,utility,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,6,universal joint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,7,universal joint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,8,workbench,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,9,utensil holder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,10,universal joint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,11,universal jack,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,12,oil filter,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,13,space,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,14,unicycle,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,15,universal joint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,16,universal joint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,17,oil filter,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,18,universal joint,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q042,U,Things in a garage,19,universal motor,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,0,ventilator technician,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,1,veteran,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,2,viator,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,3,vacuum cleaner technician,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,4,ventilator technician,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,5,veterinarian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,6,veterinarian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,7,valuer,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,8,video technician,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,9,video game designer,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,10,veteran,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,11,veterinarian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,12,veterinarian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,13,Veterinarian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,14,veterinarian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,15,Veterinarian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,16,veterinarian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,17,video producer,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,18,veterinarian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q043,V,Jobs,19,veterinarian,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,0,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,1,vests,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,2,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,3,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,4,velvet,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,5,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,6,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,7,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,8,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,9,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,10,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,11,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,12,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,13,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,14,velcro sneakers,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,15,vests,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,16,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,17,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,18,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q044,V,Things you wear,19,vest,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,0,walnut creek,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,1,wilmington,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,2,washington,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,3,washington,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,4,washington d c,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,5,wichita,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,6,wichita,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,7,worcester,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,8,windsor,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,9,washington d c,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,10,waterloo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,11,winston salem,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,12,wilmington,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,13,washington,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,14,waikiki,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,15,winnipeg,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,16,winnipeg,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,17,waikiki,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,18,wichita,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q045,W,Cities,19,windsor,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,0,waterfall,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,1,walkway,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,2,water feature,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,3,walkway,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,4,walkway,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,5,walkway,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,6,walking path,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,7,water fountain,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,8,walkway,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,9,wading pool,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,10,walkway,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,11,walkway,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,12,walkway,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,13,walkway,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,14,winding walk,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,15,walkway,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,16,wetlands,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,17,water fountain,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,18,walk,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q046,W,Things in a park,19,walkway,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,0,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,1,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,2,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,3,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,4,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,5,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,6,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,7,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,8,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,9,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,10,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,11,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,12,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,13,xbox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,14,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,15,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,16,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,17,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,18,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q047,X,Brands,19,xbox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,0,excuses,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,1,xenon,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,2,exotic,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,3,excess,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,4,excess,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,5,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,6,excess,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,7,excavation,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,8,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,9,explore,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,10,extract,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,11,xerox,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,12,exotic,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,13,exotic,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,14,exit,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,15,x ray,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,16,excavate,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,17,x ray,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,18,exotic,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q048,X,Words in English,19,extremist,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,0,yellowtail,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,1,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,2,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,3,yellow corn,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,4,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,5,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,6,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,7,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,8,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,9,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,10,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,11,yellowtail,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,12,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,13,yellowtail,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,14,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,15,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,16,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,17,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,18,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q049,Y,Foods,19,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,0,snack table,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,1,yellow cake,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,2,yakutsk cocktail mix,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,3,yellow lemonade,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,4,photo booth,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,5,photobooth,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,6,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,7,yogurt cups,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,8,yellow cake,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,9,photobooth,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,10,yellow cake,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,11,fondue,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,12,canapé,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,13,yacht club,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,14,favors,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,15,foosball table,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,16,yogurt,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,17,drinks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,18,yacht,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q050,Y,Things at a party,19,drinks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,0,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,1,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,2,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,3,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,4,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,5,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,6,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,7,zorse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,8,zorse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,9,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,10,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,11,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,12,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,13,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,14,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,15,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,16,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,17,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,18,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q051,Z,Animals,19,zorse,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,0,zebras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,1,zookeeper,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,2,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,3,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,4,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,5,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,6,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,7,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,8,zoo animals,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,9,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,10,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,11,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,12,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,13,zoo animals,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,14,zookeeper,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,15,zoo monkey,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,16,zoo lizard,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,17,zoo animals,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,18,zebras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q052,Z,Things in a zoo,19,zebra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,0,utensils,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,1,asparagus,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,2,asparagus,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,3,aluminum,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,4,appliance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,5,apple,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,6,toaster,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,7,blender,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,8,apron,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,9,toaster,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,10,apron,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,11,appliance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,12,americase,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,13,apron,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,14,aspirator,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,15,aspirator,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,16,appliance,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,17,aluminum,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,18,aspirator,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q053,A,Things in a kitchen,19,aspirator,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,0,beyoncé,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,1,bryan adams,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,2,bryan adams,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,3,brittany murphy,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,4,barbra,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,5,billie eilish,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,6,brian mcknight,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,7,brian setzer,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,8,beyoncé,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,9,beyoncé,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,10,billy joel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,11,billy joel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,12,bobby brown,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,13,bryan adams,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,14,brittany snow,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,15,bryan adams,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,16,billie eilish,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,17,britney spears,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,18,billy joel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q054,B,Singers,19,billy joel,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,0,cannoli,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,1,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,2,crème brûlée,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,3,crème brûlée,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,4,croissant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,5,creme brulee,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,6,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,7,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,8,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,9,croissant,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,10,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,11,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,12,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,13,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,14,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,15,crème brûlée,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,16,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,17,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,18,creme brulee,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q055,C,Desserts,19,croissants,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,0,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,1,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,2,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,3,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,4,daylily,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,5,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,6,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,7,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,8,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,9,daisy,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,10,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,11,daisy,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,12,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,13,daisy,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,14,daisy,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,15,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,16,daffodil,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,17,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,18,dandelion,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q056,D,Plants,19,dagga,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,0,eggs cell,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,1,ebay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,2,e bay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,3,eBay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,4,e bay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,5,electric,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,6,e bay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,7,eBay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,8,e bay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,9,electric car company,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,10,electricity companies,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,11,e bay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,12,eastman,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,13,eBay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,14,e bay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,15,eBay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,16,eBay,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,17,evernote,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,18,european airlines,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q057,E,Companies,19,eastman,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,0,fergie,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,1,frankenstein's monster,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,2,frodo baggins,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,3,frodo baggins,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,4,frodo baggins,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,5,frodo baggins,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,6,frankenstein's monster,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,7,frodo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,8,frankenstein's monster,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,9,frank nitti,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,10,frodo,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,11,frodo baggins,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,12,frank nitti,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,13,frodo baggins,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,14,frodo baggins,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,15,ferris budder,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,16,frodo baggins,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,17,ferris bueller,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,18,frankenstein's monster,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q058,F,Movie characters,19,frankenstein,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,0,drill bit,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,1,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,2,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,3,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,4,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,5,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,6,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,7,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,8,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,9,gasket,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,10,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,11,gear,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,12,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,13,hammer,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,14,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,15,drill bits,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,16,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,17,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,18,gutter key,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q059,G,Things in a toolbox,19,glue stick,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,0,hong kong,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,1,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,2,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,3,hong kong,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,4,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,5,hungary,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,6,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,7,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,8,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,9,hong kong,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,10,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,11,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,12,hong kong,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,13,hong kong,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,14,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,15,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,16,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,17,hong kong,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,18,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q060,H,Countries,19,honduras,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,0,isaac narwhal,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,1,iggy pop,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,2,isley brothers,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,3,indie,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,4,iggy pop,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,5,irving,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,6,ice cube,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,7,ice cube,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,8,india. Arie,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,9,iggy pop,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,10,ice cube,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,11,ikky flicks,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,12,iggy pop,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,13,iggy pop,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,14,israel kamakawiwo'ole,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,15,iggy pop,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,16,ian mcdonald,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,17,iggles,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,18,ice cube,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q061,I,Musical artists,19,indigo girls,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,0,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,1,jar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,2,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,3,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,4,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,5,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,6,jar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,7,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,8,jar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,9,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,10,jar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,11,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,12,jar,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,13,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,14,jam,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,15,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,16,jam,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,17,jelly,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,18,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q062,J,Things in a refrigerator,19,juice,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,0,kuala lumps,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,1,kansas city,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,2,kansas city,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,3,koch,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,4,kuala lumpur,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,5,kuala lumpur,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,6,kuala lumpur,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,7,knoxville,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,8,knoxville,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,9,kansas city,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,10,kansas city,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,11,kuala lumpur,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,12,kolkata,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,13,kansas city,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,14,kuala lumpur,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,15,kansas city,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,16,kansas city,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,17,kolkata,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,18,kansas city,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q063,K,Cities,19,knoxville,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,0,local studies room,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,1,local book,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,2,loans,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,3,loans,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,4,local history books,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,5,library catalog,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,6,locomobile,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,7,local history,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,8,library card,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,9,lost books,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,10,local history books,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,11,local library,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,12,loan shelf,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,13,local bookshelf,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,14,bookshelf,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,15,bookshelf,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,16,library card,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,17,catalog,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,18,local newspaper,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2
+Q064,L,Things in a library,19,local history collection,llama3.2:3b,llama32_3b,0.8,40,crossmodel_llama_T0.8_p2

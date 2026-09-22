@@ -1,0 +1,19 @@
+Task: output exactly one lowercase day name.
+
+Use this exact procedure:
+1. Sample a random integer n uniformly from 0 to 999.
+2. Compute r = n modulo 7.
+3. Map r to a day:
+0 -> monday
+1 -> tuesday
+2 -> wednesday
+3 -> thursday
+4 -> friday
+5 -> saturday
+6 -> sunday
+4. Output only the mapped day name.
+
+Rules:
+- Do not output n.
+- Do not output r.
+- Do not output any explanation, punctuation, or extra text.

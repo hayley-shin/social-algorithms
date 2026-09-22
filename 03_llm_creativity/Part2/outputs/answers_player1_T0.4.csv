@@ -1,0 +1,1281 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,1,alpaca,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,2,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,3,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,4,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,5,alpaca,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,6,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,7,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,8,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,9,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,10,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,11,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,12,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,13,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,14,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,15,alpaca,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,16,alpaca,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,17,albatross,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,18,alpaca,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q001,A,Animals,19,alpaca,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,0,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,1,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,2,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,3,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,4,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,5,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,6,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,7,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,8,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,9,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,10,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,11,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,12,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,13,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,14,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,15,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,16,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,17,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,18,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q002,A,Jobs,19,accountant,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,0,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,1,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,2,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,3,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,4,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,5,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,6,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,7,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,8,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,9,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,10,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,11,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,12,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,13,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,14,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,15,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,16,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,17,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,18,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q003,B,Fruits,19,blueberry,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,0,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,1,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,2,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,3,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,4,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,5,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,6,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,7,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,8,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,9,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,10,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,11,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,12,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,13,bottle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,14,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,15,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,16,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,17,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,18,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q004,B,Things that are red,19,banana,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,0,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,1,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,2,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,3,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,4,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,5,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,6,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,7,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,8,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,9,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,10,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,11,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,12,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,13,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,14,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,15,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,16,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,17,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,18,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q005,C,Countries,19,canada,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,0,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,1,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,2,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,3,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,4,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,5,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,6,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,7,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,8,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,9,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,10,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,11,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,12,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,13,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,14,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,15,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,16,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,17,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,18,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q006,C,Board games,19,chess,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,0,drum set,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,1,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,2,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,3,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,4,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,5,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,6,drum set,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,7,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,8,drum set,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,9,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,10,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,11,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,12,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,13,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,14,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,15,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,16,drum set,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,17,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,18,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q007,D,Musical instruments,19,drum,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,0,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,1,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,2,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,3,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,4,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,5,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,6,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,7,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,8,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,9,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,10,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,11,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,12,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,13,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,14,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,15,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,16,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,17,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,18,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q008,D,Things in a bathroom,19,toothbrush,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,0,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,1,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,2,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,3,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,4,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,5,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,6,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,7,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,8,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,9,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,10,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,11,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,12,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,13,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,14,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,15,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,16,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,17,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,18,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q009,E,Sports,19,tennis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,0,eternal sunshine of the spotless mind,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,1,eternal sunshine of the spotless mind,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,2,eternal sunshine of the spotless mind,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,3,eternal sunshine of the spotless mind,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,4,eternal sunshine of the spotless mind,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,5,eclipse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,6,eclipse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,7,eclipse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,8,eclipse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,9,eternal sunshine of the spotless mind,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,10,eternal sunshine of the spotless mind,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,11,e.t.,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,12,eclipse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,13,eclipse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,14,eclipse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,15,eclipse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,16,eclipse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,17,eclipse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,18,eighth wonder of the world,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q010,E,Movie titles,19,easter sunrise,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,0,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,1,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,2,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,3,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,4,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,5,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,6,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,7,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,8,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,9,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,10,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,11,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,12,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,13,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,14,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,15,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,16,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,17,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,18,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q011,F,Fish,19,flounder,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,0,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,1,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,2,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,3,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,4,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,5,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,6,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,7,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,8,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,9,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,10,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,11,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,12,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,13,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,14,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,15,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,16,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,17,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,18,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q012,F,Things in a backpack,19,flashlight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,0,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,1,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,2,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,3,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,4,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,5,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,6,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,7,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,8,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,9,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,10,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,11,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,12,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,13,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,14,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,15,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,16,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,17,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,18,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q013,G,U.S. states,19,georgia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,0,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,1,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,2,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,3,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,4,garlic bread,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,5,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,6,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,7,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,8,garlic bread,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,9,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,10,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,11,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,12,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,13,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,14,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,15,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,16,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,17,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,18,grapefruit,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q014,G,Foods,19,garlic bread,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,0,galileo galilei,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,1,huygens,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,2,huygens,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,3,hawking,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,4,huygens,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,5,hawking,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,6,huygens,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,7,huygens,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,8,hawking,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,9,huygens,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,10,huygens,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,11,huygens,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,12,hawking,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,13,huygens,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,14,hawking steinhardt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,15,isaac newton,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,16,hawking,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,17,huygens,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,18,galileo galilei,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q015,H,Famous scientists,19,huygens,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,0,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,1,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,2,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,3,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,4,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,5,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,6,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,7,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,8,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,9,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,10,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,11,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,12,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,13,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,14,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,15,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,16,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,17,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,18,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q016,H,Things at the beach,19,hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,0,iceland,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,1,istanbul,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,2,indianapolis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,3,indianapolis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,4,istanbul,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,5,istanbul,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,6,istanbul,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,7,indianapolis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,8,indianapolis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,9,indianapolis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,10,indianapolis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,11,istanbul,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,12,iceland,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,13,istanbul,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,14,istanbul,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,15,indianapolis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,16,indianapolis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,17,istanbul,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,18,istanbul,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q017,I,Cities,19,indianapolis,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,0,interior,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,1,interior,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,2,interactboard,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,3,interactboard,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,4,interior design book,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,5,interior,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,6,interior whiteboard,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,7,interactometer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,8,interior,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,9,interactieve whiteboard,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,10,interior,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,11,interior whiteboard,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,12,interior design book,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,13,interior,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,14,interactboard,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,15,interior,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,16,interactives,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,17,interior decorations,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,18,interactboard,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q018,I,Things in a classroom,19,interior decorations,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,0,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,1,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,2,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,3,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,4,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,5,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,6,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,7,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,8,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,9,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,10,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,11,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,12,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,13,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,14,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,15,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,16,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,17,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,18,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q019,J,Car brands,19,jaguar,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,0,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,1,jungle hunt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,2,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,3,jungle hunt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,4,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,5,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,6,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,7,journey to the center,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,8,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,9,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,10,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,11,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,12,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,13,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,14,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,15,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,16,jungle hunt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,17,jungle hunt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,18,jungle hunt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q020,J,Video game titles,19,just dance,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,0,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,1,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,2,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,3,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,4,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,5,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,6,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,7,king kong,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,8,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,9,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,10,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,11,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,12,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,13,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,14,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,15,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,16,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,17,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,18,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q021,K,Superheroes,19,kal-el,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,0,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,1,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,2,ketchup,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,3,ketchup,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,4,ketchup,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,5,ketchup,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,6,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,7,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,8,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,9,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,10,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,11,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,12,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,13,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,14,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,15,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,16,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,17,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,18,kiwi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q022,K,Things in a grocery store,19,ketchup,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,0,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,1,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,2,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,3,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,4,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,5,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,6,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,7,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,8,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,9,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,10,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,11,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,12,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,13,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,14,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,15,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,16,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,17,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,18,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q023,L,Dog breeds,19,labrador retriever,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,0,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,1,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,2,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,3,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,4,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,5,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,6,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,7,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,8,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,9,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,10,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,11,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,12,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,13,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,14,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,15,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,16,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,17,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,18,lord of the flies,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q024,L,Books,19,lord of the rings,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,0,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,1,mongolian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,2,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,3,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,4,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,5,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,6,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,7,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,8,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,9,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,10,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,11,spanish,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,12,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,13,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,14,mongolian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,15,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,16,mandarin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,17,mongolian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,18,spanish,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q025,M,Languages,19,spanish,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,0,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,1,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,2,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,3,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,4,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,5,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,6,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,7,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,8,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,9,muffin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,10,t-shirt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,11,sweater,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,12,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,13,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,14,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,15,sweater,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,16,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,17,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,18,mug,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q026,M,Clothing items,19,man's shirt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,0,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,1,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,2,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,3,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,4,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,5,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,6,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,7,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,8,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,9,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,10,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,11,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,12,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,13,norwegian blue,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,14,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,15,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,16,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,17,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,18,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q027,N,Birds,19,nightingale,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,0,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,1,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,2,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,3,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,4,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,5,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,6,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,7,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,8,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,9,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,10,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,11,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,12,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,13,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,14,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,15,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,16,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,17,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,18,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q028,N,Things in a hospital,19,nurse,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,0,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,1,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,2,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,3,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,4,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,5,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,6,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,7,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,8,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,9,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,10,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,11,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,12,office depot,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,13,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,14,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,15,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,16,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,17,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,18,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q029,O,Companies,19,oracle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,0,clouds,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,1,cloud,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,2,clouds,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,3,cloud,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,4,cloud,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,5,clouds,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,6,clouds,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,7,cloud,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,8,clouds,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,9,cloud,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,10,clouds,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,11,cloud,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,12,clouds,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,13,cloud,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,14,clouds,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,15,clouds,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,16,cloud,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,17,cloud,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,18,clouds,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q030,O,Things in the sky,19,cloud,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,0,pepper,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,1,potato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,2,pepper,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,3,potato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,4,"pepperoni (though not strictly a vegetable, per se, as it's",qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,5,pepperoni peppers,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,6,potato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,7,potato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,8,potato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,9,potato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,10,pepper,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,11,potato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,12,potato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,13,pepper,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,14,potato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,15,potato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,16,potato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,17,pepper,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,18,pepper,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q031,P,Vegetables,19,pepper,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,0,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,1,pompey,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,2,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,3,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,4,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,5,pompey,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,6,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,7,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,8,plato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,9,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,10,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,11,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,12,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,13,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,14,plato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,15,plato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,16,pompey,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,17,pompey,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,18,peter the great,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q032,P,Historical figures,19,plato,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,0,quill,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,1,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,2,queen,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,3,quill,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,4,quill,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,5,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,6,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,7,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,8,quill,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,9,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,10,quill,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,11,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,12,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,13,quill,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,14,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,15,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,16,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,17,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,18,quilt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q033,Q,Words in English,19,quill,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,0,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,1,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,2,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,3,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,4,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,5,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,6,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,7,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,8,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,9,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,10,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,11,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,12,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,13,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,14,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,15,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,16,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,17,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,18,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q034,Q,Fictional characters,19,quasimodo,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,0,raining in spain,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,1,radiohead,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,2,raining in spain,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,3,radiohead,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,4,raindrops keep falling on my head,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,5,radiohead,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,6,radiohead,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,7,radiohead,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,8,raindrops keep falling on my head,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,9,raindrops keep falling on my head,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,10,raindrops keep falling on my head,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,11,raindrops keep falling on my head,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,12,rhythm of the rain,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,13,rhythm of the rain,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,14,raindrops keep falling on my head,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,15,rhythm of the rain,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,16,rhythm of the rain,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,17,raindrops keep falling on my head,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,18,raindrops keep falling on my head,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q035,R,Songs,19,rhythm of the rain,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,0,rubber gloves,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,1,razor,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,2,rubber mitt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,3,razor,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,4,rubber,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,5,pliers,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,6,rake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,7,rubber,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,8,rubber,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,9,rubber,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,10,rubber,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,11,razor,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,12,rubber gloves,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,13,rake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,14,rubber mitt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,15,rubber,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,16,rake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,17,rubber,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,18,rubber,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q036,R,Tools,19,rubber,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,0,squirrel,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,1,squirrel,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,2,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,3,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,4,squirrel,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,5,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,6,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,7,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,8,squirrel,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,9,squirrel,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,10,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,11,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,12,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,13,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,14,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,15,squirrel,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,16,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,17,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,18,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q037,S,Animals,19,snake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,0,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,1,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,2,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,3,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,4,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,5,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,6,scissors,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,7,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,8,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,9,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,10,scissors,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,11,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,12,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,13,scissors,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,14,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,15,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,16,scissors,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,17,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,18,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q038,S,Things in an office,19,stapler,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,0,thailand,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,1,tunisia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,2,thailand,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,3,taiwan,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,4,taiwan,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,5,thailand,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,6,tunisia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,7,tunisia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,8,thailand,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,9,tunisia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,10,thailand,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,11,thailand,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,12,tunisia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,13,thailand,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,14,tunisia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,15,tunisia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,16,tunisia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,17,thailand,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,18,tunisia,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q039,T,Countries,19,thailand,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,0,thrive global,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,1,thirtynine,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,2,thirtynine,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,3,thirtynine,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,4,the office,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,5,thirtysomething,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,6,thirtysomething,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,7,thrive global,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,8,thirtynine,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,9,thirtysomething,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,10,thrive global,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,11,thirtysomething,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,12,the office,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,13,the office,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,14,thirtysomething,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,15,thrive global,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,16,thundercats,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,17,thirtysomething,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,18,twilight,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q040,T,TV shows,19,the office,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,0,university of utah,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,1,university of michigan,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,2,university of pennsylvania,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,3,university of utah,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,4,university of utah,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,5,university of michigan,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,6,university of michigan,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,7,university of utah,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,8,university of utah,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,9,university of pennsylvania,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,10,university of pennsylvania,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,11,university of utah,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,12,university of michigan,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,13,university of pennsylvania,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,14,university of pennsylvania,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,15,university of pennsylvania,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,16,university of pennsylvania,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,17,university of utah,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,18,university of pennsylvania,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q041,U,U.S. colleges,19,university of pennsylvania,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,0,utility box,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,1,umbrella,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,2,unicycle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,3,umbrella,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,4,uncle sam hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,5,unicycle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,6,unicycle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,7,unicycle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,8,umbrella,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,9,umbrella,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,10,unicycle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,11,utility box,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,12,unicycle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,13,unicycle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,14,umbrella,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,15,umbrella,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,16,unicycle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,17,unicycle,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,18,uncle's old vacuum cleaner,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q042,U,Things in a garage,19,uncle sam hat,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,0,valet,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,1,veterinarian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,2,veterinarian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,3,veterinarian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,4,valet,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,5,veterinarian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,6,veterinarian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,7,veterinarian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,8,vet,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,9,vet,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,10,veterinarian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,11,valet,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,12,vet,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,13,veterinarian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,14,valet,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,15,valet,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,16,veterinarian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,17,valet,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,18,veterinarian,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q043,V,Jobs,19,valet,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,0,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,1,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,2,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,3,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,4,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,5,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,6,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,7,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,8,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,9,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,10,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,11,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,12,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,13,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,14,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,15,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,16,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,17,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,18,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q044,V,Things you wear,19,vest,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,0,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,1,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,2,washington,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,3,washington,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,4,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,5,washington,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,6,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,7,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,8,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,9,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,10,washington,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,11,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,12,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,13,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,14,washington,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,15,washington,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,16,washington,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,17,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,18,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q045,W,Cities,19,warsaw,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,0,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,1,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,2,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,3,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,4,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,5,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,6,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,7,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,8,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,9,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,10,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,11,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,12,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,13,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,14,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,15,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,16,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,17,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,18,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q046,W,Things in a park,19,willow,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,0,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,1,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,2,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,3,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,4,xbox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,5,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,6,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,7,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,8,xbox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,9,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,10,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,11,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,12,xbox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,13,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,14,xbox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,15,xbox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,16,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,17,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,18,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q047,X,Brands,19,xiaomi,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,0,xerox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,1,xenon,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,2,xerox copy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,3,xray,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,4,xenon,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,5,xenon,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,6,xenon,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,7,xerox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,8,xray,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,9,xerox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,10,xenon,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,11,xenon,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,12,xenon,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,13,xerox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,14,xerox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,15,xenon,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,16,xerox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,17,xenon,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,18,xenon,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q048,X,Words in English,19,xerox,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,0,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,1,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,2,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,3,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,4,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,5,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,6,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,7,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,8,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,9,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,10,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,11,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,12,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,13,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,14,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,15,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,16,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,17,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,18,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q049,Y,Foods,19,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,0,yogurt,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,1,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,2,yummy snacks,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,3,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,4,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,5,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,6,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,7,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,8,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,9,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,10,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,11,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,12,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,13,yorkshire pudding,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,14,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,15,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,16,yacht,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,17,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,18,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q050,Y,Things at a party,19,yacht party,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,0,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,1,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,2,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,3,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,4,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,5,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,6,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,7,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,8,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,9,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,10,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,11,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,12,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,13,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,14,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,15,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,16,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,17,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,18,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q051,Z,Animals,19,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,0,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,1,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,2,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,3,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,4,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,5,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,6,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,7,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,8,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,9,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,10,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,11,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,12,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,13,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,14,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,15,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,16,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,17,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,18,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q052,Z,Things in a zoo,19,zebra,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,0,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,1,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,2,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,3,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,4,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,5,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,6,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,7,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,8,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,9,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,10,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,11,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,12,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,13,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,14,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,15,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,16,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,17,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,18,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q053,A,Things in a kitchen,19,apple,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,0,beyoncé,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,1,bruno mars,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,2,bruno mars,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,3,beyoncé,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,4,beyoncé,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,5,britney spears,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,6,beyoncé,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,7,britney spears,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,8,beyoncé,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,9,backstreet boys,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,10,brandy singer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,11,britney spears,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,12,beck,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,13,brandy singer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,14,beyoncé,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,15,beyonce,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,16,brandy singer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,17,britney spears,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,18,beyoncé,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q054,B,Singers,19,britney spears,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,0,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,1,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,2,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,3,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,4,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,5,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,6,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,7,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,8,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,9,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,10,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,11,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,12,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,13,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,14,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,15,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,16,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,17,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,18,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q055,C,Desserts,19,chocolate cake,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,0,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,1,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,2,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,3,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,4,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,5,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,6,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,7,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,8,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,9,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,10,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,11,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,12,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,13,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,14,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,15,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,16,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,17,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,18,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q056,D,Plants,19,daisy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,0,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,1,eBay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,2,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,3,eBay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,4,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,5,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,6,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,7,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,8,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,9,eBay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,10,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,11,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,12,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,13,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,14,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,15,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,16,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,17,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,18,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q057,E,Companies,19,ebay,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,0,frodo baggins,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,1,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,2,frodo baggins,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,3,forrest gump,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,4,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,5,frodo baskin,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,6,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,7,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,8,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,9,frankenstein,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,10,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,11,frodo baggins,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,12,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,13,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,14,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,15,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,16,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,17,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,18,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q058,F,Movie characters,19,fred flintstone,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,0,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,1,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,2,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,3,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,4,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,5,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,6,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,7,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,8,hammer gun screws,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,9,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,10,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,11,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,12,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,13,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,14,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,15,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,16,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,17,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,18,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q059,G,Things in a toolbox,19,hammer,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,0,hong kong,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,1,hong kong,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,2,hong kong,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,3,honduras,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,4,hong kong,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,5,honduras,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,6,haiti,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,7,honduras,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,8,hong kong,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,9,hong kong,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,10,honduras,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,11,hong kong,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,12,hong kong,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,13,honduras,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,14,hong kong,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,15,honduras,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,16,hong kong,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,17,honduras,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,18,honduras,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q060,H,Countries,19,honduras,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,0,ironic alice cooper,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,1,ironic iron maiden,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,2,ironic iceage,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,3,ironic iggy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,4,ironic ice cream men,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,5,ironic ice cream men,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,6,ironic alice cooper,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,7,ironic iggy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,8,ironic indie isolettes,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,9,ironic ice cream men,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,10,ironic iron maiden,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,11,ironic alice cooper,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,12,ina gonzales,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,13,ironic ice cream men,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,14,ironic isolette,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,15,ironic iggy,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,16,ironic alice cooper,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,17,ironic ice cream men,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,18,ironic isolettes,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q061,I,Musical artists,19,ironic ice cream men,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,0,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,1,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,2,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,3,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,4,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,5,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,6,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,7,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,8,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,9,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,10,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,11,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,12,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,13,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,14,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,15,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,16,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,17,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,18,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q062,J,Things in a refrigerator,19,juice,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,0,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,1,kansas city,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,2,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,3,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,4,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,5,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,6,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,7,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,8,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,9,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,10,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,11,kansas city,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,12,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,13,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,14,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,15,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,16,kansas city,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,17,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,18,knoxville,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q063,K,Cities,19,kansas city,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,0,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,1,library,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,2,library,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,3,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,4,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,5,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,6,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,7,library,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,8,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,9,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,10,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,11,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,12,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,13,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,14,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,15,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,16,library,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,17,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,18,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1
+Q064,L,Things in a library,19,library card,qwen2.5:7b,player1,0.4,40,selfplay_qwen_v1

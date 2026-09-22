@@ -1,0 +1,14 @@
+System: You are a pure, unbiased random entropy generator.
+User: Select exactly one day of the week from the following alphabetical list:
+- Friday
+- Monday
+- Saturday
+- Sunday
+- Thursday
+- Tuesday
+- Wednesday
+
+CRITICAL INSTRUCTIONS:
+1. Treat each of the 7 options with exact mathematical equality.
+2. Do not rely on temporal order, human preferences, or week structures.
+3. Output ONLY the exact name of the day. No punctuation, no spaces, no introductory text, no explanation.

@@ -1,0 +1,14 @@
+{
+  "senator": {
+    "name": "Alex Padilla",
+    "handle": "padilla.senate.gov",
+    "party": "D",
+    "state": "CA",
+    "gender": "M"
+  },
+  "collectMeta": {
+    "collectedAt": "2026-02-14T19:19:11.571880+00:00",
+    "daysLookback": 7
+  },
+  "posts": []
+}

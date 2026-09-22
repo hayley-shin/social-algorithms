@@ -1,0 +1,222 @@
+{
+  "senator": {
+    "name": "Jack Reed",
+    "handle": "reed.senate.gov",
+    "party": "D",
+    "state": "RI",
+    "gender": "M"
+  },
+  "collectMeta": {
+    "collectedAt": "2026-02-14T19:02:36.793947+00:00",
+    "daysLookback": 7
+  },
+  "posts": [
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3merjskf4r22w",
+      "createdAt": "2026-02-13T22:15:23.277Z",
+      "text": "An early happy Valentine\u2019s Day from the most romantic state in the nation!",
+      "likeCount": 16,
+      "repostCount": 2,
+      "replies": [],
+      "repliesCollected": 0,
+      "replyCount": 0
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3mergzqceuc2w",
+      "createdAt": "2026-02-13T21:25:43.134Z",
+      "text": "RED ALERT: AI romance scams are up this time of year. Know how to spot red flags from V-Day romance scammers:",
+      "likeCount": 4,
+      "repostCount": 1,
+      "replies": [],
+      "repliesCollected": 0,
+      "replyCount": 0
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3mergr66fqc2l",
+      "createdAt": "2026-02-13T21:20:55.688Z",
+      "text": "Thanks to Soni Guzman Stokes, Keith Stokes, RI Black Heritage Society & all who joined today's Black History Month celebration. \n\nFascinating to learn more about the Black experience in RI during the Gilded Age & how Black RIers helped shape civil rights & social change nationwide.",
+      "likeCount": 7,
+      "repostCount": 2,
+      "replies": [],
+      "repliesCollected": 0,
+      "replyCount": 0
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3meoycdor2c2z",
+      "createdAt": "2026-02-12T21:56:46.294Z",
+      "text": "",
+      "likeCount": 19,
+      "repostCount": 6,
+      "replies": [
+        {
+          "handle": "jimlo-hi.bsky.social",
+          "displayName": "JIM",
+          "timestamp": "2026-02-12T21:57:53.863Z",
+          "text": "We want ICE out of our cities",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 1,
+      "replyCount": 1
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3meojc2aubc2z",
+      "createdAt": "2026-02-12T17:28:10.274Z",
+      "text": "Congress has to work together to lower costs. \n\nDespite GOP leadership\u2019s attempts to put up roadblocks, yesterday the House voted to reverse Trump\u2019s tariffs that Americans are paying for. \n\nLet\u2019s build on this progress & bring down costs for working families.",
+      "likeCount": 13,
+      "repostCount": 4,
+      "replies": [
+        {
+          "handle": "goodsauce.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T18:01:48.109Z",
+          "text": "That resolution and $5 will get you some coffee, maybe.",
+          "likeCount": 0
+        },
+        {
+          "handle": "pcccar.bsky.social",
+          "displayName": "Maybe She's Born With It, Maybe It's Clinical Depression",
+          "timestamp": "2026-02-12T17:35:57.819Z",
+          "text": "\u2753\ufe0f\u2757\ufe0f\u2753\ufe0f\u2757\ufe0f\ud83d\ude44\ud83d\ude44",
+          "likeCount": 0
+        },
+        {
+          "handle": "creddingvye.bsky.social",
+          "displayName": "Colleen Redding",
+          "timestamp": "2026-02-12T17:46:45.219Z",
+          "text": "Thank you, Senator!",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 3,
+      "replyCount": 3
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3memdrpiz4c2w",
+      "createdAt": "2026-02-11T20:44:11.801Z",
+      "text": "www.nytimes.com/live/2026/02...",
+      "likeCount": 6,
+      "repostCount": 2,
+      "replies": [],
+      "repliesCollected": 0,
+      "replyCount": 0
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3memdrnhgi22w",
+      "createdAt": "2026-02-11T20:44:11.800Z",
+      "text": "Conflicting accounts on El Paso from different parts of the federal gov\u2019t only deepen public concern & raise serious questions about coordination & decision-making. I\u2019m pushing for a full account of what happened to ensure security decisions are being made responsibly.",
+      "likeCount": 19,
+      "repostCount": 4,
+      "replies": [
+        {
+          "handle": "reed.senate.gov",
+          "displayName": "U.S. Senator Jack Reed",
+          "timestamp": "2026-02-11T20:44:11.801Z",
+          "text": "www.nytimes.com/live/2026/02...",
+          "likeCount": 6
+        },
+        {
+          "handle": "phuckwhoisthisguy.bsky.social",
+          "displayName": "James Mitchell\ud83d\udc48Who the Phuck is this Guy?",
+          "timestamp": "2026-02-12T10:40:08.487Z",
+          "text": "youtu.be/o0Iobk78KNw?...",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 2,
+      "replyCount": 2
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3mem5yrqws22e",
+      "createdAt": "2026-02-11T19:00:48.733Z",
+      "text": "My Affordable Housing & Homeownership Protection Act and Preserving Homes & Communities Act would build more homes, lower costs, & take on giant investors unfairly blocking families from homeownership.",
+      "likeCount": 10,
+      "repostCount": 3,
+      "replies": [],
+      "repliesCollected": 0,
+      "replyCount": 0
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3melnh6ycm22n",
+      "createdAt": "2026-02-11T14:04:38.761Z",
+      "text": "It was, by definition, a genocide. Principled American leaders should have the courage to recognize the history and suffering of the Armenian people.",
+      "likeCount": 11,
+      "repostCount": 3,
+      "replies": [
+        {
+          "handle": "freesky25.bsky.social",
+          "displayName": "Forever, Forever",
+          "timestamp": "2026-02-11T16:29:16.991Z",
+          "text": "NO ICE! \n\nIt's a leftover from Bush, time to clean house of the Epstein class(He's in the Ep-Files!)\n\nTrump is turning them into an election denying force, many of them are already election deniers and J6ers.\n\nYou can do this now or try later once your family is in the gulag!\n\nNO DHS/CBP!",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 1,
+      "replyCount": 1
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3mejihcnsa22n",
+      "createdAt": "2026-02-10T17:29:51.660Z",
+      "text": "rollcall.com/2026/02/10/h...",
+      "likeCount": 5,
+      "repostCount": 2,
+      "replies": [
+        {
+          "handle": "brookebee.bsky.social",
+          "displayName": " Brooke (she/her)",
+          "timestamp": "2026-02-11T12:43:56.126Z",
+          "text": "Is this psychopath going to invade Mexico? Is anyone going to even try to stop him? bsky.app/profile/samj...",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 1,
+      "replyCount": 1
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3mejih7zhyc2n",
+      "createdAt": "2026-02-10T17:29:51.659Z",
+      "text": "Trump\u2019s reckless tariff taxes cost American families an estimated $1,700 last year. \n\nI helped pass 4 Senate resolutions to revoke harmful tariffs but House Republican leadership are blocking progress on lowering your costs because they\u2019d rather protect Trump than fix affordability.",
+      "likeCount": 17,
+      "repostCount": 3,
+      "replies": [
+        {
+          "handle": "reed.senate.gov",
+          "displayName": "U.S. Senator Jack Reed",
+          "timestamp": "2026-02-10T17:29:51.660Z",
+          "text": "rollcall.com/2026/02/10/h...",
+          "likeCount": 5
+        }
+      ],
+      "repliesCollected": 1,
+      "replyCount": 1
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3meh5sgswzc2g",
+      "createdAt": "2026-02-09T19:13:57.246Z",
+      "text": "70 new homes now available in the heart of downtown Woonsocket thanks to significant federal investments I helped deliver. NeighborWorks Blackstone River Valley\u2019s innovative vision here reimagined historic mills into welcoming homes for low- & mid-income RIers.",
+      "likeCount": 17,
+      "repostCount": 2,
+      "replies": [],
+      "repliesCollected": 0,
+      "replyCount": 0
+    },
+    {
+      "uri": "at://did:plc:esz5zxtwgwbgkkvg7tw7zani/app.bsky.feed.post/3meer4rlx6k2p",
+      "createdAt": "2026-02-08T20:21:45.973Z",
+      "text": "Trump\u2019s reckless policies are increasing prices & causing economic drag. Instead of taking steps to address affordability he is:\n\u00a0\nA. Posting racist tropes\nB. Investigating The View\nC. Halting critical infrastructure projects unless cities rename things after him\n\u2705 All of the above",
+      "likeCount": 14,
+      "repostCount": 4,
+      "replies": [
+        {
+          "handle": "phuckwhoisthisguy.bsky.social",
+          "displayName": "James Mitchell\ud83d\udc48Who the Phuck is this Guy?",
+          "timestamp": "2026-02-09T05:55:11.700Z",
+          "text": "Democrats that are too weak in the knees to stand up and not fund ICE until visible changes have been made.\n\nThen please shut up & get the hell out of the way for a candidate who will.\n\nNO MORE BROKEN PROMISES!",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 1,
+      "replyCount": 1
+    }
+  ]
+}

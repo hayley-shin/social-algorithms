@@ -1,0 +1,3 @@
+player_id,source_file,total_answers,valid_answers,valid_rate,points,avg_points_per_answer,collisions,collision_rate,distinct_valid_answers,judge_api_calls,judge_cache_hits
+answers_mistral_7b,Part3/outputs/answers_mistral_7b.csv,1280,919,0.71796875,391,0.30546875,528,0.4125,208,139,2421
+answers_mistral_7b_player2,Part3/outputs/answers_mistral_7b_player2.csv,1280,921,0.71953125,393,0.30703125,528,0.4125,194,139,2421

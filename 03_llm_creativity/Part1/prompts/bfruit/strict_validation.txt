@@ -1,0 +1,6 @@
+Task: output exactly one real fruit name that starts with b.
+Validity rules:
+1. It must be an edible fruit.
+2. It must start with the letter b.
+3. No brand names, no dishes, no vegetables.
+Output format: one lowercase phrase only, no punctuation, no explanation.

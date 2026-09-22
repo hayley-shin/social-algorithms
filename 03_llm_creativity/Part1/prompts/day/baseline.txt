@@ -1,0 +1,1 @@
+Return exactly one lowercase weekday name from this set: monday tuesday wednesday thursday friday saturday sunday. Output only the weekday.

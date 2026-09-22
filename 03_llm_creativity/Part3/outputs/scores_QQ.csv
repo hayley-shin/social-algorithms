@@ -1,0 +1,3 @@
+player_id,source_file,total_answers,valid_answers,valid_rate,points,avg_points_per_answer,collisions,collision_rate,distinct_valid_answers,judge_api_calls,judge_cache_hits
+answers_qwen25_7b,Part3/outputs/answers_qwen25_7b.csv,1280,930,0.7265625,371,0.28984375,559,0.43671875,144,30,2530
+answers_qwen25_7b_player2,Part3/outputs/answers_qwen25_7b_player2.csv,1280,901,0.70390625,342,0.2671875,559,0.43671875,141,30,2530

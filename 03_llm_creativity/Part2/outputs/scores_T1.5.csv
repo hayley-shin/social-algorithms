@@ -1,0 +1,3 @@
+player_id,source_file,total_answers,valid_answers,valid_rate,points,avg_points_per_answer,collisions,collision_rate,distinct_valid_answers,judge_api_calls,judge_cache_hits
+answers_player1_T1.5,Part2/outputs/answers_player1_T1.5.csv,1280,887,0.69296875,450,0.3515625,437,0.34140625,192,341,2219
+answers_player2_T1.5,Part2/outputs/answers_player2_T1.5.csv,1280,893,0.69765625,456,0.35625,437,0.34140625,182,341,2219

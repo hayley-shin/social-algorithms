@@ -1,0 +1,224 @@
+[
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 0.0,
+    "samples": 500,
+    "prompt_id": "strict_validation",
+    "unique_answers": 1,
+    "entropy_nats": 0.0,
+    "top_answers": [
+      [
+        "blueberry",
+        500
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 0.5,
+    "samples": 500,
+    "prompt_id": "strict_validation",
+    "unique_answers": 3,
+    "entropy_nats": 0.7202683181809698,
+    "top_answers": [
+      [
+        "blueberry",
+        359
+      ],
+      [
+        "banana",
+        118
+      ],
+      [
+        "blackberry",
+        23
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 1.0,
+    "samples": 500,
+    "prompt_id": "strict_validation",
+    "unique_answers": 3,
+    "entropy_nats": 0.9611176784643944,
+    "top_answers": [
+      [
+        "blueberry",
+        255
+      ],
+      [
+        "banana",
+        187
+      ],
+      [
+        "blackberry",
+        58
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 1.5,
+    "samples": 500,
+    "prompt_id": "strict_validation",
+    "unique_answers": 3,
+    "entropy_nats": 1.0327277128860755,
+    "top_answers": [
+      [
+        "blueberry",
+        229
+      ],
+      [
+        "banana",
+        182
+      ],
+      [
+        "blackberry",
+        89
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 2.0,
+    "samples": 500,
+    "prompt_id": "strict_validation",
+    "unique_answers": 3,
+    "entropy_nats": 1.0526207556803935,
+    "top_answers": [
+      [
+        "blueberry",
+        210
+      ],
+      [
+        "banana",
+        191
+      ],
+      [
+        "blackberry",
+        99
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 3.0,
+    "samples": 500,
+    "prompt_id": "strict_validation",
+    "unique_answers": 3,
+    "entropy_nats": 1.0815953699362795,
+    "top_answers": [
+      [
+        "blueberry",
+        195
+      ],
+      [
+        "banana",
+        180
+      ],
+      [
+        "blackberry",
+        125
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 4.0,
+    "samples": 500,
+    "prompt_id": "strict_validation",
+    "unique_answers": 3,
+    "entropy_nats": 1.0887496466194895,
+    "top_answers": [
+      [
+        "blueberry",
+        192
+      ],
+      [
+        "banana",
+        172
+      ],
+      [
+        "blackberry",
+        136
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 5.0,
+    "samples": 500,
+    "prompt_id": "strict_validation",
+    "unique_answers": 3,
+    "entropy_nats": 1.0850514253576669,
+    "top_answers": [
+      [
+        "blueberry",
+        190
+      ],
+      [
+        "banana",
+        181
+      ],
+      [
+        "blackberry",
+        129
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 7.5,
+    "samples": 500,
+    "prompt_id": "strict_validation",
+    "unique_answers": 3,
+    "entropy_nats": 1.080085944580659,
+    "top_answers": [
+      [
+        "blueberry",
+        199
+      ],
+      [
+        "banana",
+        177
+      ],
+      [
+        "blackberry",
+        124
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 10.0,
+    "samples": 500,
+    "prompt_id": "strict_validation",
+    "unique_answers": 3,
+    "entropy_nats": 1.0977430437652442,
+    "top_answers": [
+      [
+        "blackberry",
+        175
+      ],
+      [
+        "banana",
+        167
+      ],
+      [
+        "blueberry",
+        158
+      ]
+    ]
+  }
+]

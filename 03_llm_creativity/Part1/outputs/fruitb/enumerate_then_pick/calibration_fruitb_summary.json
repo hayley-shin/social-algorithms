@@ -1,0 +1,776 @@
+[
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 0.0,
+    "samples": 500,
+    "prompt_id": "enumerate_then_pick",
+    "unique_answers": 1,
+    "entropy_nats": 0.0,
+    "top_answers": [
+      [
+        "banana",
+        500
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 0.5,
+    "samples": 500,
+    "prompt_id": "enumerate_then_pick",
+    "unique_answers": 5,
+    "entropy_nats": 0.9584857499333942,
+    "top_answers": [
+      [
+        "banana",
+        336
+      ],
+      [
+        "berry",
+        94
+      ],
+      [
+        "blueberry",
+        43
+      ],
+      [
+        "brazilnut",
+        26
+      ],
+      [
+        "bottlebrush berry",
+        1
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 1.0,
+    "samples": 500,
+    "prompt_id": "enumerate_then_pick",
+    "unique_answers": 28,
+    "entropy_nats": 1.5850719329364098,
+    "top_answers": [
+      [
+        "banana",
+        228
+      ],
+      [
+        "berry",
+        129
+      ],
+      [
+        "blueberry",
+        79
+      ],
+      [
+        "brazilnut",
+        24
+      ],
+      [
+        "baker's dozen berries",
+        6
+      ],
+      [
+        "butterfruit",
+        5
+      ],
+      [
+        "bottlebrushberry",
+        2
+      ],
+      [
+        "banyanfruit",
+        2
+      ],
+      [
+        "bitternut",
+        2
+      ],
+      [
+        "banna",
+        2
+      ],
+      [
+        "buddha's hand",
+        2
+      ],
+      [
+        "baker's apple",
+        2
+      ],
+      [
+        "bannana",
+        2
+      ],
+      [
+        "buckinghambanana",
+        1
+      ],
+      [
+        "banyan fruit",
+        1
+      ],
+      [
+        "buckberry",
+        1
+      ],
+      [
+        "bengal cherry",
+        1
+      ],
+      [
+        "buckthornberry",
+        1
+      ],
+      [
+        "buckfruit",
+        1
+      ],
+      [
+        "banyanberry",
+        1
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 1.5,
+    "samples": 500,
+    "prompt_id": "enumerate_then_pick",
+    "unique_answers": 41,
+    "entropy_nats": 1.7626743540171397,
+    "top_answers": [
+      [
+        "banana",
+        191
+      ],
+      [
+        "berry",
+        141
+      ],
+      [
+        "blueberry",
+        99
+      ],
+      [
+        "brazilnut",
+        16
+      ],
+      [
+        "banna",
+        5
+      ],
+      [
+        "baker's dozen berries",
+        3
+      ],
+      [
+        "bok choy",
+        3
+      ],
+      [
+        "butterfruit",
+        2
+      ],
+      [
+        "buckthorn fruit",
+        2
+      ],
+      [
+        "buddha's hand",
+        2
+      ],
+      [
+        "bali",
+        2
+      ],
+      [
+        "buckberry",
+        2
+      ],
+      [
+        "banyan berry",
+        2
+      ],
+      [
+        "bunchberry",
+        2
+      ],
+      [
+        "baker's apple",
+        2
+      ],
+      [
+        "bunchingbanana",
+        1
+      ],
+      [
+        "bouyei melon",
+        1
+      ],
+      [
+        "baliyangashi",
+        1
+      ],
+      [
+        "baker's dozen blueberry buttonball",
+        1
+      ],
+      [
+        "banyanberries",
+        1
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 2.0,
+    "samples": 500,
+    "prompt_id": "enumerate_then_pick",
+    "unique_answers": 53,
+    "entropy_nats": 2.002090765045323,
+    "top_answers": [
+      [
+        "banana",
+        175
+      ],
+      [
+        "berry",
+        130
+      ],
+      [
+        "blueberry",
+        101
+      ],
+      [
+        "brazilnut",
+        19
+      ],
+      [
+        "banna",
+        6
+      ],
+      [
+        "butterfruit",
+        6
+      ],
+      [
+        "bunchberry",
+        5
+      ],
+      [
+        "bannana",
+        4
+      ],
+      [
+        "baker's apple",
+        2
+      ],
+      [
+        "bottlebrush berry",
+        2
+      ],
+      [
+        "baba",
+        2
+      ],
+      [
+        "buckfruit",
+        2
+      ],
+      [
+        "bengal lemon",
+        2
+      ],
+      [
+        "buckbrush berries",
+        2
+      ],
+      [
+        "baker's bun",
+        2
+      ],
+      [
+        "balsampear",
+        2
+      ],
+      [
+        "buckthorn berries",
+        2
+      ],
+      [
+        "bamboo shoot (not actual fruit",
+        1
+      ],
+      [
+        "baker's dozen berries",
+        1
+      ],
+      [
+        "baker's bait",
+        1
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 3.0,
+    "samples": 500,
+    "prompt_id": "enumerate_then_pick",
+    "unique_answers": 52,
+    "entropy_nats": 1.928527474585851,
+    "top_answers": [
+      [
+        "banana",
+        172
+      ],
+      [
+        "berry",
+        141
+      ],
+      [
+        "blueberry",
+        107
+      ],
+      [
+        "banna",
+        7
+      ],
+      [
+        "brazilnut",
+        7
+      ],
+      [
+        "bannana",
+        5
+      ],
+      [
+        "butterfruit",
+        4
+      ],
+      [
+        "banyan berry",
+        4
+      ],
+      [
+        "bunchberry",
+        3
+      ],
+      [
+        "bottle gourd",
+        3
+      ],
+      [
+        "bengalinebanana",
+        2
+      ],
+      [
+        "bok choy",
+        2
+      ],
+      [
+        "bali",
+        2
+      ],
+      [
+        "buddha's hand",
+        2
+      ],
+      [
+        "banyan fruit",
+        2
+      ],
+      [
+        "bali\u00f6t:lengthoneberry",
+        1
+      ],
+      [
+        "bengal cherry",
+        1
+      ],
+      [
+        "bamboo shoot (this was an",
+        1
+      ],
+      [
+        "bottleghu",
+        1
+      ],
+      [
+        "baker's banana",
+        1
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 4.0,
+    "samples": 500,
+    "prompt_id": "enumerate_then_pick",
+    "unique_answers": 76,
+    "entropy_nats": 2.2573938763096524,
+    "top_answers": [
+      [
+        "banana",
+        149
+      ],
+      [
+        "berry",
+        133
+      ],
+      [
+        "blueberry",
+        110
+      ],
+      [
+        "banna",
+        9
+      ],
+      [
+        "butterfruit",
+        6
+      ],
+      [
+        "brazilnut",
+        4
+      ],
+      [
+        "balsampear",
+        3
+      ],
+      [
+        "bunchberry",
+        3
+      ],
+      [
+        "bottle gourd",
+        3
+      ],
+      [
+        "bamberry",
+        3
+      ],
+      [
+        "banyanfruit",
+        3
+      ],
+      [
+        "bannana",
+        3
+      ],
+      [
+        "bali",
+        2
+      ],
+      [
+        "baker's bun",
+        2
+      ],
+      [
+        "buckberry",
+        2
+      ],
+      [
+        "bok choy",
+        2
+      ],
+      [
+        "banyan fruit",
+        2
+      ],
+      [
+        "brazil nut banana",
+        2
+      ],
+      [
+        "bengal lime",
+        2
+      ],
+      [
+        "baker's lettuce",
+        1
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 5.0,
+    "samples": 500,
+    "prompt_id": "enumerate_then_pick",
+    "unique_answers": 61,
+    "entropy_nats": 2.083137863110454,
+    "top_answers": [
+      [
+        "berry",
+        155
+      ],
+      [
+        "banana",
+        136
+      ],
+      [
+        "blueberry",
+        115
+      ],
+      [
+        "bok choy",
+        9
+      ],
+      [
+        "brazilnut",
+        7
+      ],
+      [
+        "butterfruit",
+        5
+      ],
+      [
+        "bannana",
+        4
+      ],
+      [
+        "banna",
+        4
+      ],
+      [
+        "baker's banana",
+        3
+      ],
+      [
+        "bunchberry",
+        3
+      ],
+      [
+        "bitternut",
+        2
+      ],
+      [
+        "bamberry",
+        2
+      ],
+      [
+        "bali",
+        2
+      ],
+      [
+        "buckfruit",
+        2
+      ],
+      [
+        "buddhist plum",
+        2
+      ],
+      [
+        "banyan fruit",
+        2
+      ],
+      [
+        "brazil nut banana",
+        2
+      ],
+      [
+        "brazil nut",
+        2
+      ],
+      [
+        "buckthorn fruit",
+        1
+      ],
+      [
+        "bottleghornbeamutberry",
+        1
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 7.5,
+    "samples": 500,
+    "prompt_id": "enumerate_then_pick",
+    "unique_answers": 76,
+    "entropy_nats": 2.28104038389552,
+    "top_answers": [
+      [
+        "banana",
+        137
+      ],
+      [
+        "berry",
+        127
+      ],
+      [
+        "blueberry",
+        126
+      ],
+      [
+        "banna",
+        8
+      ],
+      [
+        "brazilnut",
+        5
+      ],
+      [
+        "buddhist plum",
+        5
+      ],
+      [
+        "bunchberry",
+        5
+      ],
+      [
+        "butterfruit",
+        4
+      ],
+      [
+        "bottle gourd",
+        3
+      ],
+      [
+        "bannana",
+        3
+      ],
+      [
+        "baker's banana",
+        2
+      ],
+      [
+        "brazil nut",
+        2
+      ],
+      [
+        "buddha's hands",
+        2
+      ],
+      [
+        "buddha's hand",
+        2
+      ],
+      [
+        "banyan berry",
+        2
+      ],
+      [
+        "buckthorn",
+        2
+      ],
+      [
+        "balsampear",
+        2
+      ],
+      [
+        "banyanfruit",
+        2
+      ],
+      [
+        "balsamika cherry",
+        2
+      ],
+      [
+        "bougainvillea",
+        2
+      ]
+    ]
+  },
+  {
+    "task": "fruitb",
+    "model": "qwen2.5:7b",
+    "temperature": 10.0,
+    "samples": 500,
+    "prompt_id": "enumerate_then_pick",
+    "unique_answers": 63,
+    "entropy_nats": 2.1663252261417516,
+    "top_answers": [
+      [
+        "banana",
+        138
+      ],
+      [
+        "berry",
+        138
+      ],
+      [
+        "blueberry",
+        120
+      ],
+      [
+        "banna",
+        9
+      ],
+      [
+        "bannana",
+        9
+      ],
+      [
+        "butterfruit",
+        7
+      ],
+      [
+        "bok choy",
+        5
+      ],
+      [
+        "brazilnut",
+        5
+      ],
+      [
+        "baba",
+        3
+      ],
+      [
+        "buddha's hands",
+        3
+      ],
+      [
+        "banyanfruit",
+        2
+      ],
+      [
+        "bunchberry",
+        2
+      ],
+      [
+        "banyan fruit",
+        2
+      ],
+      [
+        "baker's bait berries",
+        2
+      ],
+      [
+        "bengal lemon",
+        2
+      ],
+      [
+        "bamberry",
+        2
+      ],
+      [
+        "bengal orange",
+        2
+      ],
+      [
+        "buddhist plum",
+        2
+      ],
+      [
+        "bamboozle",
+        2
+      ],
+      [
+        "baker's bilberry",
+        2
+      ]
+    ]
+  }
+]

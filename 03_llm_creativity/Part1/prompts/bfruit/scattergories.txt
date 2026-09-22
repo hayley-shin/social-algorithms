@@ -1,0 +1,6 @@
+You are playing Scattergories.
+Letter: b
+Category: fruits
+Return exactly one valid Scattergories answer that starts with b.
+Try to avoid repeatedly choosing the most common answer across runs, while keeping the answer realistic and specific.
+Output only lowercase letters and spaces.

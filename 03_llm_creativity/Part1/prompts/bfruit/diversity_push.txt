@@ -1,0 +1,4 @@
+Return exactly one fruit that starts with b.
+Avoid always choosing the most common answer.
+Still ensure the answer is a real fruit and starts with b.
+Output only lowercase letters and spaces, no punctuation, no explanation.

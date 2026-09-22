@@ -1,0 +1,783 @@
+{
+  "senator": {
+    "name": "Michael Bennet",
+    "handle": "bennet.senate.gov",
+    "party": "D",
+    "state": "CO",
+    "gender": "M"
+  },
+  "collectMeta": {
+    "collectedAt": "2026-02-14T19:17:37.449986+00:00",
+    "daysLookback": 7
+  },
+  "posts": [
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3metm7kh7622t",
+      "createdAt": "2026-02-14T18:03:46.513Z",
+      "text": "Eight years ago, 17 people were killed at Marjory Stoneman Douglas High School.\n\nToday, we remember the students and staff members who lost their lives. We stand with their families to honor their memory and fight for a future where no child has to fear gun violence in their classroom.",
+      "likeCount": 40,
+      "repostCount": 9,
+      "replies": [
+        {
+          "handle": "aragen.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-14T19:03:33.742Z",
+          "text": "You say you \"fight\" for.things, but that is a lie.\n\nResign in shame.",
+          "likeCount": 0
+        },
+        {
+          "handle": "judyprincz.bsky.social",
+          "displayName": "Judy Princz",
+          "timestamp": "2026-02-14T18:05:41.354Z",
+          "text": "So\u2026 a future without Republicans, I guess. Fine by me.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 2,
+      "replyCount": 2
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3meqvhyivzc2g",
+      "createdAt": "2026-02-13T16:11:34.146Z",
+      "text": "Today, I urged the International Olympic Committee to finally allow women to compete in Nordic Combined at the Winter Games.",
+      "likeCount": 10,
+      "repostCount": 0,
+      "replies": [
+        {
+          "handle": "jonrossjan.bsky.social",
+          "displayName": "Saarcaustic Ben Zona",
+          "timestamp": "2026-02-13T16:12:26.716Z",
+          "text": "They\u2019re still not?? Why the heck not? Ah, more misogynistic crap from the IOC, of course",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 1,
+      "replyCount": 1
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3meqvhkqibc2g",
+      "createdAt": "2026-02-13T16:11:19.713Z",
+      "text": "Coloradans Alexa Brabec and Annika Malacinski have the talent to medal in Women's Nordic Combined for Team USA. But Nordic Combined is the ONLY Winter Olympic sport that excludes women.",
+      "likeCount": 20,
+      "repostCount": 6,
+      "replies": [
+        {
+          "handle": "bennet.senate.gov",
+          "displayName": "Michael Bennet",
+          "timestamp": "2026-02-13T16:11:34.146Z",
+          "text": "Today, I urged the International Olympic Committee to finally allow women to compete in Nordic Combined at the Winter Games.",
+          "likeCount": 10
+        },
+        {
+          "handle": "am-mccarthy.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T20:06:17.864Z",
+          "text": "bsky.app/profile/thet...",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 2,
+      "replyCount": 2
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3meqs4mqidk2a",
+      "createdAt": "2026-02-13T15:11:30.731Z",
+      "text": "Instead of protecting American lives, Trump's EPA is playing dangerous political games with our health and safety.",
+      "likeCount": 25,
+      "repostCount": 6,
+      "replies": [
+        {
+          "handle": "rammies34.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T15:15:53.471Z",
+          "text": "Senator - be loud - scream it and disrupt everything.  At my house in Frederick we have maybe had 4-5 inches of snow this winter - the wind is constant and strong - the fires are only going to get worse. Disrupt, stop with the old niceties - they don\u2019t work in the current DC!",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 1,
+      "replyCount": 1
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3meqs4lzg2k2a",
+      "createdAt": "2026-02-13T15:11:30.730Z",
+      "text": "By abandoning the Endangerment Finding, President Trump is ignoring decades of scientific research and turning his back on Coloradans facing devastating wildfires, floods, and droughts driven by climate change.",
+      "likeCount": 33,
+      "repostCount": 19,
+      "replies": [
+        {
+          "handle": "bennet.senate.gov",
+          "displayName": "Michael Bennet",
+          "timestamp": "2026-02-13T15:11:30.731Z",
+          "text": "Instead of protecting American lives, Trump's EPA is playing dangerous political games with our health and safety.",
+          "likeCount": 25
+        },
+        {
+          "handle": "lallberry.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T18:19:39.524Z",
+          "text": "Maybe you should've thought about the consequences of voting YES on so many of his despicable and unqualified nominees.\n\nSpare me your faux outrage.\n\nEnabler",
+          "likeCount": 1
+        },
+        {
+          "handle": "milehighlefty.bsky.social",
+          "displayName": "brown cloud",
+          "timestamp": "2026-02-13T15:28:40.747Z",
+          "text": "Michael Bennet has voted to approve trump's cabinet nominees 8 times and doesn't support universal health care.  He is way too moderate to be Colorado's senator or governor.\n\nballotpedia.org/How_senators...",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 3,
+      "replyCount": 3
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3mep7xvxtuc2a",
+      "createdAt": "2026-02-13T00:14:06.301Z",
+      "text": "President Trump promised that other countries would pay for his tariffs.\n\nThe truth: American businesses and consumers paid nearly 90% of tariff costs in 2025.\n\nWith prices rising and paychecks stretched thin, working families are paying the price for Trump\u2019s reckless trade agenda.",
+      "likeCount": 47,
+      "repostCount": 21,
+      "replies": [
+        {
+          "handle": "milehighlefty.bsky.social",
+          "displayName": "brown cloud",
+          "timestamp": "2026-02-13T02:10:58.912Z",
+          "text": "Michael Bennet has voted to approve trump's cabinet nominees 8 times and doesn't support universal health care.  He is way too moderate to be Colorado's senator or governor.\n\nballotpedia.org/How_senators...",
+          "likeCount": 4
+        },
+        {
+          "handle": "tswk.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T01:28:29.978Z",
+          "text": "Intelligent people always knew that would be the case. Trump can't budget, or plan, think. He lies the lies some more. White people believe him but they have always voted against their own best interests & consequently, everybody else's.",
+          "likeCount": 0
+        },
+        {
+          "handle": "am-mccarthy.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T00:48:17.107Z",
+          "text": "Just Say NO\nbsky.app/profile/rbre...",
+          "likeCount": 0
+        },
+        {
+          "handle": "ajr60.bsky.social",
+          "displayName": "Ajr60",
+          "timestamp": "2026-02-13T18:27:29.651Z",
+          "text": "Duh!",
+          "likeCount": 0
+        },
+        {
+          "handle": "indigochild.bsky.social",
+          "displayName": "IndigoChild",
+          "timestamp": "2026-02-13T00:58:34.425Z",
+          "text": "Isn't this how the Revolutionary War began? Taxation without Representation?",
+          "likeCount": 0
+        },
+        {
+          "handle": "gopiscomplicit.bsky.social",
+          "displayName": "GOPisComplicit \u2764\ufe0f\u200d\ud83d\udd25\u26a1\ufe0f",
+          "timestamp": "2026-02-13T01:01:45.300Z",
+          "text": "And that must be why you confirmed so many unqualified criminal pedophiles for him, yeah?  Mike?  \n\nMike gets elected as a Democrat \n\nBut voted as a MAGAt \n\nPhil Weiser for governor.",
+          "likeCount": 1
+        },
+        {
+          "handle": "besmartcolorado.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T00:28:35.164Z",
+          "text": "Tariffs are a tax on the American people. I thought only Congress could levy taxes.",
+          "likeCount": 0
+        },
+        {
+          "handle": "murphyles.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T13:44:16.954Z",
+          "text": "While Trump fiddles with his punitive tariffs (illegal) and ignores climate change, the West is in denial about our severe water crisis. \n\nwww.hcn.org/articles/the...",
+          "likeCount": 1
+        }
+      ],
+      "repliesCollected": 8,
+      "replyCount": 8
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3mep4ndxwx22t",
+      "createdAt": "2026-02-12T23:14:30.639Z",
+      "text": "I won't stop fighting for a complete overhaul of leadership and operations at DHS.",
+      "likeCount": 48,
+      "repostCount": 6,
+      "replies": [
+        {
+          "handle": "juliefauble.bsky.social",
+          "displayName": "Julie Fauble",
+          "timestamp": "2026-02-12T23:38:44.331Z",
+          "text": "Abolish it. It was invented less than 25 years ago. We lived without it for most on my lifetime. We can live without it again.",
+          "likeCount": 2
+        },
+        {
+          "handle": "j-a-f-o.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-13T00:18:48.801Z",
+          "text": "No on SAVE, too!",
+          "likeCount": 1
+        },
+        {
+          "handle": "brentwalkertv.bsky.social",
+          "displayName": "Brent Walker",
+          "timestamp": "2026-02-12T23:56:42.302Z",
+          "text": "No no no no no no no, Senator Bennet. No one wants an overhaul. We want abolishment... Find some courage, stand up and demand the utter and complete abolishment of ICE, DHS, CBP, and prosecute everyone involved for their blatant and horrific crimes. As your constituent this is what I demand of you",
+          "likeCount": 2
+        },
+        {
+          "handle": "copolitics.bsky.social",
+          "displayName": "Thaddeus Stevens Stan Account",
+          "timestamp": "2026-02-13T00:51:34.381Z",
+          "text": "Abolition or nothing",
+          "likeCount": 0
+        },
+        {
+          "handle": "teknomantik.old-home.net",
+          "displayName": "Joel Berger",
+          "timestamp": "2026-02-12T23:17:15.929Z",
+          "text": "Abolition is *still* the only solution for an agency that was invented to oppress and terrorize.",
+          "likeCount": 4
+        },
+        {
+          "handle": "mandianne.bsky.social",
+          "displayName": "Mandianne",
+          "timestamp": "2026-02-13T00:01:51.595Z",
+          "text": "Keep voting NO. And preserve our voting rights by making sure SAVE is scuttled and DOA in the senate.",
+          "likeCount": 1
+        },
+        {
+          "handle": "dsitkin.bsky.social",
+          "displayName": "Colorado Voter",
+          "timestamp": "2026-02-13T09:09:45.587Z",
+          "text": "ICE is lawless. It will ignore reforms. No agency in Colorado is willing or able to enforce them.",
+          "likeCount": 1
+        },
+        {
+          "handle": "jodiekc.bsky.social",
+          "displayName": "Kerrigan Lux \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+          "timestamp": "2026-02-13T00:28:42.390Z",
+          "text": "An overhaul isn't gonna fix it, only a fool believes that. DHS needs to be abolished. It's only been around since 2002.",
+          "likeCount": 1
+        },
+        {
+          "handle": "gopiscomplicit.bsky.social",
+          "displayName": "GOPisComplicit \u2764\ufe0f\u200d\ud83d\udd25\u26a1\ufe0f",
+          "timestamp": "2026-02-13T00:27:09.509Z",
+          "text": "\u201cSend money so I can fight for you\u201d \n\nMike selling advocacy but don\u2019t worry.  It\u2019s fake advocacy anyway.  \n\nMike talks like a dem to get elected \n\nAnd then votes as a MAGAt. \n\nPhil Weiser for governor.",
+          "likeCount": 0
+        },
+        {
+          "handle": "kyramisu.bsky.social",
+          "displayName": "kyramisu.bsky.social",
+          "timestamp": "2026-02-13T15:30:27.829Z",
+          "text": "Abolish not overhaul. Thank you Senator.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 10,
+      "replyCount": 10
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3mep4ndxbhk2t",
+      "createdAt": "2026-02-12T23:14:30.638Z",
+      "text": "I voted NO on the Republican DHS bill, as it does nothing to hold ICE agents accountable or stop families from being torn apart.\n\nSenate Republicans refused to guarantee basic accountability measures, leaving critical agencies like FEMA and TSA without funding while the Senate takes week off.",
+      "likeCount": 104,
+      "repostCount": 24,
+      "replies": [
+        {
+          "handle": "genelisadaily.bsky.social",
+          "displayName": "Epstein",
+          "timestamp": "2026-02-12T23:19:39.594Z",
+          "text": "bsky.app/profile/gene...",
+          "likeCount": 0
+        },
+        {
+          "handle": "bennet.senate.gov",
+          "displayName": "Michael Bennet",
+          "timestamp": "2026-02-12T23:14:30.639Z",
+          "text": "I won't stop fighting for a complete overhaul of leadership and operations at DHS.",
+          "likeCount": 48
+        },
+        {
+          "handle": "milehighlefty.bsky.social",
+          "displayName": "brown cloud",
+          "timestamp": "2026-02-13T01:51:51.494Z",
+          "text": "Michael Bennet has voted to approve trump's cabinet nominees 8 times and doesn't support universal health care.  He is way too moderate to be Colorado's senator or governor.\n\nballotpedia.org/How_senators...",
+          "likeCount": 2
+        },
+        {
+          "handle": "jonathanhuber.bsky.social",
+          "displayName": "Jonathan Huber",
+          "timestamp": "2026-02-13T00:13:56.569Z",
+          "text": "Good, thank you! ICE and DHS cannot continue like this. Cheers from Denver.",
+          "likeCount": 0
+        },
+        {
+          "handle": "alexis8.bsky.social",
+          "displayName": "Alexis",
+          "timestamp": "2026-02-12T23:30:08.193Z",
+          "text": "Stay the course!",
+          "likeCount": 0
+        },
+        {
+          "handle": "gopiscomplicit.bsky.social",
+          "displayName": "GOPisComplicit \u2764\ufe0f\u200d\ud83d\udd25\u26a1\ufe0f",
+          "timestamp": "2026-02-13T00:25:40.402Z",
+          "text": "Pretending to be housebroken Mike?   Why?   \n\nMike lies to get elected as a dem. \n\nBut votes as a MAGAt.  \n\nAnd wants a pat on the back for his vote today, for actually representing his constituents for once. \n\nToo little too late Mike.  You\u2019ve done so much damage.  \n\nPhil Weiser for governor",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 6,
+      "replyCount": 6
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3memoqszxq22k",
+      "createdAt": "2026-02-12T00:00:34.035Z",
+      "text": "Trump and Senate Republicans have abandoned the middle class\u2014weakening our economic security and leaving future generations to pay off trillions in debt.",
+      "likeCount": 21,
+      "repostCount": 8,
+      "replies": [
+        {
+          "handle": "yonblue.bsky.social",
+          "displayName": "Tom",
+          "timestamp": "2026-02-12T00:25:25.189Z",
+          "text": "I\u2019ve thought well of you for years.\nRespectfully, I see a bigger problem than \u2018Trump and the Republicans\u2019. \nI hope the D senators can see to find a more suitable leadership for these times, and maybe a more visible presence in the actual trenches. \nYou and people like Murphy though are great.",
+          "likeCount": 1
+        },
+        {
+          "handle": "am-mccarthy.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T02:02:16.024Z",
+          "text": "VOTE NO ON THE SAVE ACT",
+          "likeCount": 0
+        },
+        {
+          "handle": "pcccar.bsky.social",
+          "displayName": "Maybe She's Born With It, Maybe It's Clinical Depression",
+          "timestamp": "2026-02-12T00:34:11.867Z",
+          "text": "You else know who has abandoned us...DEMOCRATS.  Project 2025 was a known, yet you all kept on voting yes for everything left and right.  We are not going to forget who did what in November. PRIMARIES PRIMARIES PRIMARIES. These senators need to go",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 3,
+      "replyCount": 3
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3memoqrurcc2k",
+      "createdAt": "2026-02-12T00:00:34.034Z",
+      "text": "President Trump's so-called \"Big Beautiful Bill\" will add over $3 trillion to our national deficit.\n\nWhile Trump hands tax cuts to billionaires and large corporations, deficits are soaring to the highest levels since World War II.",
+      "likeCount": 46,
+      "repostCount": 15,
+      "replies": [
+        {
+          "handle": "bennet.senate.gov",
+          "displayName": "Michael Bennet",
+          "timestamp": "2026-02-12T00:00:34.035Z",
+          "text": "Trump and Senate Republicans have abandoned the middle class\u2014weakening our economic security and leaving future generations to pay off trillions in debt.",
+          "likeCount": 21
+        },
+        {
+          "handle": "milehighlefty.bsky.social",
+          "displayName": "brown cloud",
+          "timestamp": "2026-02-12T10:56:22.589Z",
+          "text": "Michael Bennet has voted to approve trump's cabinet nominees 8 times and doesn't support universal health care.  He is way too moderate to be Colorado's senator or governor.\n\nballotpedia.org/How_senators...",
+          "likeCount": 0
+        },
+        {
+          "handle": "aragen.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T09:45:01.309Z",
+          "text": "So you wouldn't have any objection if the concentration camps and genocide were within budget.",
+          "likeCount": 0
+        },
+        {
+          "handle": "am-mccarthy.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T02:01:55.877Z",
+          "text": "VOTE NO ON THE SAVE ACT",
+          "likeCount": 0
+        },
+        {
+          "handle": "phuckwhoisthisguy.bsky.social",
+          "displayName": "James Mitchell\ud83d\udc48Who the Phuck is this Guy?",
+          "timestamp": "2026-02-12T10:35:27.224Z",
+          "text": "youtu.be/o0Iobk78KNw?...",
+          "likeCount": 0
+        },
+        {
+          "handle": "gopiscomplicit.bsky.social",
+          "displayName": "GOPisComplicit \u2764\ufe0f\u200d\ud83d\udd25\u26a1\ufe0f",
+          "timestamp": "2026-02-12T01:13:03.950Z",
+          "text": "Mike lied to get elected as a dem, then.  \n\nMike votes as a MAGAt \n\nNow Mike is saying those same lying pretty words because mike\u2019s ambition wants to be governor. \n\nColorado deserves better than a liar like Mike.  \n\nVote Phil Weiser for governor.",
+          "likeCount": 2
+        },
+        {
+          "handle": "jl-nava.bsky.social",
+          "displayName": "Nava-JL",
+          "timestamp": "2026-02-12T00:57:06.634Z",
+          "text": "You cannot work with an administration like that.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 7,
+      "replyCount": 7
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3memeykkkx22q",
+      "createdAt": "2026-02-11T21:05:54.080Z",
+      "text": "I will continue to fight so Colorado taxpayers get the health care resources they've paid for.",
+      "likeCount": 17,
+      "repostCount": 2,
+      "replies": [],
+      "repliesCollected": 0,
+      "replyCount": 0
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3memeyhfz6c2q",
+      "createdAt": "2026-02-11T21:05:54.079Z",
+      "text": "President Trump's reported CDC cuts will gut programs that prevent disease and address health disparities across Colorado's rural towns and most vulnerable communities.\n\nThis isn't about budgets. This is the latest stop on Trump\u2019s Colorado revenge tour.",
+      "likeCount": 31,
+      "repostCount": 8,
+      "replies": [
+        {
+          "handle": "bennet.senate.gov",
+          "displayName": "Michael Bennet",
+          "timestamp": "2026-02-11T21:05:54.080Z",
+          "text": "I will continue to fight so Colorado taxpayers get the health care resources they've paid for.",
+          "likeCount": 17
+        },
+        {
+          "handle": "milehighlefty.bsky.social",
+          "displayName": "brown cloud",
+          "timestamp": "2026-02-12T04:15:13.228Z",
+          "text": "Michael Bennet has voted to approve trump's cabinet nominees 8 times and doesn't support universal health care.  He is way too moderate to be Colorado's senator or governor.\n\nballotpedia.org/How_senators...",
+          "likeCount": 0
+        },
+        {
+          "handle": "aragen.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T22:53:18.479Z",
+          "text": "And you still won't call for impeachment even as he murders civilians and forces people into concentration camps.",
+          "likeCount": 0
+        },
+        {
+          "handle": "am-mccarthy.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-12T02:02:37.471Z",
+          "text": "VOTE NO ON THE SAVE ACT",
+          "likeCount": 0
+        },
+        {
+          "handle": "thelasttheorist.bsky.social",
+          "displayName": "Steve T PhD",
+          "timestamp": "2026-02-11T21:09:01.044Z",
+          "text": "Senator, the President needs to be impeached for withholding funds to punish his perceived enemies (and a thousand other reasons). It would be good to see members of Congress promising to do this in 2027.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 5,
+      "replyCount": 5
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3mem3anrnks2b",
+      "createdAt": "2026-02-11T18:11:31.773Z",
+      "text": "For the second time, President Trump and his Justice Department have failed in their blatant political prosecutions. @crow.house.gov  \u2014 and the rest of our congressional colleagues \u2014 deserve better. I continue to stand in this fight with them.",
+      "likeCount": 30,
+      "repostCount": 8,
+      "replies": [
+        {
+          "handle": "aragen.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T20:20:56.222Z",
+          "text": "Are you calling for impeachment, or still a Nazi?",
+          "likeCount": 0
+        },
+        {
+          "handle": "sajerni.bsky.social",
+          "displayName": "SAJerni",
+          "timestamp": "2026-02-11T18:19:22.516Z",
+          "text": "You voted to confirm half his cabinet nominees and now you say you are fighting him? Lol.",
+          "likeCount": 1
+        },
+        {
+          "handle": "gopiscomplicit.bsky.social",
+          "displayName": "GOPisComplicit \u2764\ufe0f\u200d\ud83d\udd25\u26a1\ufe0f",
+          "timestamp": "2026-02-11T19:50:12.060Z",
+          "text": "Oh look.  Mike is worried now that politicians are being persecuted\n\nIt\u2019s fine that Americans are assassinated in the streets by Nazi foot soldiers of the pedophile mafia \n\nBut NOT the political class.  \n\nIs this why Mike gets elected as a dem\n\nBut votes as a MAGAt?",
+          "likeCount": 0
+        },
+        {
+          "handle": "besmartcolorado.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T18:14:57.803Z",
+          "text": "Maybe Pammy Whammy needs to be banished to Epstein Island.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 4,
+      "replyCount": 4
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3mekerlkpz22b",
+      "createdAt": "2026-02-11T01:56:44.057Z",
+      "text": "The Trump Administration's continued attacks on scientific integrity and technological advancement will have devastating consequences for Coloradans and our nation's energy economy.",
+      "likeCount": 37,
+      "repostCount": 6,
+      "replies": [
+        {
+          "handle": "lallberry.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T03:56:45.748Z",
+          "text": "Maybe you should've thought about the consequences of voting YES on so many of his despicable and unqualified nominees\n\nSpare me your faux outrage.\n\nEnabler",
+          "likeCount": 1
+        },
+        {
+          "handle": "stlhd1000.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T02:25:54.880Z",
+          "text": "Do you know anyone in the Senate that could do something concrete about it?",
+          "likeCount": 0
+        },
+        {
+          "handle": "am-mccarthy.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T17:56:37.200Z",
+          "text": "You confirmed him\n2026 and he's pushing a dirty, destructive source of energy when there are cleaner and cheaper forms of energy\nbsky.app/profile/atru...",
+          "likeCount": 0
+        },
+        {
+          "handle": "twirlingtofreedom.bsky.social",
+          "displayName": "Twirling towards Freedom",
+          "timestamp": "2026-02-11T02:01:48.384Z",
+          "text": "Absolutely -- which means you need to BE LOUD about this, get your Senate colleagues on board, and get our funding back!",
+          "likeCount": 0
+        },
+        {
+          "handle": "rammies34.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T01:59:46.032Z",
+          "text": "Agreed Senator - make noise, be loud, disrupt everything.  This is close to home but also be loud about everything else - Epstein, ICE all of it - and maybe get somebody to replace Schumer as well - old niceties of DC are gone.  Be loud!",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 5,
+      "replyCount": 5
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3mekerlk3is2b",
+      "createdAt": "2026-02-11T01:56:44.056Z",
+      "text": "Colorado's National Laboratory of the Rockies has been leading the world on energy innovation for decades. The researchers are global leaders in their fields, and staff across the Lab are committed to upholding the highest standards of excellence regardless of who is in office.",
+      "likeCount": 52,
+      "repostCount": 8,
+      "replies": [
+        {
+          "handle": "bennet.senate.gov",
+          "displayName": "Michael Bennet",
+          "timestamp": "2026-02-11T01:56:44.057Z",
+          "text": "The Trump Administration's continued attacks on scientific integrity and technological advancement will have devastating consequences for Coloradans and our nation's energy economy.",
+          "likeCount": 37
+        },
+        {
+          "handle": "milehighlefty.bsky.social",
+          "displayName": "brown cloud",
+          "timestamp": "2026-02-11T02:26:54.918Z",
+          "text": "Michael Bennet has voted to approve trump's cabinet nominees 8 times and doesn't support universal health care.  He is way too moderate to be Colorado's senator or governor.\n\nballotpedia.org/How_senators...",
+          "likeCount": 2
+        },
+        {
+          "handle": "aragen.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T02:46:30.692Z",
+          "text": "I would prefer people who commit to resistence when Nazis are in office, but you want to open more concentration camps and send more bombs for genocide.\n\nResign in shame.",
+          "likeCount": 1
+        },
+        {
+          "handle": "copolitics.bsky.social",
+          "displayName": "Thaddeus Stevens Stan Account",
+          "timestamp": "2026-02-11T02:00:46.861Z",
+          "text": "Didn\u2019t you vote for Trump nominees who are critical to this decision? Terrible judgment",
+          "likeCount": 0
+        },
+        {
+          "handle": "am-mccarthy.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T17:54:58.836Z",
+          "text": "You confirmed this idiot\nbsky.app/profile/atru...",
+          "likeCount": 0
+        },
+        {
+          "handle": "gopiscomplicit.bsky.social",
+          "displayName": "GOPisComplicit \u2764\ufe0f\u200d\ud83d\udd25\u26a1\ufe0f",
+          "timestamp": "2026-02-11T03:16:18.934Z",
+          "text": "\ud83d\ude44 \n\nMike lied to get elected as a dem\n\nAnd votes as a MAGAt \n\nThen complains about what he rubber stamped to beef up his fundraising.  \u201cSend money so I can fight!\u201d (what he enabled)\n\nColorado deserves better than this conman. \n\nVote Phil Weiser for Governor.",
+          "likeCount": 2
+        },
+        {
+          "handle": "murphyles.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-11T14:07:20.970Z",
+          "text": "We need you to protect NREL and stop ICE and protect state midterm elections from Trump interference, not to lie about funding you voted against. \n\nbsky.app/profile/kyle...",
+          "likeCount": 0
+        },
+        {
+          "handle": "freesky25.bsky.social",
+          "displayName": "Forever, Forever",
+          "timestamp": "2026-02-11T16:14:24.180Z",
+          "text": "NO ICE! \n\nits a leftover from Bush, time to clean house of the Epstein class(He's in the files!)\n\nTrump is turning them into an election denying force, many of them are already election deniers and J6ers\n\nYou can do this now or try later once your family is in the gulag!\n\nNO DHS/CBP!",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 8,
+      "replyCount": 8
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3mejwvrczbs2b",
+      "createdAt": "2026-02-10T21:48:31.938Z",
+      "text": "Colorado athletes dominate winter sports.\n\nIn Milan Cortina, Colorado has more Olympic athletes competing than any other state. From Steamboat Springs to Durango, Coloradans are representing our state on the world stage. \n\nColorado, let's bring home the gold!",
+      "likeCount": 30,
+      "repostCount": 3,
+      "replies": [
+        {
+          "handle": "milehighlefty.bsky.social",
+          "displayName": "brown cloud",
+          "timestamp": "2026-02-10T22:22:37.095Z",
+          "text": "Michael Bennet has voted to approve trump's cabinet nominees 8 times and doesn't support universal health care.  He is way too moderate to be Colorado's senator or governor.\n\nballotpedia.org/How_senators...",
+          "likeCount": 1
+        },
+        {
+          "handle": "mirimg.bsky.social",
+          "displayName": "Fasten your seatbelts. It\u2019s going to be a bumpy ride.",
+          "timestamp": "2026-02-10T21:49:33.893Z",
+          "text": "Go Colorado!",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 2,
+      "replyCount": 2
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3megyg7ocvs2w",
+      "createdAt": "2026-02-09T17:37:28.521Z",
+      "text": "Congress must make Russia pay a further price for its aggression and clarify the U.S.\u2019s long-term commitment to Ukraine\u2019s sovereignty and security \u2013 an effort I look forward to helping lead.",
+      "likeCount": 17,
+      "repostCount": 4,
+      "replies": [
+        {
+          "handle": "dedanna.bsky.social",
+          "displayName": "Dedanna",
+          "timestamp": "2026-02-09T17:41:41.449Z",
+          "text": "You Democrats don't even fight for democracy here in the states. So you've going to lead a fight for democracy for Ukraine. It's more than you do for your own people here at home. You need to step down.",
+          "likeCount": 0
+        },
+        {
+          "handle": "desertcactus621.bsky.social",
+          "displayName": "Kerri",
+          "timestamp": "2026-02-09T18:12:29.463Z",
+          "text": "How about suggesting Trump/AgentKrasnov refrain from pretending to be an intermediary in these fake \u2018negotiations\u2019 with Russia? He LIES to us and the Ukrainian people and their citizens are ones who pay the ultimate price! \n\n#RemoveTheGOPTraitors",
+          "likeCount": 0
+        },
+        {
+          "handle": "dianestweets.bsky.social",
+          "displayName": "\ud83d\udea7 K A R M A \ud83e\udd4a \ud83d\udc08\u200d\u2b1b",
+          "timestamp": "2026-02-09T20:14:27.337Z",
+          "text": "Thank you.\nAgree 100%",
+          "likeCount": 0
+        },
+        {
+          "handle": "gopiscomplicit.bsky.social",
+          "displayName": "GOPisComplicit \u2764\ufe0f\u200d\ud83d\udd25\u26a1\ufe0f",
+          "timestamp": "2026-02-09T21:43:51.798Z",
+          "text": "Maybe that\u2019s why we\u2019re all so pissed you vote as a MAGAt.  \n\nThis belief of yours is just your ambition lying through your face.  Again.  \n\nColorado, vote Phil Weiser for governor.",
+          "likeCount": 0
+        },
+        {
+          "handle": "thebaroness.bsky.social",
+          "displayName": "TheBaroness \ud83d\udc38",
+          "timestamp": "2026-02-09T18:20:24.251Z",
+          "text": "No on the SAVE Act.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 5,
+      "replyCount": 5
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3megyg7oaxc2w",
+      "createdAt": "2026-02-09T17:37:28.520Z",
+      "text": "I was glad to see Chairman Stefanchuk again last week to reaffirm Congressional support for continued U.S. military, intelligence, and economic support for Ukraine.",
+      "likeCount": 13,
+      "repostCount": 2,
+      "replies": [
+        {
+          "handle": "catskillowl.bsky.social",
+          "displayName": "Neonila \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6",
+          "timestamp": "2026-02-09T18:07:13.969Z",
+          "text": "Ukrainian President Volodymyr Zelensky said that Ukraine\u2019s air defense forces is running out of missiles for its US-made Patriot systems during a press conference amid ongoing US-Russia negotiations.\n\nlink \ud83d\udc47",
+          "likeCount": 0
+        },
+        {
+          "handle": "bennet.senate.gov",
+          "displayName": "Michael Bennet",
+          "timestamp": "2026-02-09T17:37:28.521Z",
+          "text": "Congress must make Russia pay a further price for its aggression and clarify the U.S.\u2019s long-term commitment to Ukraine\u2019s sovereignty and security \u2013 an effort I look forward to helping lead.",
+          "likeCount": 17
+        },
+        {
+          "handle": "comtechdiagnostics.bsky.social",
+          "displayName": "",
+          "timestamp": "2026-02-09T20:06:40.992Z",
+          "text": "We owe Ukraine security\n\nUkraine was the third-largest nuclear power in the world.\n\nThousands of nuclear arms had been left by Moscow after the collapse of the Soviet Union in 1991. Ukraine decided to denuclearize, and in exchange, the U.S., U.K. and Russia would guarantee Ukraine's security in 1994",
+          "likeCount": 1
+        },
+        {
+          "handle": "gopiscomplicit.bsky.social",
+          "displayName": "GOPisComplicit \u2764\ufe0f\u200d\ud83d\udd25\u26a1\ufe0f",
+          "timestamp": "2026-02-09T21:42:07.851Z",
+          "text": "You lied to us to get elected as a dem\n\nSo you could vote like a MAGAt.  \n\nColorado, vote Phil Weiser for governor.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 4,
+      "replyCount": 4
+    },
+    {
+      "uri": "at://did:plc:wfovpxilrfvxvyecoguoza3y/app.bsky.feed.post/3megyfwbb4k2w",
+      "createdAt": "2026-02-09T17:37:28.519Z",
+      "text": "Amid Putin\u2019s intransigence in negotiations and daily attacks across Ukraine, the Ukrainian people remind us every day what it looks like to fight and die for democracy, for their country, and for the West.",
+      "likeCount": 31,
+      "repostCount": 10,
+      "replies": [
+        {
+          "handle": "lovethispost.bsky.social",
+          "displayName": "I Love This Post",
+          "timestamp": "2026-02-09T19:42:35.382Z",
+          "text": "And yet here we are being reminded what it looks like but never doing anything to stop it.  Have you realized we have failed?",
+          "likeCount": 0
+        },
+        {
+          "handle": "bennet.senate.gov",
+          "displayName": "Michael Bennet",
+          "timestamp": "2026-02-09T17:37:28.520Z",
+          "text": "I was glad to see Chairman Stefanchuk again last week to reaffirm Congressional support for continued U.S. military, intelligence, and economic support for Ukraine.",
+          "likeCount": 13
+        },
+        {
+          "handle": "milehighlefty.bsky.social",
+          "displayName": "brown cloud",
+          "timestamp": "2026-02-09T22:33:16.357Z",
+          "text": "Michael Bennet has voted to approve trump's cabinet nominees 8 times and doesn't support universal health care.  He is way too moderate to be Colorado's senator or governor.\n\nballotpedia.org/How_senators...",
+          "likeCount": 0
+        },
+        {
+          "handle": "gopiscomplicit.bsky.social",
+          "displayName": "GOPisComplicit \u2764\ufe0f\u200d\ud83d\udd25\u26a1\ufe0f",
+          "timestamp": "2026-02-09T20:09:38.311Z",
+          "text": "And that\u2019s why Mike lied to get elected as a dem \n\nBut votes as a MAGAt.  \n\nUnless Mike is complaining about the evil he has enabled now to maximize his fundraising.   \n\nVote Phil Weiser for governor.",
+          "likeCount": 0
+        }
+      ],
+      "repliesCollected": 4,
+      "replyCount": 4
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+[
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 0.0,
+    "samples": 500,
+    "prompt_id": "lottery_mapping",
+    "unique_answers": 1,
+    "entropy_nats": 0.0,
+    "top_answers": [
+      [
+        "wednesday",
+        500
+      ]
+    ],
+    "kl_to_uniform": 1.9459101490553132,
+    "tv_to_uniform": 0.8571428571428572
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 0.5,
+    "samples": 500,
+    "prompt_id": "lottery_mapping",
+    "unique_answers": 2,
+    "entropy_nats": 0.046594424222104566,
+    "top_answers": [
+      [
+        "wednesday",
+        496
+      ],
+      [
+        "thursday",
+        4
+      ]
+    ],
+    "kl_to_uniform": 1.8993157248332087,
+    "tv_to_uniform": 0.8491428571428572
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 1.0,
+    "samples": 500,
+    "prompt_id": "lottery_mapping",
+    "unique_answers": 2,
+    "entropy_nats": 0.35067649762003944,
+    "top_answers": [
+      [
+        "wednesday",
+        444
+      ],
+      [
+        "thursday",
+        56
+      ]
+    ],
+    "kl_to_uniform": 1.5952336514352738,
+    "tv_to_uniform": 0.7451428571428571
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 1.5,
+    "samples": 500,
+    "prompt_id": "lottery_mapping",
+    "unique_answers": 2,
+    "entropy_nats": 0.5269079614313803,
+    "top_answers": [
+      [
+        "wednesday",
+        390
+      ],
+      [
+        "thursday",
+        110
+      ]
+    ],
+    "kl_to_uniform": 1.4190021876239332,
+    "tv_to_uniform": 0.7142857142857143
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 2.0,
+    "samples": 500,
+    "prompt_id": "lottery_mapping",
+    "unique_answers": 2,
+    "entropy_nats": 0.5929533174474745,
+    "top_answers": [
+      [
+        "wednesday",
+        360
+      ],
+      [
+        "thursday",
+        140
+      ]
+    ],
+    "kl_to_uniform": 1.3529568316078389,
+    "tv_to_uniform": 0.7142857142857143
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 3.0,
+    "samples": 500,
+    "prompt_id": "lottery_mapping",
+    "unique_answers": 2,
+    "entropy_nats": 0.6578826606351565,
+    "top_answers": [
+      [
+        "wednesday",
+        316
+      ],
+      [
+        "thursday",
+        184
+      ]
+    ],
+    "kl_to_uniform": 1.2880274884201568,
+    "tv_to_uniform": 0.7142857142857143
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 4.0,
+    "samples": 500,
+    "prompt_id": "lottery_mapping",
+    "unique_answers": 2,
+    "entropy_nats": 0.6567924418440357,
+    "top_answers": [
+      [
+        "wednesday",
+        317
+      ],
+      [
+        "thursday",
+        183
+      ]
+    ],
+    "kl_to_uniform": 1.2891177072112776,
+    "tv_to_uniform": 0.7142857142857143
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 5.0,
+    "samples": 500,
+    "prompt_id": "lottery_mapping",
+    "unique_answers": 2,
+    "entropy_nats": 0.6713564357727346,
+    "top_answers": [
+      [
+        "wednesday",
+        302
+      ],
+      [
+        "thursday",
+        198
+      ]
+    ],
+    "kl_to_uniform": 1.2745537132825786,
+    "tv_to_uniform": 0.7142857142857143
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 7.5,
+    "samples": 500,
+    "prompt_id": "lottery_mapping",
+    "unique_answers": 2,
+    "entropy_nats": 0.6687480868518094,
+    "top_answers": [
+      [
+        "wednesday",
+        305
+      ],
+      [
+        "thursday",
+        195
+      ]
+    ],
+    "kl_to_uniform": 1.277162062203504,
+    "tv_to_uniform": 0.7142857142857143
+  },
+  {
+    "task": "day",
+    "model": "qwen2.5:7b",
+    "temperature": 10.0,
+    "samples": 500,
+    "prompt_id": "lottery_mapping",
+    "unique_answers": 2,
+    "entropy_nats": 0.690833395474842,
+    "top_answers": [
+      [
+        "wednesday",
+        267
+      ],
+      [
+        "thursday",
+        233
+      ]
+    ],
+    "kl_to_uniform": 1.2550767535804714,
+    "tv_to_uniform": 0.7142857142857143
+  }
+]

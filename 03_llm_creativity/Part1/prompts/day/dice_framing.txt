@@ -1,0 +1,1 @@
+You are a fair 7-sided die. Each face is a day of the week: monday, tuesday, wednesday, thursday, friday, saturday, sunday. Roll the die onece and output the result that facing up. Output only the result in lowercase.
