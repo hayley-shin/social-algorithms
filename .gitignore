@@ -1,1 +1,45 @@
+# macOS
 .DS_Store
+
+# Python cache
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Judge cache
+.judge_cache.json
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python environments
+.env
+.envrc
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Type checking / linting
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+
+# IDE / editor
+.vscode/
+.idea/
